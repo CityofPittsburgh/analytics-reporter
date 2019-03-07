@@ -1,10 +1,9 @@
- [![Code Climate](https://codeclimate.com/github/18F/analytics-reporter/badges/gpa.svg)](https://codeclimate.com/github/18F/analytics-reporter) [![CircleCI](https://circleci.com/gh/18F/analytics.usa.gov.svg?style=shield)](https://circleci.com/gh/18F/analytics.usa.gov)  [![Dependency Status](https://gemnasium.com/badges/github.com/18F/analytics-reporter.svg)](https://gemnasium.com/github.com/18F/analytics-reporter)
-
 ## Analytics Reporter
 
 A lightweight system for publishing analytics data from Google Analytics profiles. Uses the [Google Analytics Core Reporting API v3](https://developers.google.com/analytics/devguides/reporting/core/v3/) and the [Google Analytics Real Time API v3](https://developers.google.com/analytics/devguides/reporting/realtime/v3/).
 
-This is used in combination with [18F/analytics.usa.gov](https://github.com/18F/analytics.usa.gov) to power the government analytics hub, [analytics.usa.gov](https://analytics.usa.gov).
+This project is built on top of 18F's [`analytics-reporter`](https://github.com/18F/analytics-reporter) tool.
+It's used in combination with [CityofPittsburgh/analytics.pittsburghpa.gov](https://github.com/CityofPittsburgh/analytics.pittsburghpa.gov) to power Pittsburgh's analytics hub, [analytics.pittsburghpa.gov](https://analytics.pittsburghpa.gov).
 
 Available reports are named and described in [`reports.json`](reports/reports.json). For now, they're hardcoded into the repository.
 
@@ -291,35 +290,7 @@ server that consumes this data.
 To write reports to a database, use the `--write-to-database` option when
 starting the reporter.
 
-### Deploying to GovCloud
 
-The analytics reporter runs on :cloud:.gov. Please refer to the `manifest.yml`
-file at the root of the repository for application information.
-
-Ensure you're targeting the proper `org` and `space`.
-
-```shell
-cf target
-```
-
-Deploy the application with the following command.
-
-```shell
-cf push -f manifest.yml
-```
-
-Set the environmental variables based on local `.env` file.
-
-```shell
-cf set-env analytics-reporter AWS_ACCESS_KEY_ID 123abc
-cf set-env analytics-reporter AWS_SECRET_ACCESS_KEY 456def
-# ...
-```
-
-Restage the application to use the environment variables.
-
-```shell
-cf restage analytics-reporter
 ```
 
 ### Developing with Docker
