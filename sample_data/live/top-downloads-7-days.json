@@ -1,0 +1,32 @@
+{
+  "name": "top-downloads-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:pageTitle,ga:eventLabel,ga:pagePath",
+    "metrics": [
+      "ga:totalEvents"
+    ],
+    "sort": [
+      "-ga:totalEvents"
+    ],
+    "filters": "ga:eventAction=~ownload",
+    "start-index": 1,
+    "max-results": 100,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Downloads (7 Days)",
+    "description": "Top downloads in the last 7 days."
+  },
+  "data": [
+    {
+      "page_title": "Public Works - Volunteer Applications | pittsburghpa.gov",
+      "event_label": "/dpw/volunteer-apps/",
+      "page": "/dpw/volunteer-apps/?title=volunteer-apps",
+      "total_events": "1"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-11T17:45:56.494Z"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "top-cities-realtime",
+  "query": {
+    "dimensions": "rt:city",
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Top Cities (Live)",
+    "description": "Top cities for active onsite users."
+  },
+  "data": [
+    {
+      "city": "Pittsburgh",
+      "active_visitors": "11"
+    },
+    {
+      "city": "Cheyenne",
+      "active_visitors": "2"
+    },
+    {
+      "city": "Philadelphia",
+      "active_visitors": "2"
+    },
+    {
+      "city": "Scott Township",
+      "active_visitors": "2"
+    },
+    {
+      "city": "Wexford",
+      "active_visitors": "2"
+    },
+    {
+      "city": "Ann Arbor",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Chicago",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Eighty Four",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Irwin",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Jefferson Hills",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Lexington",
+      "active_visitors": "1"
+    },
+    {
+      "city": "McKeesport",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Mount Lebanon",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Murrysville",
+      "active_visitors": "1"
+    },
+    {
+      "city": "New Castle",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Park Forest Village",
+      "active_visitors": "1"
+    },
+    {
+      "city": "San Antonio",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Seattle",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Shanksville",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Syracuse",
+      "active_visitors": "1"
+    },
+    {
+      "city": "Washington",
+      "active_visitors": "1"
+    },
+    {
+      "city": "West Mifflin",
+      "active_visitors": "1"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-11T17:45:51.407Z"
+}

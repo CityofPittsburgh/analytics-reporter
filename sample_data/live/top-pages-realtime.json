@@ -1,0 +1,121 @@
+{
+  "name": "top-pages-realtime",
+  "query": {
+    "dimensions": "rt:pagePath,rt:pageTitle",
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 20
+  },
+  "meta": {
+    "name": "Top Pages (Live)",
+    "description": "The top 20 pages, measured by active onsite users, for all sites."
+  },
+  "data": [
+    {
+      "page": "/council/d5",
+      "page_title": "Corey O'Connor - District 5, News from the Community and Initiatives, Features, check out HirePgh we would like your Feedback | pittsburghpa.gov",
+      "active_visitors": "3"
+    },
+    {
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "active_visitors": "2"
+    },
+    {
+      "page": "/citiparks/oliver-bath-house",
+      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
+      "active_visitors": "2"
+    },
+    {
+      "page": "/finance/taxes/tax-forms.html",
+      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
+      "active_visitors": "2"
+    },
+    {
+      "page": "/pli/licenses",
+      "page_title": "Licenses | pittsburghpa.gov",
+      "active_visitors": "2"
+    },
+    {
+      "page": "/police/",
+      "page_title": "Pittsburgh Bureau of Police - Police Zones, Branches, Memorial, Resources, Interactive Violence Statistics, Community Policing, Annual Reports",
+      "active_visitors": "2"
+    },
+    {
+      "page": "/bac/eorc",
+      "page_title": "Equal Opportunity Review Commission (EORC) | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/chr/education-resources",
+      "page_title": "Commission on Human Relations Commission Education & Resources | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/chr/index.html",
+      "page_title": "Commission on Human Relations - AFFH Taskforce, Commission Meetings, Our Staff, Education and Resources, Contact the PghCHR",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/city-info/press-release-archive",
+      "page_title": "City Press Release Archive | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/council/d2-contacts",
+      "page_title": "Theresa Kail-Smith - District 2 - Contacts | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/dcp/",
+      "page_title": "City Planning - Planning Projects, Programs, BuildingEye app, Zoning & Development, GIS department.",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/dcp/zoning",
+      "page_title": "Zoning and Development Review Division | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/dpw/collection-schedule",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/dpw/environmental-services/bulky-waste.html",
+      "page_title": "Public Works - Bulky Waste | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/events/eventapp",
+      "page_title": "EVENTAPP - Permits for events | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/finance/new-bus-reg",
+      "page_title": "New Business Registration | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/finance/tax-faqs",
+      "page_title": "Tax FAQs | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/gec/gec-commissioners",
+      "page_title": "Meet Our Commissioners | pittsburghpa.gov",
+      "active_visitors": "1"
+    },
+    {
+      "page": "/humanresources/club-memberships",
+      "page_title": "Cityfit Health Club Memberships | pittsburghpa.gov",
+      "active_visitors": "1"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-11T17:45:35.378Z"
+}

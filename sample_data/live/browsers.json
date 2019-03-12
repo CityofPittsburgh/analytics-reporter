@@ -1,0 +1,6304 @@
+{
+  "name": "browsers",
+  "query": {
+    "start-date": "90daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:date,ga:browser",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "sort": [
+      "ga:date",
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 10000,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Browsers",
+    "description": "90 days of visits broken down by browser for all sites."
+  },
+  "data": [
+    {
+      "date": "2018-12-11",
+      "browser": "Chrome",
+      "visits": "1916"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Safari",
+      "visits": "904"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Internet Explorer",
+      "visits": "360"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Safari (in-app)",
+      "visits": "257"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Edge",
+      "visits": "161"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Firefox",
+      "visits": "128"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Android Webview",
+      "visits": "126"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Samsung Internet",
+      "visits": "41"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Amazon Silk",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "UC Browser",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Opera",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-11",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Chrome",
+      "visits": "1845"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Safari",
+      "visits": "823"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Internet Explorer",
+      "visits": "270"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Safari (in-app)",
+      "visits": "152"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Edge",
+      "visits": "149"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Firefox",
+      "visits": "113"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Android Webview",
+      "visits": "77"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Samsung Internet",
+      "visits": "31"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "UC Browser",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Amazon Silk",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "Playstation Vita Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-12",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Chrome",
+      "visits": "1762"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Safari",
+      "visits": "784"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Internet Explorer",
+      "visits": "274"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Safari (in-app)",
+      "visits": "201"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Edge",
+      "visits": "135"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Firefox",
+      "visits": "117"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Android Webview",
+      "visits": "90"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Samsung Internet",
+      "visits": "33"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Instagram 70.1.0.15.98",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-13",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Chrome",
+      "visits": "1749"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Safari",
+      "visits": "868"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Internet Explorer",
+      "visits": "272"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Safari (in-app)",
+      "visits": "239"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Edge",
+      "visits": "146"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Android Webview",
+      "visits": "130"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Firefox",
+      "visits": "119"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Samsung Internet",
+      "visits": "40"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Opera",
+      "visits": "7"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "HggH PhantomJS Screenshoter",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-14",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Safari",
+      "visits": "729"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Chrome",
+      "visits": "716"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Android Webview",
+      "visits": "199"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Safari (in-app)",
+      "visits": "196"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Firefox",
+      "visits": "69"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Edge",
+      "visits": "60"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Samsung Internet",
+      "visits": "47"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Internet Explorer",
+      "visits": "42"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Opera",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-15",
+      "browser": "e.ventures Investment Crawler",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Chrome",
+      "visits": "854"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Safari",
+      "visits": "853"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Safari (in-app)",
+      "visits": "199"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Android Webview",
+      "visits": "174"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Firefox",
+      "visits": "76"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Edge",
+      "visits": "69"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Internet Explorer",
+      "visits": "35"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Samsung Internet",
+      "visits": "33"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-16",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Chrome",
+      "visits": "2319"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Safari",
+      "visits": "1040"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Safari (in-app)",
+      "visits": "723"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Internet Explorer",
+      "visits": "516"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Android Webview",
+      "visits": "379"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Edge",
+      "visits": "173"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Firefox",
+      "visits": "146"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Samsung Internet",
+      "visits": "67"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Opera",
+      "visits": "12"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "'Mozilla",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Amazon Silk",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "(not set)",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-17",
+      "browser": "Maxthon",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Chrome",
+      "visits": "2179"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Safari",
+      "visits": "1082"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Internet Explorer",
+      "visits": "372"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Safari (in-app)",
+      "visits": "260"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Android Webview",
+      "visits": "157"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Firefox",
+      "visits": "154"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Edge",
+      "visits": "150"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Samsung Internet",
+      "visits": "43"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Amazon Silk",
+      "visits": "14"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "Opera",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-18",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Chrome",
+      "visits": "1978"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Safari",
+      "visits": "964"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Internet Explorer",
+      "visits": "285"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Firefox",
+      "visits": "166"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Safari (in-app)",
+      "visits": "165"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Edge",
+      "visits": "159"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Android Webview",
+      "visits": "83"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Samsung Internet",
+      "visits": "33"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Amazon Silk",
+      "visits": "14"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-19",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Chrome",
+      "visits": "1560"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Safari",
+      "visits": "791"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Internet Explorer",
+      "visits": "272"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Edge",
+      "visits": "145"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Firefox",
+      "visits": "97"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Safari (in-app)",
+      "visits": "56"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Samsung Internet",
+      "visits": "38"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Android Webview",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-20",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Chrome",
+      "visits": "1363"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Safari",
+      "visits": "698"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Internet Explorer",
+      "visits": "225"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Firefox",
+      "visits": "105"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Edge",
+      "visits": "97"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Safari (in-app)",
+      "visits": "74"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Android Webview",
+      "visits": "22"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Samsung Internet",
+      "visits": "15"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Amazon Silk",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-21",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Safari",
+      "visits": "684"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Chrome",
+      "visits": "598"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Firefox",
+      "visits": "51"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Internet Explorer",
+      "visits": "51"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Edge",
+      "visits": "47"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Safari (in-app)",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Android Webview",
+      "visits": "27"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Samsung Internet",
+      "visits": "19"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Opera",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "UC Browser",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-22",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Safari",
+      "visits": "840"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Chrome",
+      "visits": "758"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Safari (in-app)",
+      "visits": "47"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Edge",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Firefox",
+      "visits": "32"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Internet Explorer",
+      "visits": "30"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Samsung Internet",
+      "visits": "29"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Android Webview",
+      "visits": "19"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Amazon Silk",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Coc Coc",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-23",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Chrome",
+      "visits": "818"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Safari",
+      "visits": "665"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Internet Explorer",
+      "visits": "85"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Edge",
+      "visits": "65"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Safari (in-app)",
+      "visits": "59"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Firefox",
+      "visits": "45"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Samsung Internet",
+      "visits": "31"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Android Webview",
+      "visits": "20"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Android Browser",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "Opera Mini",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-24",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Safari",
+      "visits": "808"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Chrome",
+      "visits": "616"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Firefox",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Samsung Internet",
+      "visits": "36"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Internet Explorer",
+      "visits": "34"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Edge",
+      "visits": "30"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Safari (in-app)",
+      "visits": "20"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Android Webview",
+      "visits": "11"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-25",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Chrome",
+      "visits": "1691"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Safari",
+      "visits": "1448"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Internet Explorer",
+      "visits": "199"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Safari (in-app)",
+      "visits": "138"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Edge",
+      "visits": "109"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Firefox",
+      "visits": "106"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Android Webview",
+      "visits": "85"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Samsung Internet",
+      "visits": "51"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-26",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Chrome",
+      "visits": "1782"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Safari",
+      "visits": "1444"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Internet Explorer",
+      "visits": "238"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Edge",
+      "visits": "153"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Firefox",
+      "visits": "108"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Safari (in-app)",
+      "visits": "78"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Android Webview",
+      "visits": "60"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Samsung Internet",
+      "visits": "36"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-27",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Chrome",
+      "visits": "1588"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Safari",
+      "visits": "1243"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Internet Explorer",
+      "visits": "246"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Edge",
+      "visits": "106"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Firefox",
+      "visits": "96"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Safari (in-app)",
+      "visits": "53"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Android Webview",
+      "visits": "38"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "'Mozilla",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-28",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Safari",
+      "visits": "995"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Chrome",
+      "visits": "780"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Internet Explorer",
+      "visits": "60"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Firefox",
+      "visits": "57"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Edge",
+      "visits": "47"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Samsung Internet",
+      "visits": "44"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Android Webview",
+      "visits": "17"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Safari (in-app)",
+      "visits": "16"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-29",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Safari",
+      "visits": "1126"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Chrome",
+      "visits": "882"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Safari (in-app)",
+      "visits": "227"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Internet Explorer",
+      "visits": "216"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Android Webview",
+      "visits": "91"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Edge",
+      "visits": "73"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Firefox",
+      "visits": "59"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Samsung Internet",
+      "visits": "59"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Maxthon",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-30",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Chrome",
+      "visits": "1171"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Safari",
+      "visits": "905"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Internet Explorer",
+      "visits": "254"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Edge",
+      "visits": "112"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Safari (in-app)",
+      "visits": "78"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Firefox",
+      "visits": "77"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Samsung Internet",
+      "visits": "41"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Android Webview",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-31",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Safari",
+      "visits": "1307"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Chrome",
+      "visits": "1120"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Edge",
+      "visits": "84"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Firefox",
+      "visits": "66"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Samsung Internet",
+      "visits": "56"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Internet Explorer",
+      "visits": "54"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Android Webview",
+      "visits": "32"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Safari (in-app)",
+      "visits": "22"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "LinkKiosk",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-01",
+      "browser": "Seznam",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Chrome",
+      "visits": "2543"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Safari",
+      "visits": "1485"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Internet Explorer",
+      "visits": "365"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Edge",
+      "visits": "199"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Firefox",
+      "visits": "176"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Safari (in-app)",
+      "visits": "68"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Samsung Internet",
+      "visits": "55"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Android Webview",
+      "visits": "34"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-02",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Chrome",
+      "visits": "2597"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Safari",
+      "visits": "1389"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Internet Explorer",
+      "visits": "355"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Edge",
+      "visits": "172"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Firefox",
+      "visits": "166"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Safari (in-app)",
+      "visits": "88"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Samsung Internet",
+      "visits": "50"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Android Webview",
+      "visits": "36"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-03",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Chrome",
+      "visits": "2126"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Safari",
+      "visits": "1249"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Internet Explorer",
+      "visits": "424"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Edge",
+      "visits": "183"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Firefox",
+      "visits": "167"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Samsung Internet",
+      "visits": "68"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Safari (in-app)",
+      "visits": "60"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Android Webview",
+      "visits": "26"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-04",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Safari",
+      "visits": "1188"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Chrome",
+      "visits": "933"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Internet Explorer",
+      "visits": "150"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Firefox",
+      "visits": "74"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Edge",
+      "visits": "72"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Samsung Internet",
+      "visits": "49"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Safari (in-app)",
+      "visits": "20"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Android Webview",
+      "visits": "16"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-05",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Safari",
+      "visits": "1179"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Chrome",
+      "visits": "1006"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Internet Explorer",
+      "visits": "85"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Edge",
+      "visits": "77"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Samsung Internet",
+      "visits": "59"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Firefox",
+      "visits": "56"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Safari (in-app)",
+      "visits": "22"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Android Webview",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-06",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Chrome",
+      "visits": "2672"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Safari",
+      "visits": "1246"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Internet Explorer",
+      "visits": "403"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Edge",
+      "visits": "235"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Firefox",
+      "visits": "199"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Safari (in-app)",
+      "visits": "67"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Samsung Internet",
+      "visits": "48"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Android Webview",
+      "visits": "34"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Amazon Silk",
+      "visits": "18"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-07",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Chrome",
+      "visits": "2355"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Safari",
+      "visits": "1237"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Internet Explorer",
+      "visits": "484"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Firefox",
+      "visits": "197"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Edge",
+      "visits": "183"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Safari (in-app)",
+      "visits": "64"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Samsung Internet",
+      "visits": "51"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Android Webview",
+      "visits": "37"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-08",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Chrome",
+      "visits": "2372"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Safari",
+      "visits": "1280"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Internet Explorer",
+      "visits": "421"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Edge",
+      "visits": "201"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Firefox",
+      "visits": "173"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Safari (in-app)",
+      "visits": "132"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Android Webview",
+      "visits": "98"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Samsung Internet",
+      "visits": "47"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-09",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Chrome",
+      "visits": "2375"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Safari",
+      "visits": "1202"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Internet Explorer",
+      "visits": "336"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Edge",
+      "visits": "181"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Firefox",
+      "visits": "165"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Safari (in-app)",
+      "visits": "111"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Android Webview",
+      "visits": "66"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Amazon Silk",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-10",
+      "browser": "Playstation 3",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Chrome",
+      "visits": "1886"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Safari",
+      "visits": "993"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Internet Explorer",
+      "visits": "289"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Firefox",
+      "visits": "155"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Edge",
+      "visits": "147"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Safari (in-app)",
+      "visits": "105"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Android Webview",
+      "visits": "61"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Samsung Internet",
+      "visits": "47"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "'Mozilla",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Android Browser",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-11",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Safari",
+      "visits": "1295"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Chrome",
+      "visits": "1089"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Firefox",
+      "visits": "99"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Internet Explorer",
+      "visits": "82"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Safari (in-app)",
+      "visits": "82"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Android Webview",
+      "visits": "80"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Edge",
+      "visits": "79"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Samsung Internet",
+      "visits": "47"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-12",
+      "browser": "e.ventures Investment Crawler",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Safari",
+      "visits": "1182"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Chrome",
+      "visits": "1072"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Firefox",
+      "visits": "86"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Edge",
+      "visits": "78"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Internet Explorer",
+      "visits": "58"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Safari (in-app)",
+      "visits": "54"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Samsung Internet",
+      "visits": "49"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Android Webview",
+      "visits": "28"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Amazon Silk",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-13",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Chrome",
+      "visits": "2437"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Safari",
+      "visits": "1147"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Internet Explorer",
+      "visits": "368"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Edge",
+      "visits": "179"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Firefox",
+      "visits": "161"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Safari (in-app)",
+      "visits": "73"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Samsung Internet",
+      "visits": "50"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Android Webview",
+      "visits": "43"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-14",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Chrome",
+      "visits": "2410"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Safari",
+      "visits": "1277"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Internet Explorer",
+      "visits": "377"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Safari (in-app)",
+      "visits": "263"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Edge",
+      "visits": "179"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Firefox",
+      "visits": "165"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Android Webview",
+      "visits": "113"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Opera",
+      "visits": "9"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-15",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Chrome",
+      "visits": "2439"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Safari",
+      "visits": "1073"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Internet Explorer",
+      "visits": "395"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Firefox",
+      "visits": "199"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Edge",
+      "visits": "174"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Safari (in-app)",
+      "visits": "148"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Android Webview",
+      "visits": "84"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Opera",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-16",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Chrome",
+      "visits": "2267"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Safari",
+      "visits": "1084"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Internet Explorer",
+      "visits": "390"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Edge",
+      "visits": "194"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Firefox",
+      "visits": "158"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Safari (in-app)",
+      "visits": "141"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Android Webview",
+      "visits": "69"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "UC Browser",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-17",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Chrome",
+      "visits": "2250"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Safari",
+      "visits": "1084"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Safari (in-app)",
+      "visits": "520"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Android Webview",
+      "visits": "298"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Internet Explorer",
+      "visits": "272"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Edge",
+      "visits": "184"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Firefox",
+      "visits": "163"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "'Mozilla",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-18",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Chrome",
+      "visits": "1056"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Safari",
+      "visits": "1008"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Safari (in-app)",
+      "visits": "139"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Android Webview",
+      "visits": "106"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Edge",
+      "visits": "98"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Internet Explorer",
+      "visits": "88"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Firefox",
+      "visits": "86"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Samsung Internet",
+      "visits": "62"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Opera Mini",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Playstation 3",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-19",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Safari",
+      "visits": "1911"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Chrome",
+      "visits": "1686"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Edge",
+      "visits": "139"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Firefox",
+      "visits": "111"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Samsung Internet",
+      "visits": "99"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Internet Explorer",
+      "visits": "90"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Android Webview",
+      "visits": "64"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Safari (in-app)",
+      "visits": "40"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Opera",
+      "visits": "7"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-20",
+      "browser": "Playstation 3",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Chrome",
+      "visits": "1960"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Safari",
+      "visits": "1542"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Internet Explorer",
+      "visits": "214"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Edge",
+      "visits": "147"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Firefox",
+      "visits": "147"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Samsung Internet",
+      "visits": "87"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Android Webview",
+      "visits": "45"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Safari (in-app)",
+      "visits": "36"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Amazon Silk",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Opera",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-21",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Chrome",
+      "visits": "2684"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Safari",
+      "visits": "1406"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Internet Explorer",
+      "visits": "485"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Edge",
+      "visits": "226"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Firefox",
+      "visits": "222"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Safari (in-app)",
+      "visits": "102"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Samsung Internet",
+      "visits": "82"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Android Webview",
+      "visits": "61"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "12"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "UC Browser",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Chrome",
+      "visits": "2550"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Safari",
+      "visits": "1335"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Internet Explorer",
+      "visits": "367"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Edge",
+      "visits": "188"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Firefox",
+      "visits": "169"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Safari (in-app)",
+      "visits": "106"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Samsung Internet",
+      "visits": "64"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Android Webview",
+      "visits": "59"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Opera",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-23",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Chrome",
+      "visits": "2432"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Safari",
+      "visits": "1348"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Internet Explorer",
+      "visits": "347"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Firefox",
+      "visits": "196"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Edge",
+      "visits": "193"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Safari (in-app)",
+      "visits": "92"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Android Webview",
+      "visits": "67"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Amazon Silk",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "'Mozilla",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-24",
+      "browser": "Opera Mini",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Chrome",
+      "visits": "2004"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Safari",
+      "visits": "940"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Internet Explorer",
+      "visits": "340"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Edge",
+      "visits": "145"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Firefox",
+      "visits": "134"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Safari (in-app)",
+      "visits": "66"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Android Webview",
+      "visits": "27"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Android Browser",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "'Mozilla",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-25",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Chrome",
+      "visits": "938"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Safari",
+      "visits": "904"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Firefox",
+      "visits": "75"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Internet Explorer",
+      "visits": "75"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Edge",
+      "visits": "54"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Safari (in-app)",
+      "visits": "18"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Android Webview",
+      "visits": "16"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "'Mozilla",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-26",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Chrome",
+      "visits": "1015"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Safari",
+      "visits": "911"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Edge",
+      "visits": "89"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Firefox",
+      "visits": "72"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Internet Explorer",
+      "visits": "72"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Samsung Internet",
+      "visits": "43"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Android Webview",
+      "visits": "32"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Safari (in-app)",
+      "visits": "30"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Coc Coc",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-27",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Chrome",
+      "visits": "2324"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Safari",
+      "visits": "1035"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Internet Explorer",
+      "visits": "344"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Edge",
+      "visits": "219"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Firefox",
+      "visits": "198"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Safari (in-app)",
+      "visits": "70"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Samsung Internet",
+      "visits": "55"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Android Webview",
+      "visits": "21"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "'Mozilla",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "YaBrowser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-28",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Chrome",
+      "visits": "2539"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Safari",
+      "visits": "1224"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Safari (in-app)",
+      "visits": "833"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Android Webview",
+      "visits": "526"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Internet Explorer",
+      "visits": "345"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Edge",
+      "visits": "215"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Firefox",
+      "visits": "208"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Samsung Internet",
+      "visits": "56"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Opera",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Maxthon",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "[FBAN",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser": "no-ua",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Chrome",
+      "visits": "2602"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Safari",
+      "visits": "1440"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Internet Explorer",
+      "visits": "484"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Safari (in-app)",
+      "visits": "247"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Edge",
+      "visits": "213"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Firefox",
+      "visits": "198"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Android Webview",
+      "visits": "189"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Samsung Internet",
+      "visits": "90"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Amazon Silk",
+      "visits": "21"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Opera",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Chrome",
+      "visits": "2123"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Safari",
+      "visits": "1154"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Internet Explorer",
+      "visits": "393"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Edge",
+      "visits": "209"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Firefox",
+      "visits": "172"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Safari (in-app)",
+      "visits": "97"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Android Webview",
+      "visits": "61"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Samsung Internet",
+      "visits": "59"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Amazon Silk",
+      "visits": "15"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Opera",
+      "visits": "7"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Android Browser",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "UC Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-31",
+      "browser": "Playstation Vita Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Chrome",
+      "visits": "2482"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Safari",
+      "visits": "1353"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Internet Explorer",
+      "visits": "369"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Firefox",
+      "visits": "225"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Edge",
+      "visits": "162"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Safari (in-app)",
+      "visits": "146"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Android Webview",
+      "visits": "72"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Samsung Internet",
+      "visits": "56"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "[FBAN",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-01",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Safari",
+      "visits": "943"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Chrome",
+      "visits": "880"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Firefox",
+      "visits": "80"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Edge",
+      "visits": "79"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Internet Explorer",
+      "visits": "74"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Samsung Internet",
+      "visits": "42"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Safari (in-app)",
+      "visits": "23"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Android Webview",
+      "visits": "19"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "'Mozilla",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-02",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Chrome",
+      "visits": "849"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Safari",
+      "visits": "757"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Internet Explorer",
+      "visits": "293"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Edge",
+      "visits": "65"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Firefox",
+      "visits": "64"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Samsung Internet",
+      "visits": "51"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Android Webview",
+      "visits": "20"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Safari (in-app)",
+      "visits": "18"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "'Mozilla",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-03",
+      "browser": "Opera",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Chrome",
+      "visits": "2393"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Safari",
+      "visits": "1246"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Internet Explorer",
+      "visits": "652"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Safari (in-app)",
+      "visits": "507"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Android Webview",
+      "visits": "249"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Edge",
+      "visits": "199"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Firefox",
+      "visits": "187"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Samsung Internet",
+      "visits": "60"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "(not set)",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "'Mozilla",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "Instagram 77.1.0.8.113",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-04",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Safari",
+      "visits": "6664"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Chrome",
+      "visits": "3592"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Internet Explorer",
+      "visits": "631"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Firefox",
+      "visits": "369"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Edge",
+      "visits": "363"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Safari (in-app)",
+      "visits": "263"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Android Webview",
+      "visits": "138"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Samsung Internet",
+      "visits": "101"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "'Mozilla",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Opera",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "BlackBerry",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-05",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Chrome",
+      "visits": "2555"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Safari",
+      "visits": "1576"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Internet Explorer",
+      "visits": "386"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Edge",
+      "visits": "211"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Firefox",
+      "visits": "184"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Safari (in-app)",
+      "visits": "129"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Samsung Internet",
+      "visits": "53"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Android Webview",
+      "visits": "50"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-06",
+      "browser": "[FBAN",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Chrome",
+      "visits": "2354"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Safari",
+      "visits": "1314"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Internet Explorer",
+      "visits": "376"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Edge",
+      "visits": "196"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Firefox",
+      "visits": "168"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Safari (in-app)",
+      "visits": "130"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Android Webview",
+      "visits": "59"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Samsung Internet",
+      "visits": "56"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-07",
+      "browser": "UCWEB",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Chrome",
+      "visits": "2241"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Safari",
+      "visits": "1087"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Internet Explorer",
+      "visits": "640"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Edge",
+      "visits": "178"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Firefox",
+      "visits": "148"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Safari (in-app)",
+      "visits": "147"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Android Webview",
+      "visits": "144"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Samsung Internet",
+      "visits": "73"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-08",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Chrome",
+      "visits": "976"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Safari",
+      "visits": "945"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Internet Explorer",
+      "visits": "196"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Edge",
+      "visits": "73"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Firefox",
+      "visits": "61"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Android Webview",
+      "visits": "55"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Samsung Internet",
+      "visits": "53"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Safari (in-app)",
+      "visits": "45"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-09",
+      "browser": "Nintendo Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Chrome",
+      "visits": "1909"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Safari",
+      "visits": "1901"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Safari (in-app)",
+      "visits": "215"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Android Webview",
+      "visits": "154"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Firefox",
+      "visits": "133"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Edge",
+      "visits": "131"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Internet Explorer",
+      "visits": "110"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Samsung Internet",
+      "visits": "101"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Amazon Silk",
+      "visits": "28"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-10",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Chrome",
+      "visits": "3069"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Safari",
+      "visits": "1767"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Internet Explorer",
+      "visits": "446"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Firefox",
+      "visits": "228"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Edge",
+      "visits": "221"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Safari (in-app)",
+      "visits": "166"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Android Webview",
+      "visits": "103"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Samsung Internet",
+      "visits": "67"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Amazon Silk",
+      "visits": "17"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Puffin",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "Mozilla",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "SeaMonkey",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-11",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Chrome",
+      "visits": "2511"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Safari",
+      "visits": "1178"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Internet Explorer",
+      "visits": "323"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Edge",
+      "visits": "256"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Safari (in-app)",
+      "visits": "208"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Firefox",
+      "visits": "191"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Android Webview",
+      "visits": "111"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Samsung Internet",
+      "visits": "53"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Amazon Silk",
+      "visits": "16"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-12",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Chrome",
+      "visits": "2401"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Safari",
+      "visits": "1084"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Internet Explorer",
+      "visits": "356"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Edge",
+      "visits": "181"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Firefox",
+      "visits": "181"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Safari (in-app)",
+      "visits": "119"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Android Webview",
+      "visits": "55"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Samsung Internet",
+      "visits": "51"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-13",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Chrome",
+      "visits": "2161"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Safari",
+      "visits": "1010"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Internet Explorer",
+      "visits": "334"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Edge",
+      "visits": "174"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Firefox",
+      "visits": "147"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Safari (in-app)",
+      "visits": "76"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Samsung Internet",
+      "visits": "47"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Android Webview",
+      "visits": "37"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "HggH PhantomJS Screenshoter",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-14",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Chrome",
+      "visits": "1837"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Safari",
+      "visits": "879"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Internet Explorer",
+      "visits": "322"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Edge",
+      "visits": "139"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Firefox",
+      "visits": "134"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Safari (in-app)",
+      "visits": "81"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Android Webview",
+      "visits": "26"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "(not set)",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-15",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Safari",
+      "visits": "864"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Chrome",
+      "visits": "816"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Edge",
+      "visits": "90"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Firefox",
+      "visits": "70"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Internet Explorer",
+      "visits": "56"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Samsung Internet",
+      "visits": "40"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Safari (in-app)",
+      "visits": "26"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Android Webview",
+      "visits": "15"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-16",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Chrome",
+      "visits": "1250"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Safari",
+      "visits": "1187"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Internet Explorer",
+      "visits": "347"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Edge",
+      "visits": "104"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Firefox",
+      "visits": "74"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Samsung Internet",
+      "visits": "66"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Safari (in-app)",
+      "visits": "24"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Android Webview",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-17",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Chrome",
+      "visits": "2494"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Safari",
+      "visits": "1398"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Internet Explorer",
+      "visits": "655"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Edge",
+      "visits": "198"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Firefox",
+      "visits": "159"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Safari (in-app)",
+      "visits": "93"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Samsung Internet",
+      "visits": "75"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Android Webview",
+      "visits": "60"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-18",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Chrome",
+      "visits": "2480"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Safari",
+      "visits": "1423"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Internet Explorer",
+      "visits": "433"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Safari (in-app)",
+      "visits": "282"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Edge",
+      "visits": "203"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Firefox",
+      "visits": "176"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Android Webview",
+      "visits": "142"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Samsung Internet",
+      "visits": "62"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Amazon Silk",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-19",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Chrome",
+      "visits": "3546"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Safari",
+      "visits": "2292"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Internet Explorer",
+      "visits": "441"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Firefox",
+      "visits": "323"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Edge",
+      "visits": "288"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Safari (in-app)",
+      "visits": "264"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Android Webview",
+      "visits": "188"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Samsung Internet",
+      "visits": "123"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Amazon Silk",
+      "visits": "24"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Opera",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-20",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Chrome",
+      "visits": "2630"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Safari",
+      "visits": "1479"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Safari (in-app)",
+      "visits": "497"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Internet Explorer",
+      "visits": "378"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Edge",
+      "visits": "220"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Android Webview",
+      "visits": "194"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Firefox",
+      "visits": "181"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Amazon Silk",
+      "visits": "17"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "'Mozilla",
+      "visits": "8"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-21",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Chrome",
+      "visits": "1901"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Safari",
+      "visits": "1035"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Internet Explorer",
+      "visits": "327"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Safari (in-app)",
+      "visits": "193"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Edge",
+      "visits": "163"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Firefox",
+      "visits": "144"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Android Webview",
+      "visits": "80"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Samsung Internet",
+      "visits": "53"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Amazon Silk",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-22",
+      "browser": "Playstation 4",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Safari",
+      "visits": "842"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Chrome",
+      "visits": "821"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Internet Explorer",
+      "visits": "66"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Firefox",
+      "visits": "64"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Edge",
+      "visits": "62"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Safari (in-app)",
+      "visits": "48"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Samsung Internet",
+      "visits": "35"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Android Webview",
+      "visits": "21"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "Puffin",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-23",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Chrome",
+      "visits": "941"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Safari",
+      "visits": "897"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Firefox",
+      "visits": "73"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Edge",
+      "visits": "71"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Internet Explorer",
+      "visits": "58"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Samsung Internet",
+      "visits": "32"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Android Webview",
+      "visits": "15"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Safari (in-app)",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Coc Coc",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-24",
+      "browser": "fuelbot",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Chrome",
+      "visits": "2365"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Safari",
+      "visits": "1107"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Internet Explorer",
+      "visits": "313"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Edge",
+      "visits": "184"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Firefox",
+      "visits": "143"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Safari (in-app)",
+      "visits": "59"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Samsung Internet",
+      "visits": "42"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Android Webview",
+      "visits": "33"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Opera",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Amazon Silk",
+      "visits": "8"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "'Mozilla",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-25",
+      "browser": "[FBAN",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Chrome",
+      "visits": "2402"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Safari",
+      "visits": "1071"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Internet Explorer",
+      "visits": "383"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Edge",
+      "visits": "216"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Firefox",
+      "visits": "176"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Safari (in-app)",
+      "visits": "97"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Android Webview",
+      "visits": "53"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Samsung Internet",
+      "visits": "51"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "8"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "(not set)",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-26",
+      "browser": "Playstation Vita Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Chrome",
+      "visits": "2340"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Safari",
+      "visits": "993"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Internet Explorer",
+      "visits": "367"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Edge",
+      "visits": "168"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Firefox",
+      "visits": "142"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Safari (in-app)",
+      "visits": "46"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Samsung Internet",
+      "visits": "46"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Android Webview",
+      "visits": "30"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-27",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Chrome",
+      "visits": "2248"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Safari",
+      "visits": "1061"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Internet Explorer",
+      "visits": "328"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Edge",
+      "visits": "173"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Firefox",
+      "visits": "164"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Safari (in-app)",
+      "visits": "92"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Android Webview",
+      "visits": "64"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Samsung Internet",
+      "visits": "52"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Amazon Silk",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Opera",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "(not set)",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-28",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Chrome",
+      "visits": "1975"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Safari",
+      "visits": "1013"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Internet Explorer",
+      "visits": "272"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Edge",
+      "visits": "140"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Firefox",
+      "visits": "130"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Safari (in-app)",
+      "visits": "99"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Android Webview",
+      "visits": "60"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Samsung Internet",
+      "visits": "40"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "7"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "Android Browser",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-01",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Chrome",
+      "visits": "940"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Safari",
+      "visits": "936"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Internet Explorer",
+      "visits": "83"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Edge",
+      "visits": "67"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Firefox",
+      "visits": "62"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Samsung Internet",
+      "visits": "35"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Safari (in-app)",
+      "visits": "33"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Android Webview",
+      "visits": "13"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Amazon Silk",
+      "visits": "7"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "Opera",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-02",
+      "browser": "YaBrowser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Chrome",
+      "visits": "1631"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Safari",
+      "visits": "1562"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Safari (in-app)",
+      "visits": "188"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Android Webview",
+      "visits": "125"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Edge",
+      "visits": "119"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Firefox",
+      "visits": "101"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Samsung Internet",
+      "visits": "98"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Internet Explorer",
+      "visits": "91"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Amazon Silk",
+      "visits": "23"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-03",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Chrome",
+      "visits": "2490"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Safari",
+      "visits": "1210"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Internet Explorer",
+      "visits": "629"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Edge",
+      "visits": "211"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Firefox",
+      "visits": "208"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Safari (in-app)",
+      "visits": "77"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Samsung Internet",
+      "visits": "50"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Android Webview",
+      "visits": "40"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Amazon Silk",
+      "visits": "13"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "'Mozilla",
+      "visits": "9"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "Opera",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "(not set)",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-04",
+      "browser": "BlackBerry",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Chrome",
+      "visits": "2375"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Safari",
+      "visits": "1039"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Internet Explorer",
+      "visits": "488"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Edge",
+      "visits": "198"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Firefox",
+      "visits": "167"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Safari (in-app)",
+      "visits": "75"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Samsung Internet",
+      "visits": "41"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Android Webview",
+      "visits": "38"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Opera",
+      "visits": "4"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "Amazon Silk",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "BLP_bbot",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-05",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Chrome",
+      "visits": "2325"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Safari",
+      "visits": "1067"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Internet Explorer",
+      "visits": "324"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Edge",
+      "visits": "184"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Firefox",
+      "visits": "176"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Samsung Internet",
+      "visits": "62"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Safari (in-app)",
+      "visits": "59"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Android Webview",
+      "visits": "22"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "UC Browser",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Amazon Silk",
+      "visits": "4"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Opera Mini",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-06",
+      "browser": "Playstation 4",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Chrome",
+      "visits": "2299"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Safari",
+      "visits": "985"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Internet Explorer",
+      "visits": "369"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Firefox",
+      "visits": "164"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Edge",
+      "visits": "154"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Safari (in-app)",
+      "visits": "48"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Samsung Internet",
+      "visits": "45"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Android Webview",
+      "visits": "39"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-07",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Chrome",
+      "visits": "1781"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Safari",
+      "visits": "952"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Internet Explorer",
+      "visits": "255"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Edge",
+      "visits": "156"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Firefox",
+      "visits": "131"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Safari (in-app)",
+      "visits": "45"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Samsung Internet",
+      "visits": "40"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Android Webview",
+      "visits": "31"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Amazon Silk",
+      "visits": "10"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "'Mozilla",
+      "visits": "9"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Opera",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "(not set)",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Bluebeam Revu Browser - cef version: 57.0.0.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "HggH PhantomJS Screenshoter",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Mozilla Compatible Agent",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser": "Opera Mini",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Safari",
+      "visits": "866"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Chrome",
+      "visits": "795"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Edge",
+      "visits": "67"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Firefox",
+      "visits": "62"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Internet Explorer",
+      "visits": "60"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Samsung Internet",
+      "visits": "38"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Safari (in-app)",
+      "visits": "17"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Android Webview",
+      "visits": "12"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Amazon Silk",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Opera",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-09",
+      "browser": "UC Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Chrome",
+      "visits": "946"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Safari",
+      "visits": "837"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Edge",
+      "visits": "79"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Firefox",
+      "visits": "48"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Internet Explorer",
+      "visits": "44"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Android Webview",
+      "visits": "43"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Safari (in-app)",
+      "visits": "43"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Samsung Internet",
+      "visits": "36"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Opera",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Amazon Silk",
+      "visits": "5"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "Android Browser",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-10",
+      "browser": "UC Browser",
+      "visits": "1"
+    }
+  ],
+  "totals": {
+    "visits": 351114,
+    "browser": {
+      "Chrome": 166788,
+      "Safari": 107569,
+      "Internet Explorer": 25563,
+      "Safari (in-app)": 11881,
+      "Edge": 13302,
+      "Firefox": 12209,
+      "Android Webview": 6942,
+      "Samsung Internet": 4708,
+      "Mozilla Compatible Agent": 327,
+      "Amazon Silk": 938,
+      "UC Browser": 69,
+      "(not set)": 61,
+      "Opera": 424,
+      "Opera Mini": 65,
+      "Playstation Vita Browser": 3,
+      "YaBrowser": 11,
+      "Instagram 70.1.0.15.98": 1,
+      "HggH PhantomJS Screenshoter": 5,
+      "Mozilla": 6,
+      "Android Browser": 64,
+      "SeaMonkey": 6,
+      "e.ventures Investment Crawler": 2,
+      "'Mozilla": 101,
+      "Maxthon": 3,
+      "Bluebeam Revu Browser - cef version: 57.0.0.0": 13,
+      "BlackBerry": 10,
+      "Coc Coc": 3,
+      "LinkKiosk": 1,
+      "Seznam": 1,
+      "Puffin": 12,
+      "Playstation 3": 4,
+      "Playstation 4": 10,
+      "[FBAN": 5,
+      "no-ua": 1,
+      "Instagram 77.1.0.8.113": 1,
+      "UCWEB": 1,
+      "Nintendo Browser": 1,
+      "fuelbot": 1,
+      "BLP_bbot": 2
+    }
+  },
+  "taken_at": "2019-03-11T17:45:28.665Z"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "top-domains-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (7 Days)",
+    "description": "Last week's top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "visits": "23443"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "visits": "1674"
+    },
+    {
+      "domain": "www.city.pittsburghpa.gov",
+      "visits": "27"
+    },
+    {
+      "domain": "pittsburghpa.local",
+      "visits": "8"
+    },
+    {
+      "domain": "portal.office.pittsburghpa.gov",
+      "visits": "4"
+    },
+    {
+      "domain": "webcache.googleusercontent.com",
+      "visits": "4"
+    },
+    {
+      "domain": "www.lic.pittsburghpa.gov",
+      "visits": "4"
+    },
+    {
+      "domain": "cityclerk.pittsburghpa.gov",
+      "visits": "2"
+    },
+    {
+      "domain": "pop.pittsburghpa.gov",
+      "visits": "2"
+    },
+    {
+      "domain": "web.archive.org",
+      "visits": "2"
+    },
+    {
+      "domain": "www.onepgh.pittsburghpa.gov",
+      "visits": "2"
+    },
+    {
+      "domain": "dns-admins.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "pghcitycareers.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "registration.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "securitycentermobile.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "webvpn.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "www.2ma.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "www.em.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "cla.pittsburghpa.gov",
+      "visits": "0"
+    },
+    {
+      "domain": "joinpghems.pittsburghpa.gov",
+      "visits": "0"
+    }
+  ],
+  "totals": {
+    "visits": 25179
+  },
+  "taken_at": "2019-03-11T17:45:43.525Z"
+}

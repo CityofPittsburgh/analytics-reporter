@@ -1,0 +1,145 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "3016"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/frequent-numbers",
+      "page_title": "City Number Directory | pittsburghpa.gov",
+      "pageviews": "1430"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/dpw/collection-schedule",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "pageviews": "1171"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "1168"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/index.html",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "1104"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "1026"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/taxes/index.html",
+      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "pageviews": "1014"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/pli-fees/?title=pli-fees",
+      "page_title": "PLI Fees | pittsburghpa.gov",
+      "pageviews": "977"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/311/form",
+      "page_title": "311 Response Center, Online Request Form, MyBurgh App, Citizen Form Knowledge Guide | pittsburghpa.gov",
+      "pageviews": "898"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/police/",
+      "page_title": "Pittsburgh Bureau of Police - Police Zones, Branches, Memorial, Resources, Interactive Violence Statistics, Community Policing, Annual Reports",
+      "pageviews": "838"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/council/",
+      "page_title": "City Council, District information, neighborhoods, your Council Person, Legislation, Budget Office",
+      "pageviews": "783"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/licenses",
+      "page_title": "Licenses | pittsburghpa.gov",
+      "pageviews": "779"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/citiparks/oliver-bath-house",
+      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
+      "pageviews": "761"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/tax-forms",
+      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
+      "pageviews": "761"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/press-releases",
+      "page_title": "City Press Releases - Mayor, Public Safety, Citiparks, Specail Events, DPW | pittsburghpa.gov",
+      "pageviews": "739"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/citiparks/index.html",
+      "page_title": "Citiparks - swimming pools, our parks, tennis schedules, Schenley Ice Skating Rink, Senior Activities, Roving Art Cart and Grubup",
+      "pageviews": "684"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/pli-permits",
+      "page_title": "Permits | pittsburghpa.gov",
+      "pageviews": "681"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/index.html",
+      "page_title": "Finance - Pay your Taxes, City property sales, Business Registration, Debt information, view E-Properties Online",
+      "pageviews": "655"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/real-estate-taxes",
+      "page_title": "Real Estate Taxes | pittsburghpa.gov",
+      "pageviews": "579"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/dpw/residential-recycling",
+      "page_title": "Public Works - Residential Recycling | pittsburghpa.gov",
+      "pageviews": "501"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-11T17:45:36.218Z"
+}

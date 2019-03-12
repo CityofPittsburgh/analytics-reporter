@@ -1,0 +1,213 @@
+{
+  "name": "top-domains-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviews",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (30 Days)",
+    "description": "Last 30 days' top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "visits": "110557",
+      "users": "79016",
+      "pageviews": "303273",
+      "pageviews_per_session": "2.7431370243403856",
+      "avg_session_duration": "143.342710095245",
+      "exits": "111924"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "visits": "7921",
+      "users": "7288",
+      "pageviews": "12125",
+      "pageviews_per_session": "1.5307410680469637",
+      "avg_session_duration": "106.79661658881454",
+      "exits": "6175"
+    },
+    {
+      "domain": "www.city.pittsburghpa.gov",
+      "visits": "114",
+      "users": "121",
+      "pageviews": "143",
+      "pageviews_per_session": "1.2543859649122806",
+      "avg_session_duration": "85.39473684210526",
+      "exits": "99"
+    },
+    {
+      "domain": "pittsburghpa.local",
+      "visits": "36",
+      "users": "8",
+      "pageviews": "226",
+      "pageviews_per_session": "6.277777777777778",
+      "avg_session_duration": "904.6944444444445",
+      "exits": "33"
+    },
+    {
+      "domain": "wwww.pittsburghpa.gov",
+      "visits": "16",
+      "users": "16",
+      "pageviews": "19",
+      "pageviews_per_session": "1.1875",
+      "avg_session_duration": "73.625",
+      "exits": "14"
+    },
+    {
+      "domain": "cityclerk.pittsburghpa.gov",
+      "visits": "13",
+      "users": "15",
+      "pageviews": "25",
+      "pageviews_per_session": "1.9230769230769231",
+      "avg_session_duration": "107.92307692307692",
+      "exits": "14"
+    },
+    {
+      "domain": "portal.office.pittsburghpa.gov",
+      "visits": "13",
+      "users": "13",
+      "pageviews": "13",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "3.230769230769231",
+      "exits": "12"
+    },
+    {
+      "domain": "webcache.googleusercontent.com",
+      "visits": "12",
+      "users": "12",
+      "pageviews": "12",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "1.3333333333333333",
+      "exits": "12"
+    },
+    {
+      "domain": "web.archive.org",
+      "visits": "11",
+      "users": "11",
+      "pageviews": "36",
+      "pageviews_per_session": "3.272727272727273",
+      "avg_session_duration": "32.36363636363637",
+      "exits": "11"
+    },
+    {
+      "domain": "www.pghlab.pittsburghpa.gov",
+      "visits": "8",
+      "users": "9",
+      "pageviews": "9",
+      "pageviews_per_session": "1.125",
+      "avg_session_duration": "0.0",
+      "exits": "8"
+    },
+    {
+      "domain": "www.dns-admins.pittsburghpa.gov",
+      "visits": "7",
+      "users": "7",
+      "pageviews": "7",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "7"
+    },
+    {
+      "domain": "parking.pittsburghpa.gov",
+      "visits": "6",
+      "users": "6",
+      "pageviews": "6",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "6"
+    },
+    {
+      "domain": "registeredparks.pittsburghpa.gov",
+      "visits": "6",
+      "users": "2",
+      "pageviews": "6",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "37.5",
+      "exits": "5"
+    },
+    {
+      "domain": "weedandseed.pittsburghpa.gov",
+      "visits": "6",
+      "users": "8",
+      "pageviews": "9",
+      "pageviews_per_session": "1.5",
+      "avg_session_duration": "103.33333333333333",
+      "exits": "5"
+    },
+    {
+      "domain": "www.lic.pittsburghpa.gov",
+      "visits": "6",
+      "users": "6",
+      "pageviews": "7",
+      "pageviews_per_session": "1.1666666666666667",
+      "avg_session_duration": "6.833333333333333",
+      "exits": "5"
+    },
+    {
+      "domain": "translate.googleusercontent.com",
+      "visits": "5",
+      "users": "5",
+      "pageviews": "5",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "5"
+    },
+    {
+      "domain": "alpha.pittsburghpa.gov",
+      "visits": "4",
+      "users": "5",
+      "pageviews": "5",
+      "pageviews_per_session": "1.25",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "appealassist.pittsburghpa.gov",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "4",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "registerparks.m.pittsburghpa.gov",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "4",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "wave.webaim.org",
+      "visits": "4",
+      "users": "2",
+      "pageviews": "31",
+      "pageviews_per_session": "7.75",
+      "avg_session_duration": "445.0",
+      "exits": "4"
+    }
+  ],
+  "totals": {
+    "users": 86558,
+    "visits": 118753
+  },
+  "taken_at": "2019-03-11T17:45:44.553Z"
+}

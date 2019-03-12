@@ -1,0 +1,253 @@
+{
+  "name": "top-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (30 Days)",
+    "description": "Last 30 days' top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "14167",
+      "visits": "9277",
+      "users": "7988",
+      "pageviews_per_session": "1.5271100571305378",
+      "avg_session_duration": "181.83690848334592",
+      "exits": "5164"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/dpw/collection-schedule",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "pageviews": "8378",
+      "visits": "5427",
+      "users": "5497",
+      "pageviews_per_session": "1.5437626681407777",
+      "avg_session_duration": "58.08881518334255",
+      "exits": "5863"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/frequent-numbers",
+      "page_title": "City Number Directory | pittsburghpa.gov",
+      "pageviews": "6041",
+      "visits": "178",
+      "users": "3504",
+      "pageviews_per_session": "33.938202247191015",
+      "avg_session_duration": "211.1067415730337",
+      "exits": "1001"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "4684",
+      "visits": "3192",
+      "users": "2512",
+      "pageviews_per_session": "1.4674185463659148",
+      "avg_session_duration": "88.11340852130326",
+      "exits": "2483"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/311/form",
+      "page_title": "311 Response Center, Online Request Form, MyBurgh App, Citizen Form Knowledge Guide | pittsburghpa.gov",
+      "pageviews": "4384",
+      "visits": "2550",
+      "users": "2695",
+      "pageviews_per_session": "1.7192156862745098",
+      "avg_session_duration": "100.53411764705882",
+      "exits": "2728"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "4152",
+      "visits": "2613",
+      "users": "2437",
+      "pageviews_per_session": "1.5889781859931114",
+      "avg_session_duration": "317.691159586682",
+      "exits": "860"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/weather/snow-plow-tracker.html",
+      "page_title": "Snow Plow Tracker App | pittsburghpa.gov",
+      "pageviews": "4096",
+      "visits": "3395",
+      "users": "2806",
+      "pageviews_per_session": "1.206480117820324",
+      "avg_session_duration": "100.16701030927835",
+      "exits": "3137"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/index.html",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "4085",
+      "visits": "847",
+      "users": "2100",
+      "pageviews_per_session": "4.8229043683589135",
+      "avg_session_duration": "282.94923258559623",
+      "exits": "698"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/police/",
+      "page_title": "Pittsburgh Bureau of Police - Police Zones, Branches, Memorial, Resources, Interactive Violence Statistics, Community Policing, Annual Reports",
+      "pageviews": "4069",
+      "visits": "2507",
+      "users": "2576",
+      "pageviews_per_session": "1.6230554447546868",
+      "avg_session_duration": "159.0303151176705",
+      "exits": "1012"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/taxes/index.html",
+      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "pageviews": "3560",
+      "visits": "2529",
+      "users": "2598",
+      "pageviews_per_session": "1.4076710162119415",
+      "avg_session_duration": "166.11506524317912",
+      "exits": "1890"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/weather/snow-plow-tracker",
+      "page_title": "Snow Plow Tracker App | pittsburghpa.gov",
+      "pageviews": "3426",
+      "visits": "2048",
+      "users": "2236",
+      "pageviews_per_session": "1.6728515625",
+      "avg_session_duration": "61.244140625",
+      "exits": "2507"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/index.html",
+      "page_title": "Finance - Pay your Taxes, City property sales, Business Registration, Debt information, view E-Properties Online",
+      "pageviews": "3296",
+      "visits": "1013",
+      "users": "2092",
+      "pageviews_per_session": "3.2537018756169793",
+      "avg_session_duration": "182.16584402764067",
+      "exits": "840"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/council/",
+      "page_title": "City Council, District information, neighborhoods, your Council Person, Legislation, Budget Office",
+      "pageviews": "2911",
+      "visits": "1049",
+      "users": "1115",
+      "pageviews_per_session": "2.775023832221163",
+      "avg_session_duration": "231.3212583412774",
+      "exits": "339"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/press-releases",
+      "page_title": "City Press Releases - Mayor, Public Safety, Citiparks, Specail Events, DPW | pittsburghpa.gov",
+      "pageviews": "2893",
+      "visits": "505",
+      "users": "1070",
+      "pageviews_per_session": "5.7287128712871285",
+      "avg_session_duration": "336.0693069306931",
+      "exits": "511"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/citiparks/oliver-bath-house",
+      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
+      "pageviews": "2859",
+      "visits": "2005",
+      "users": "1559",
+      "pageviews_per_session": "1.4259351620947631",
+      "avg_session_duration": "100.65286783042394",
+      "exits": "1865"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/real-estate-taxes",
+      "page_title": "Real Estate Taxes | pittsburghpa.gov",
+      "pageviews": "2757",
+      "visits": "1164",
+      "users": "1671",
+      "pageviews_per_session": "2.368556701030928",
+      "avg_session_duration": "181.4905498281787",
+      "exits": "1264"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/pli-permits",
+      "page_title": "Permits | pittsburghpa.gov",
+      "pageviews": "2709",
+      "visits": "134",
+      "users": "1595",
+      "pageviews_per_session": "20.21641791044776",
+      "avg_session_duration": "332.6940298507463",
+      "exits": "219"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/tax-forms",
+      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
+      "pageviews": "2661",
+      "visits": "679",
+      "users": "1460",
+      "pageviews_per_session": "3.9189985272459498",
+      "avg_session_duration": "137.97496318114875",
+      "exits": "1083"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/schenley/rink?title=schenley-skating-rink",
+      "page_title": "Schenley Skating Rink | pittsburghpa.gov",
+      "pageviews": "2567",
+      "visits": "2225",
+      "users": "1555",
+      "pageviews_per_session": "1.1537078651685393",
+      "avg_session_duration": "75.73168539325843",
+      "exits": "2052"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/schenley/rink",
+      "page_title": "Schenley Skating Rink | pittsburghpa.gov",
+      "pageviews": "2551",
+      "visits": "1831",
+      "users": "1530",
+      "pageviews_per_session": "1.393227744401966",
+      "avg_session_duration": "52.2605133806663",
+      "exits": "1839"
+    }
+  ],
+  "totals": {
+    "users": 50596,
+    "visits": 45168
+  },
+  "taken_at": "2019-03-11T17:45:42.979Z"
+}

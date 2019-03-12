@@ -1,0 +1,1627 @@
+{
+  "name": "ie",
+  "query": {
+    "start-date": "90daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:date,ga:browserVersion",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "sort": [
+      "ga:date",
+      "-ga:sessions"
+    ],
+    "filters": "ga:browser==Internet Explorer",
+    "start-index": 1,
+    "max-results": 10000,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Internet Explorer",
+    "description": "90 days of visits from Internet Explorer users broken down by version for all sites."
+  },
+  "data": [
+    {
+      "date": "2018-12-11",
+      "browser_version": "11.0",
+      "visits": "260"
+    },
+    {
+      "date": "2018-12-11",
+      "browser_version": "9.0",
+      "visits": "87"
+    },
+    {
+      "date": "2018-12-11",
+      "browser_version": "8.0",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-11",
+      "browser_version": "6.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-11",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-12",
+      "browser_version": "11.0",
+      "visits": "257"
+    },
+    {
+      "date": "2018-12-12",
+      "browser_version": "9.0",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-12",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-12",
+      "browser_version": "6.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-12",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-13",
+      "browser_version": "11.0",
+      "visits": "262"
+    },
+    {
+      "date": "2018-12-13",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-13",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-13",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-14",
+      "browser_version": "11.0",
+      "visits": "246"
+    },
+    {
+      "date": "2018-12-14",
+      "browser_version": "9.0",
+      "visits": "15"
+    },
+    {
+      "date": "2018-12-14",
+      "browser_version": "8.0",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-14",
+      "browser_version": "6.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-15",
+      "browser_version": "11.0",
+      "visits": "30"
+    },
+    {
+      "date": "2018-12-15",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2018-12-15",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-16",
+      "browser_version": "11.0",
+      "visits": "32"
+    },
+    {
+      "date": "2018-12-16",
+      "browser_version": "9.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-16",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-17",
+      "browser_version": "11.0",
+      "visits": "309"
+    },
+    {
+      "date": "2018-12-17",
+      "browser_version": "9.0",
+      "visits": "205"
+    },
+    {
+      "date": "2018-12-17",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-18",
+      "browser_version": "11.0",
+      "visits": "263"
+    },
+    {
+      "date": "2018-12-18",
+      "browser_version": "9.0",
+      "visits": "108"
+    },
+    {
+      "date": "2018-12-18",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-19",
+      "browser_version": "11.0",
+      "visits": "274"
+    },
+    {
+      "date": "2018-12-19",
+      "browser_version": "8.0",
+      "visits": "9"
+    },
+    {
+      "date": "2018-12-19",
+      "browser_version": "9.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-20",
+      "browser_version": "11.0",
+      "visits": "246"
+    },
+    {
+      "date": "2018-12-20",
+      "browser_version": "9.0",
+      "visits": "23"
+    },
+    {
+      "date": "2018-12-20",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-20",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-21",
+      "browser_version": "11.0",
+      "visits": "197"
+    },
+    {
+      "date": "2018-12-21",
+      "browser_version": "9.0",
+      "visits": "24"
+    },
+    {
+      "date": "2018-12-21",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-21",
+      "browser_version": "6.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-22",
+      "browser_version": "11.0",
+      "visits": "37"
+    },
+    {
+      "date": "2018-12-22",
+      "browser_version": "9.0",
+      "visits": "8"
+    },
+    {
+      "date": "2018-12-22",
+      "browser_version": "8.0",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-23",
+      "browser_version": "11.0",
+      "visits": "26"
+    },
+    {
+      "date": "2018-12-23",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-24",
+      "browser_version": "11.0",
+      "visits": "71"
+    },
+    {
+      "date": "2018-12-24",
+      "browser_version": "9.0",
+      "visits": "11"
+    },
+    {
+      "date": "2018-12-24",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-25",
+      "browser_version": "11.0",
+      "visits": "29"
+    },
+    {
+      "date": "2018-12-25",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-25",
+      "browser_version": "9.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-26",
+      "browser_version": "11.0",
+      "visits": "195"
+    },
+    {
+      "date": "2018-12-26",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-26",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-26",
+      "browser_version": "9.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-27",
+      "browser_version": "11.0",
+      "visits": "235"
+    },
+    {
+      "date": "2018-12-27",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-28",
+      "browser_version": "11.0",
+      "visits": "238"
+    },
+    {
+      "date": "2018-12-28",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-28",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2018-12-28",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2018-12-29",
+      "browser_version": "11.0",
+      "visits": "50"
+    },
+    {
+      "date": "2018-12-29",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2018-12-29",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2018-12-30",
+      "browser_version": "9.0",
+      "visits": "168"
+    },
+    {
+      "date": "2018-12-30",
+      "browser_version": "11.0",
+      "visits": "43"
+    },
+    {
+      "date": "2018-12-30",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2018-12-31",
+      "browser_version": "11.0",
+      "visits": "169"
+    },
+    {
+      "date": "2018-12-31",
+      "browser_version": "9.0",
+      "visits": "82"
+    },
+    {
+      "date": "2018-12-31",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2018-12-31",
+      "browser_version": "6.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-01",
+      "browser_version": "11.0",
+      "visits": "48"
+    },
+    {
+      "date": "2019-01-01",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-01",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-02",
+      "browser_version": "11.0",
+      "visits": "350"
+    },
+    {
+      "date": "2019-01-02",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-01-02",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-02",
+      "browser_version": "7.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-02",
+      "browser_version": "6.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-03",
+      "browser_version": "11.0",
+      "visits": "340"
+    },
+    {
+      "date": "2019-01-03",
+      "browser_version": "8.0",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-03",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-01-03",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-04",
+      "browser_version": "11.0",
+      "visits": "308"
+    },
+    {
+      "date": "2019-01-04",
+      "browser_version": "9.0",
+      "visits": "115"
+    },
+    {
+      "date": "2019-01-04",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-05",
+      "browser_version": "9.0",
+      "visits": "84"
+    },
+    {
+      "date": "2019-01-05",
+      "browser_version": "11.0",
+      "visits": "62"
+    },
+    {
+      "date": "2019-01-05",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-06",
+      "browser_version": "11.0",
+      "visits": "63"
+    },
+    {
+      "date": "2019-01-06",
+      "browser_version": "9.0",
+      "visits": "19"
+    },
+    {
+      "date": "2019-01-06",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-06",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-07",
+      "browser_version": "11.0",
+      "visits": "378"
+    },
+    {
+      "date": "2019-01-07",
+      "browser_version": "9.0",
+      "visits": "18"
+    },
+    {
+      "date": "2019-01-07",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-07",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-07",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-08",
+      "browser_version": "11.0",
+      "visits": "365"
+    },
+    {
+      "date": "2019-01-08",
+      "browser_version": "9.0",
+      "visits": "111"
+    },
+    {
+      "date": "2019-01-08",
+      "browser_version": "7.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-08",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-09",
+      "browser_version": "11.0",
+      "visits": "340"
+    },
+    {
+      "date": "2019-01-09",
+      "browser_version": "9.0",
+      "visits": "76"
+    },
+    {
+      "date": "2019-01-09",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-09",
+      "browser_version": "7.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-10",
+      "browser_version": "11.0",
+      "visits": "324"
+    },
+    {
+      "date": "2019-01-10",
+      "browser_version": "9.0",
+      "visits": "12"
+    },
+    {
+      "date": "2019-01-11",
+      "browser_version": "11.0",
+      "visits": "276"
+    },
+    {
+      "date": "2019-01-11",
+      "browser_version": "9.0",
+      "visits": "10"
+    },
+    {
+      "date": "2019-01-11",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-12",
+      "browser_version": "11.0",
+      "visits": "69"
+    },
+    {
+      "date": "2019-01-12",
+      "browser_version": "9.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-12",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-12",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-13",
+      "browser_version": "11.0",
+      "visits": "51"
+    },
+    {
+      "date": "2019-01-13",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-13",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-14",
+      "browser_version": "11.0",
+      "visits": "341"
+    },
+    {
+      "date": "2019-01-14",
+      "browser_version": "9.0",
+      "visits": "21"
+    },
+    {
+      "date": "2019-01-14",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-14",
+      "browser_version": "10.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-15",
+      "browser_version": "11.0",
+      "visits": "358"
+    },
+    {
+      "date": "2019-01-15",
+      "browser_version": "9.0",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-15",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-15",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-16",
+      "browser_version": "11.0",
+      "visits": "389"
+    },
+    {
+      "date": "2019-01-16",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-01-16",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-17",
+      "browser_version": "11.0",
+      "visits": "366"
+    },
+    {
+      "date": "2019-01-17",
+      "browser_version": "9.0",
+      "visits": "16"
+    },
+    {
+      "date": "2019-01-17",
+      "browser_version": "8.0",
+      "visits": "8"
+    },
+    {
+      "date": "2019-01-18",
+      "browser_version": "11.0",
+      "visits": "258"
+    },
+    {
+      "date": "2019-01-18",
+      "browser_version": "9.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-01-18",
+      "browser_version": "10.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-18",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-19",
+      "browser_version": "11.0",
+      "visits": "57"
+    },
+    {
+      "date": "2019-01-19",
+      "browser_version": "9.0",
+      "visits": "28"
+    },
+    {
+      "date": "2019-01-19",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-19",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-20",
+      "browser_version": "11.0",
+      "visits": "71"
+    },
+    {
+      "date": "2019-01-20",
+      "browser_version": "9.0",
+      "visits": "16"
+    },
+    {
+      "date": "2019-01-20",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-21",
+      "browser_version": "11.0",
+      "visits": "191"
+    },
+    {
+      "date": "2019-01-21",
+      "browser_version": "9.0",
+      "visits": "18"
+    },
+    {
+      "date": "2019-01-21",
+      "browser_version": "10.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-21",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-21",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-22",
+      "browser_version": "11.0",
+      "visits": "358"
+    },
+    {
+      "date": "2019-01-22",
+      "browser_version": "9.0",
+      "visits": "124"
+    },
+    {
+      "date": "2019-01-22",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-22",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-23",
+      "browser_version": "11.0",
+      "visits": "347"
+    },
+    {
+      "date": "2019-01-23",
+      "browser_version": "9.0",
+      "visits": "18"
+    },
+    {
+      "date": "2019-01-23",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-24",
+      "browser_version": "11.0",
+      "visits": "334"
+    },
+    {
+      "date": "2019-01-24",
+      "browser_version": "9.0",
+      "visits": "9"
+    },
+    {
+      "date": "2019-01-24",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-01-24",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-25",
+      "browser_version": "11.0",
+      "visits": "329"
+    },
+    {
+      "date": "2019-01-25",
+      "browser_version": "9.0",
+      "visits": "9"
+    },
+    {
+      "date": "2019-01-25",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-26",
+      "browser_version": "11.0",
+      "visits": "59"
+    },
+    {
+      "date": "2019-01-26",
+      "browser_version": "9.0",
+      "visits": "14"
+    },
+    {
+      "date": "2019-01-26",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-27",
+      "browser_version": "11.0",
+      "visits": "58"
+    },
+    {
+      "date": "2019-01-27",
+      "browser_version": "9.0",
+      "visits": "12"
+    },
+    {
+      "date": "2019-01-27",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-01-28",
+      "browser_version": "11.0",
+      "visits": "323"
+    },
+    {
+      "date": "2019-01-28",
+      "browser_version": "9.0",
+      "visits": "20"
+    },
+    {
+      "date": "2019-01-28",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-29",
+      "browser_version": "11.0",
+      "visits": "339"
+    },
+    {
+      "date": "2019-01-29",
+      "browser_version": "9.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-01-29",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser_version": "11.0",
+      "visits": "365"
+    },
+    {
+      "date": "2019-01-30",
+      "browser_version": "9.0",
+      "visits": "117"
+    },
+    {
+      "date": "2019-01-30",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-30",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-01-31",
+      "browser_version": "11.0",
+      "visits": "317"
+    },
+    {
+      "date": "2019-01-31",
+      "browser_version": "9.0",
+      "visits": "67"
+    },
+    {
+      "date": "2019-01-31",
+      "browser_version": "8.0",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-01",
+      "browser_version": "11.0",
+      "visits": "342"
+    },
+    {
+      "date": "2019-02-01",
+      "browser_version": "9.0",
+      "visits": "23"
+    },
+    {
+      "date": "2019-02-01",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-01",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-02",
+      "browser_version": "11.0",
+      "visits": "43"
+    },
+    {
+      "date": "2019-02-02",
+      "browser_version": "9.0",
+      "visits": "28"
+    },
+    {
+      "date": "2019-02-02",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-02",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-03",
+      "browser_version": "9.0",
+      "visits": "235"
+    },
+    {
+      "date": "2019-02-03",
+      "browser_version": "11.0",
+      "visits": "57"
+    },
+    {
+      "date": "2019-02-03",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-04",
+      "browser_version": "11.0",
+      "visits": "342"
+    },
+    {
+      "date": "2019-02-04",
+      "browser_version": "9.0",
+      "visits": "307"
+    },
+    {
+      "date": "2019-02-04",
+      "browser_version": "10.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-04",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-05",
+      "browser_version": "11.0",
+      "visits": "525"
+    },
+    {
+      "date": "2019-02-05",
+      "browser_version": "9.0",
+      "visits": "103"
+    },
+    {
+      "date": "2019-02-05",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-06",
+      "browser_version": "11.0",
+      "visits": "368"
+    },
+    {
+      "date": "2019-02-06",
+      "browser_version": "9.0",
+      "visits": "16"
+    },
+    {
+      "date": "2019-02-06",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-07",
+      "browser_version": "11.0",
+      "visits": "359"
+    },
+    {
+      "date": "2019-02-07",
+      "browser_version": "9.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-07",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-07",
+      "browser_version": "7.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-07",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-08",
+      "browser_version": "11.0",
+      "visits": "364"
+    },
+    {
+      "date": "2019-02-08",
+      "browser_version": "9.0",
+      "visits": "273"
+    },
+    {
+      "date": "2019-02-08",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-08",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-09",
+      "browser_version": "9.0",
+      "visits": "126"
+    },
+    {
+      "date": "2019-02-09",
+      "browser_version": "11.0",
+      "visits": "67"
+    },
+    {
+      "date": "2019-02-09",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-09",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-10",
+      "browser_version": "11.0",
+      "visits": "100"
+    },
+    {
+      "date": "2019-02-10",
+      "browser_version": "9.0",
+      "visits": "8"
+    },
+    {
+      "date": "2019-02-10",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-11",
+      "browser_version": "11.0",
+      "visits": "427"
+    },
+    {
+      "date": "2019-02-11",
+      "browser_version": "9.0",
+      "visits": "12"
+    },
+    {
+      "date": "2019-02-11",
+      "browser_version": "8.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-12",
+      "browser_version": "11.0",
+      "visits": "314"
+    },
+    {
+      "date": "2019-02-12",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-12",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-13",
+      "browser_version": "11.0",
+      "visits": "340"
+    },
+    {
+      "date": "2019-02-13",
+      "browser_version": "9.0",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-13",
+      "browser_version": "8.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-13",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-14",
+      "browser_version": "11.0",
+      "visits": "318"
+    },
+    {
+      "date": "2019-02-14",
+      "browser_version": "9.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-14",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-14",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-15",
+      "browser_version": "11.0",
+      "visits": "283"
+    },
+    {
+      "date": "2019-02-15",
+      "browser_version": "9.0",
+      "visits": "34"
+    },
+    {
+      "date": "2019-02-15",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-15",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-15",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-16",
+      "browser_version": "11.0",
+      "visits": "51"
+    },
+    {
+      "date": "2019-02-16",
+      "browser_version": "9.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-02-16",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-17",
+      "browser_version": "9.0",
+      "visits": "290"
+    },
+    {
+      "date": "2019-02-17",
+      "browser_version": "11.0",
+      "visits": "54"
+    },
+    {
+      "date": "2019-02-17",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-18",
+      "browser_version": "9.0",
+      "visits": "361"
+    },
+    {
+      "date": "2019-02-18",
+      "browser_version": "11.0",
+      "visits": "292"
+    },
+    {
+      "date": "2019-02-18",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-19",
+      "browser_version": "11.0",
+      "visits": "315"
+    },
+    {
+      "date": "2019-02-19",
+      "browser_version": "9.0",
+      "visits": "114"
+    },
+    {
+      "date": "2019-02-19",
+      "browser_version": "7.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-19",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-20",
+      "browser_version": "11.0",
+      "visits": "423"
+    },
+    {
+      "date": "2019-02-20",
+      "browser_version": "9.0",
+      "visits": "14"
+    },
+    {
+      "date": "2019-02-20",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-02-20",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-21",
+      "browser_version": "11.0",
+      "visits": "363"
+    },
+    {
+      "date": "2019-02-21",
+      "browser_version": "9.0",
+      "visits": "13"
+    },
+    {
+      "date": "2019-02-21",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-21",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-22",
+      "browser_version": "11.0",
+      "visits": "313"
+    },
+    {
+      "date": "2019-02-22",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-22",
+      "browser_version": "8.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-02-22",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-23",
+      "browser_version": "11.0",
+      "visits": "58"
+    },
+    {
+      "date": "2019-02-23",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-23",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-24",
+      "browser_version": "11.0",
+      "visits": "49"
+    },
+    {
+      "date": "2019-02-24",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-24",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-25",
+      "browser_version": "11.0",
+      "visits": "301"
+    },
+    {
+      "date": "2019-02-25",
+      "browser_version": "9.0",
+      "visits": "7"
+    },
+    {
+      "date": "2019-02-25",
+      "browser_version": "8.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-26",
+      "browser_version": "11.0",
+      "visits": "370"
+    },
+    {
+      "date": "2019-02-26",
+      "browser_version": "9.0",
+      "visits": "10"
+    },
+    {
+      "date": "2019-02-26",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-02-26",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-27",
+      "browser_version": "11.0",
+      "visits": "351"
+    },
+    {
+      "date": "2019-02-27",
+      "browser_version": "8.0",
+      "visits": "9"
+    },
+    {
+      "date": "2019-02-27",
+      "browser_version": "9.0",
+      "visits": "5"
+    },
+    {
+      "date": "2019-02-27",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-27",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-02-28",
+      "browser_version": "11.0",
+      "visits": "309"
+    },
+    {
+      "date": "2019-02-28",
+      "browser_version": "8.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-02-28",
+      "browser_version": "9.0",
+      "visits": "8"
+    },
+    {
+      "date": "2019-03-01",
+      "browser_version": "11.0",
+      "visits": "258"
+    },
+    {
+      "date": "2019-03-01",
+      "browser_version": "9.0",
+      "visits": "8"
+    },
+    {
+      "date": "2019-03-01",
+      "browser_version": "8.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-02",
+      "browser_version": "11.0",
+      "visits": "70"
+    },
+    {
+      "date": "2019-03-02",
+      "browser_version": "9.0",
+      "visits": "12"
+    },
+    {
+      "date": "2019-03-02",
+      "browser_version": "8.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-03",
+      "browser_version": "11.0",
+      "visits": "66"
+    },
+    {
+      "date": "2019-03-03",
+      "browser_version": "9.0",
+      "visits": "21"
+    },
+    {
+      "date": "2019-03-03",
+      "browser_version": "8.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-03-04",
+      "browser_version": "9.0",
+      "visits": "314"
+    },
+    {
+      "date": "2019-03-04",
+      "browser_version": "11.0",
+      "visits": "312"
+    },
+    {
+      "date": "2019-03-04",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-05",
+      "browser_version": "11.0",
+      "visits": "341"
+    },
+    {
+      "date": "2019-03-05",
+      "browser_version": "9.0",
+      "visits": "131"
+    },
+    {
+      "date": "2019-03-05",
+      "browser_version": "8.0",
+      "visits": "11"
+    },
+    {
+      "date": "2019-03-05",
+      "browser_version": "7.0",
+      "visits": "4"
+    },
+    {
+      "date": "2019-03-05",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-06",
+      "browser_version": "11.0",
+      "visits": "315"
+    },
+    {
+      "date": "2019-03-06",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-06",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-06",
+      "browser_version": "10.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-07",
+      "browser_version": "11.0",
+      "visits": "338"
+    },
+    {
+      "date": "2019-03-07",
+      "browser_version": "9.0",
+      "visits": "18"
+    },
+    {
+      "date": "2019-03-07",
+      "browser_version": "8.0",
+      "visits": "12"
+    },
+    {
+      "date": "2019-03-07",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-08",
+      "browser_version": "11.0",
+      "visits": "245"
+    },
+    {
+      "date": "2019-03-08",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-08",
+      "browser_version": "8.0",
+      "visits": "3"
+    },
+    {
+      "date": "2019-03-08",
+      "browser_version": "7.0",
+      "visits": "1"
+    },
+    {
+      "date": "2019-03-09",
+      "browser_version": "11.0",
+      "visits": "52"
+    },
+    {
+      "date": "2019-03-09",
+      "browser_version": "9.0",
+      "visits": "6"
+    },
+    {
+      "date": "2019-03-09",
+      "browser_version": "8.0",
+      "visits": "2"
+    },
+    {
+      "date": "2019-03-10",
+      "browser_version": "11.0",
+      "visits": "37"
+    },
+    {
+      "date": "2019-03-10",
+      "browser_version": "9.0",
+      "visits": "7"
+    }
+  ],
+  "totals": {
+    "visits": 25563,
+    "ie_version": {
+      "11.0": 20835,
+      "9.0": 4346,
+      "8.0": 310,
+      "6.0": 9,
+      "10.0": 31,
+      "7.0": 32
+    }
+  },
+  "taken_at": "2019-03-11T17:45:29.563Z"
+}

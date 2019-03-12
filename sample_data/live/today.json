@@ -1,0 +1,144 @@
+{
+  "name": "today",
+  "query": {
+    "start-date": "today",
+    "end-date": "today",
+    "dimensions": "ga:date,ga:hour",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 10000,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Today",
+    "description": "Today's visits for all sites."
+  },
+  "data": [
+    {
+      "date": "2019-03-11",
+      "hour": "00",
+      "visits": "54"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "01",
+      "visits": "25"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "02",
+      "visits": "22"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "03",
+      "visits": "15"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "04",
+      "visits": "15"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "05",
+      "visits": "16"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "06",
+      "visits": "53"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "07",
+      "visits": "118"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "08",
+      "visits": "212"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "09",
+      "visits": "327"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "10",
+      "visits": "369"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "11",
+      "visits": "347"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "12",
+      "visits": "311"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "13",
+      "visits": "164"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "14",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "15",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "16",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "17",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "18",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "19",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "20",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "21",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "22",
+      "visits": "0"
+    },
+    {
+      "date": "2019-03-11",
+      "hour": "23",
+      "visits": "0"
+    }
+  ],
+  "totals": {
+    "visits": 2048
+  },
+  "taken_at": "2019-03-11T17:45:21.575Z"
+}

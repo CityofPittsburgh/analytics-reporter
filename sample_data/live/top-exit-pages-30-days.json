@@ -1,0 +1,213 @@
+{
+  "name": "top-exit-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:exitPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Exit Pages (30 Days)",
+    "description": "Last 30 days' Exit page paths, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "exit_page": "/",
+      "visits": "7719",
+      "pageviews": "13882",
+      "users": "6379",
+      "pageviews_per_session": "1.7984194843891697",
+      "avg_session_duration": "62.35859567301464",
+      "exits": "7719"
+    },
+    {
+      "exit_page": "/dpw/collection-schedule",
+      "visits": "5864",
+      "pageviews": "9898",
+      "users": "4715",
+      "pageviews_per_session": "1.6879263301500682",
+      "avg_session_duration": "59.6962824010914",
+      "exits": "5864"
+    },
+    {
+      "exit_page": "/weather/snow-plow-tracker.html",
+      "visits": "4582",
+      "pageviews": "5899",
+      "users": "3491",
+      "pageviews_per_session": "1.287429070274989",
+      "avg_session_duration": "92.55608904408555",
+      "exits": "4582"
+    },
+    {
+      "exit_page": "/weather/snow-plow-tracker",
+      "visits": "3826",
+      "pageviews": "6696",
+      "users": "3128",
+      "pageviews_per_session": "1.7501306847882907",
+      "avg_session_duration": "88.55096706743335",
+      "exits": "3826"
+    },
+    {
+      "exit_page": "/311/form",
+      "visits": "2771",
+      "pageviews": "5947",
+      "users": "2205",
+      "pageviews_per_session": "2.1461566221580655",
+      "avg_session_duration": "98.79790689281847",
+      "exits": "2771"
+    },
+    {
+      "exit_page": "/schenley/rink?title=schenley-skating-rink",
+      "visits": "2052",
+      "pageviews": "2481",
+      "users": "1383",
+      "pageviews_per_session": "1.20906432748538",
+      "avg_session_duration": "65.59649122807018",
+      "exits": "2052"
+    },
+    {
+      "exit_page": "/citiparks/oliver-bath-house",
+      "visits": "1892",
+      "pageviews": "3067",
+      "users": "1363",
+      "pageviews_per_session": "1.6210359408033828",
+      "avg_session_duration": "76.3345665961945",
+      "exits": "1892"
+    },
+    {
+      "exit_page": "/finance/taxes/index.html",
+      "visits": "1891",
+      "pageviews": "3235",
+      "users": "1734",
+      "pageviews_per_session": "1.7107350608143839",
+      "avg_session_duration": "128.5753569539926",
+      "exits": "1891"
+    },
+    {
+      "exit_page": "/schenley/rink",
+      "visits": "1839",
+      "pageviews": "2576",
+      "users": "1255",
+      "pageviews_per_session": "1.4007612833061447",
+      "avg_session_duration": "61.46873300706906",
+      "exits": "1839"
+    },
+    {
+      "exit_page": "/finance/",
+      "visits": "1436",
+      "pageviews": "2214",
+      "users": "1274",
+      "pageviews_per_session": "1.541782729805014",
+      "avg_session_duration": "128.1357938718663",
+      "exits": "1436"
+    },
+    {
+      "exit_page": "/finance/real-estate-taxes",
+      "visits": "1264",
+      "pageviews": "3171",
+      "users": "1148",
+      "pageviews_per_session": "2.5087025316455698",
+      "avg_session_duration": "172.7634493670886",
+      "exits": "1264"
+    },
+    {
+      "exit_page": "/police/",
+      "visits": "1211",
+      "pageviews": "3333",
+      "users": "1158",
+      "pageviews_per_session": "2.7522708505367466",
+      "avg_session_duration": "76.54913294797687",
+      "exits": "1211"
+    },
+    {
+      "exit_page": "/dpw/residential-recycling",
+      "visits": "1197",
+      "pageviews": "1995",
+      "users": "1042",
+      "pageviews_per_session": "1.6666666666666667",
+      "avg_session_duration": "66.71846282372599",
+      "exits": "1197"
+    },
+    {
+      "exit_page": "/finance/tax-forms",
+      "visits": "1160",
+      "pageviews": "3744",
+      "users": "1011",
+      "pageviews_per_session": "3.2275862068965515",
+      "avg_session_duration": "177.68706896551726",
+      "exits": "1160"
+    },
+    {
+      "exit_page": "/weather/snow-plow-tracker?title=tracker",
+      "visits": "1102",
+      "pageviews": "2093",
+      "users": "830",
+      "pageviews_per_session": "1.899274047186933",
+      "avg_session_duration": "177.7005444646098",
+      "exits": "1102"
+    },
+    {
+      "exit_page": "/pli/",
+      "visits": "1085",
+      "pageviews": "2479",
+      "users": "990",
+      "pageviews_per_session": "2.2847926267281107",
+      "avg_session_duration": "92.22764976958526",
+      "exits": "1085"
+    },
+    {
+      "exit_page": "/dcp/interactive-maps",
+      "visits": "1034",
+      "pageviews": "2517",
+      "users": "731",
+      "pageviews_per_session": "2.4342359767891684",
+      "avg_session_duration": "117.67311411992263",
+      "exits": "1034"
+    },
+    {
+      "exit_page": "/city-info/frequent-numbers",
+      "visits": "1002",
+      "pageviews": "4677",
+      "users": "921",
+      "pageviews_per_session": "4.667664670658683",
+      "avg_session_duration": "224.0109780439122",
+      "exits": "1002"
+    },
+    {
+      "exit_page": "/publicsafety/dog-license",
+      "visits": "937",
+      "pageviews": "2389",
+      "users": "790",
+      "pageviews_per_session": "2.5496264674493063",
+      "avg_session_duration": "113.46318036286019",
+      "exits": "937"
+    },
+    {
+      "exit_page": "/finance/index.html",
+      "visits": "840",
+      "pageviews": "2331",
+      "users": "787",
+      "pageviews_per_session": "2.775",
+      "avg_session_duration": "177.65952380952382",
+      "exits": "840"
+    }
+  ],
+  "totals": {
+    "users": 36335,
+    "visits": 44704
+  },
+  "taken_at": "2019-03-11T17:45:51.169Z"
+}
