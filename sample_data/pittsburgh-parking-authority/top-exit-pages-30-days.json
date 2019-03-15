@@ -1,0 +1,233 @@
+{
+  "name": "top-exit-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:exitPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Exit Pages (30 Days)",
+    "description": "Last 30 days' Exit page paths, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "exit_page": "/",
+      "visits": "28341",
+      "pageviews": "33101",
+      "users": "19270",
+      "pageviews_per_session": "1.1679545534737659",
+      "avg_session_duration": "31.73275466638439",
+      "exits": "28341",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/rppp",
+      "visits": "4106",
+      "pageviews": "5320",
+      "users": "3120",
+      "pageviews_per_session": "1.2956648806624451",
+      "avg_session_duration": "46.26838772528008",
+      "exits": "4106",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/meters",
+      "visits": "1895",
+      "pageviews": "2647",
+      "users": "1640",
+      "pageviews_per_session": "1.3968337730870712",
+      "avg_session_duration": "69.37467018469657",
+      "exits": "1895",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/pittsburgh-parking-court",
+      "visits": "1756",
+      "pageviews": "2621",
+      "users": "1403",
+      "pageviews_per_session": "1.4925968109339407",
+      "avg_session_duration": "77.71355353075171",
+      "exits": "1756",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/contact",
+      "visits": "1488",
+      "pageviews": "3148",
+      "users": "1157",
+      "pageviews_per_session": "2.1155913978494625",
+      "avg_session_duration": "141.91666666666666",
+      "exits": "1488",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/gstc",
+      "visits": "1364",
+      "pageviews": "2301",
+      "users": "1131",
+      "pageviews_per_session": "1.686950146627566",
+      "avg_session_duration": "72.59530791788856",
+      "exits": "1364",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/holidays",
+      "visits": "1125",
+      "pageviews": "1513",
+      "users": "946",
+      "pageviews_per_session": "1.3448888888888888",
+      "avg_session_duration": "45.80266666666667",
+      "exits": "1125",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/mellon-square",
+      "visits": "1087",
+      "pageviews": "1666",
+      "users": "940",
+      "pageviews_per_session": "1.532658693652254",
+      "avg_session_duration": "73.03403863845446",
+      "exits": "1087",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/smithfield-liberty",
+      "visits": "881",
+      "pageviews": "1388",
+      "users": "737",
+      "pageviews_per_session": "1.5754824063564132",
+      "avg_session_duration": "81.62883087400681",
+      "exits": "881",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/enforcement-meter-policies",
+      "visits": "837",
+      "pageviews": "1559",
+      "users": "729",
+      "pageviews_per_session": "1.8626045400238949",
+      "avg_session_duration": "115.93548387096774",
+      "exits": "837",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/forbes-semple",
+      "visits": "828",
+      "pageviews": "1134",
+      "users": "663",
+      "pageviews_per_session": "1.3695652173913044",
+      "avg_session_duration": "64.78260869565217",
+      "exits": "828",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/first-avenue-garage-and-station",
+      "visits": "699",
+      "pageviews": "1170",
+      "users": "590",
+      "pageviews_per_session": "1.6738197424892705",
+      "avg_session_duration": "85.59513590844062",
+      "exits": "699",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/ft-duquesne",
+      "visits": "659",
+      "pageviews": "1104",
+      "users": "579",
+      "pageviews_per_session": "1.6752655538694992",
+      "avg_session_duration": "87.74658573596358",
+      "exits": "659",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/garages-and-attended-lots",
+      "visits": "639",
+      "pageviews": "1586",
+      "users": "573",
+      "pageviews_per_session": "2.4820031298904537",
+      "avg_session_duration": "117.68701095461658",
+      "exits": "639",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/oliver",
+      "visits": "554",
+      "pageviews": "975",
+      "users": "481",
+      "pageviews_per_session": "1.759927797833935",
+      "avg_session_duration": "98.38086642599278",
+      "exits": "554",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/facility-locator",
+      "visits": "551",
+      "pageviews": "1390",
+      "users": "489",
+      "pageviews_per_session": "2.5226860254083485",
+      "avg_session_duration": "161.8529945553539",
+      "exits": "551",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/facilities",
+      "visits": "548",
+      "pageviews": "1211",
+      "users": "501",
+      "pageviews_per_session": "2.20985401459854",
+      "avg_session_duration": "90.63138686131387",
+      "exits": "548",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/ninth-penn",
+      "visits": "524",
+      "pageviews": "883",
+      "users": "432",
+      "pageviews_per_session": "1.6851145038167938",
+      "avg_session_duration": "97.86832061068702",
+      "exits": "524",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/wood-allies",
+      "visits": "468",
+      "pageviews": "874",
+      "users": "355",
+      "pageviews_per_session": "1.8675213675213675",
+      "avg_session_duration": "103.0619658119658",
+      "exits": "468",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "exit_page": "/meter-policies",
+      "visits": "386",
+      "pageviews": "934",
+      "users": "331",
+      "pageviews_per_session": "2.4196891191709846",
+      "avg_session_duration": "132.30051813471502",
+      "exits": "386",
+      "domain": "http://pittsburghparkingauthority.com"
+    }
+  ],
+  "totals": {
+    "users": 36067,
+    "visits": 48736
+  },
+  "taken_at": "2019-03-15T21:23:38.538Z"
+}

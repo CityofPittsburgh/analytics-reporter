@@ -1,0 +1,253 @@
+{
+  "name": "top-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (30 Days)",
+    "description": "Last 30 days' top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/applying/process.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Applying Process",
+      "pageviews": "611",
+      "visits": "458",
+      "users": "427",
+      "pageviews_per_session": "1.334061135371179",
+      "avg_session_duration": "112.28165938864629",
+      "exits": "366"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/salary.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "330",
+      "visits": "193",
+      "users": "214",
+      "pageviews_per_session": "1.7098445595854923",
+      "avg_session_duration": "117.51813471502591",
+      "exits": "147"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/recruitingevents/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Current Recruiting Events",
+      "pageviews": "253",
+      "visits": "31",
+      "users": "143",
+      "pageviews_per_session": "8.161290322580646",
+      "avg_session_duration": "73.6774193548387",
+      "exits": "108"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment",
+      "pageviews": "140",
+      "visits": "84",
+      "users": "89",
+      "pageviews_per_session": "1.6666666666666667",
+      "avg_session_duration": "117.36904761904762",
+      "exits": "66"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/faqs/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Recruitment FAQ's",
+      "pageviews": "130",
+      "visits": "2",
+      "users": "94",
+      "pageviews_per_session": "65.0",
+      "avg_session_duration": "5.5",
+      "exits": "37"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/benefits.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "81",
+      "visits": "13",
+      "users": "54",
+      "pageviews_per_session": "6.230769230769231",
+      "avg_session_duration": "80.92307692307692",
+      "exits": "25"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/contact/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Contact Us",
+      "pageviews": "56",
+      "visits": "16",
+      "users": "38",
+      "pageviews_per_session": "3.5",
+      "avg_session_duration": "75.875",
+      "exits": "24"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/applying/preparation.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Preparation Opportunities",
+      "pageviews": "37",
+      "visits": "2",
+      "users": "30",
+      "pageviews_per_session": "18.5",
+      "avg_session_duration": "0.0",
+      "exits": "15"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/ffdev/promotions.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Promotions Opportunities",
+      "pageviews": "31",
+      "visits": "0",
+      "users": "24",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "2"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/ffdev/career-paths.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Career Paths",
+      "pageviews": "30",
+      "visits": "0",
+      "users": "22",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "2"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/pittsburgh/residency.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Residency",
+      "pageviews": "22",
+      "visits": "10",
+      "users": "18",
+      "pageviews_per_session": "2.2",
+      "avg_session_duration": "25.1",
+      "exits": "10"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/ffdev/training.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Training Opportunities",
+      "pageviews": "18",
+      "visits": "0",
+      "users": "14",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "2"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/pittsburgh/neighborhoods.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Neighborhoods",
+      "pageviews": "13",
+      "visits": "0",
+      "users": "10",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "5"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/about/diversity-inclusion.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Diversity & Inclusion",
+      "pageviews": "10",
+      "visits": "1",
+      "users": "9",
+      "pageviews_per_session": "10.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/pittsburgh/popstatistics.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Pittsburgh Population",
+      "pageviews": "9",
+      "visits": "1",
+      "users": "7",
+      "pageviews_per_session": "9.0",
+      "avg_session_duration": "7.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/about/missionvalues.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Mission & Values",
+      "pageviews": "8",
+      "visits": "0",
+      "users": "6",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/pittsburgh/transition.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Transition",
+      "pageviews": "6",
+      "visits": "0",
+      "users": "6",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/about/history.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - History",
+      "pageviews": "2",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/about/overview.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Overview",
+      "pageviews": "2",
+      "visits": "0",
+      "users": "2",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    },
+    {
+      "domain": "webcache.googleusercontent.com",
+      "page": "/search?q=cache:http://www.joinpghfire.com/",
+      "page_title": "City of Pittsburgh Firefighter Recruitment",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    }
+  ],
+  "totals": {
+    "users": 1209,
+    "visits": 812
+  },
+  "taken_at": "2019-03-15T21:18:55.903Z"
+}

@@ -1,0 +1,145 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment",
+      "pageviews": "326"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/applying/process.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Applying Process",
+      "pageviews": "269"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/benefits/salary.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Salary and Benefits",
+      "pageviews": "169"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/applying/process.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Applying Process",
+      "pageviews": "140"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/recruitingevents/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Current Recruiting Events",
+      "pageviews": "96"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/applying/preparation.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Preparation Opportunities",
+      "pageviews": "74"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/salary.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "64"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/recruitingevents/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Current Recruiting Events",
+      "pageviews": "61"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/faqs/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Recruitment FAQ's",
+      "pageviews": "58"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/mentors/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Mentors",
+      "pageviews": "35"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/benefits/benefits.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Salary and Benefits",
+      "pageviews": "34"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/officerdev/promotions.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Promotions",
+      "pageviews": "33"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/faqs/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Recruitment FAQ's",
+      "pageviews": "31"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/videos/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Videos",
+      "pageviews": "29"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/contact/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Contact Us",
+      "pageviews": "22"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/whyserve/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Why serve?",
+      "pageviews": "22"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/benefits.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "21"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/pittsburgh/transition.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Transition",
+      "pageviews": "20"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/about/badge.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Badge History",
+      "pageviews": "17"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/about/units.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Specialty Units",
+      "pageviews": "17"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-15T21:25:33.800Z"
+}

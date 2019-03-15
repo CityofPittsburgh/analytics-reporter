@@ -1,0 +1,145 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/",
+      "page_title": "PPA | Welcome",
+      "pageviews": "7105"
+    },
+    {
+      "domain": "pittsburghparking.com",
+      "page": "/",
+      "page_title": "PPA | Welcome",
+      "pageviews": "1439"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/rppp",
+      "page_title": "PPA | Residential Permit Parking Program",
+      "pageviews": "1175"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/facilities",
+      "page_title": "PPA | Facilities - Providing Quality Customer Service Is Our Goal",
+      "pageviews": "658"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/meters",
+      "page_title": "PPA | On-Street Meters",
+      "pageviews": "629"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/contact",
+      "page_title": "PPA | Contact the PPA",
+      "pageviews": "572"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/pittsburgh-parking-court",
+      "page_title": "PPA | Pittsburgh Parking Court",
+      "pageviews": "554"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/garages-and-attended-lots",
+      "page_title": "PPA | Garages and Attended Lots: Date opened - Spaces - Max Vehicle Height",
+      "pageviews": "493"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/gstc",
+      "page_title": "PPA | Grant Street Transportation Center",
+      "pageviews": "452"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/mellon-square",
+      "page_title": "PPA | Mellon Square Garage",
+      "pageviews": "412"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/enforcement-meter-policies",
+      "page_title": "PPA | Enforcement & Meter Policies",
+      "pageviews": "355"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/smithfield-liberty",
+      "page_title": "PPA | Smithfield-Liberty Garage",
+      "pageviews": "347"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/facility-locator",
+      "page_title": "PPA | Facility Locator",
+      "pageviews": "277"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/first-avenue-garage-and-station",
+      "page_title": "PPA | First Avenue Garage and Station",
+      "pageviews": "252"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/forbes-semple",
+      "page_title": "PPA | Forbes Semple Garage",
+      "pageviews": "246"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/ft-duquesne",
+      "page_title": "PPA | Ft. Duquesne & Sixth Garage",
+      "pageviews": "237"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/ninth-penn",
+      "page_title": "PPA | Ninth and Penn Garage",
+      "pageviews": "216"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/oliver",
+      "page_title": "PPA | Oliver Garage",
+      "pageviews": "207"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/wood-allies",
+      "page_title": "PPA | Wood-Allies Garage",
+      "pageviews": "174"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/third-avenue",
+      "page_title": "PPA | Third Avenue Garage",
+      "pageviews": "161"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-15T21:23:36.679Z"
+}

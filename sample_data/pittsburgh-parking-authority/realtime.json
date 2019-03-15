@@ -1,0 +1,21 @@
+{
+  "name": "realtime",
+  "query": {
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Active Users Right Now",
+    "description": "Number of users currently visiting all sites."
+  },
+  "data": [
+    {
+      "active_visitors": "21",
+      "domain": "http://pittsburghparkingauthority.com"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-15T21:23:30.195Z"
+}

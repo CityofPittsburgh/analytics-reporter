@@ -1,0 +1,253 @@
+{
+  "name": "top-traffic-sources-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:source,ga:hasSocialSourceReferral",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Traffic Sources (30 Days)",
+    "description": "Last 30 days' Traffic sources, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "source": "google",
+      "has_social_referral": "No",
+      "visits": "31938",
+      "pageviews": "46967",
+      "users": "22482",
+      "pageviews_per_session": "1.470567975452439",
+      "avg_session_duration": "64.79572922537416",
+      "exits": "31934",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "(direct)",
+      "has_social_referral": "No",
+      "visits": "17302",
+      "pageviews": "21943",
+      "users": "12252",
+      "pageviews_per_session": "1.2682348861403305",
+      "avg_session_duration": "40.15703386891689",
+      "exits": "17289",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "yahoo",
+      "has_social_referral": "No",
+      "visits": "493",
+      "pageviews": "785",
+      "users": "383",
+      "pageviews_per_session": "1.592292089249493",
+      "avg_session_duration": "73.83772819472617",
+      "exits": "493",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "com.google.android.googlequicksearchbox",
+      "has_social_referral": "No",
+      "visits": "324",
+      "pageviews": "443",
+      "users": "259",
+      "pageviews_per_session": "1.367283950617284",
+      "avg_session_duration": "37.324074074074076",
+      "exits": "324",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "bing",
+      "has_social_referral": "No",
+      "visits": "317",
+      "pageviews": "468",
+      "users": "241",
+      "pageviews_per_session": "1.476340694006309",
+      "avg_session_duration": "53.74447949526814",
+      "exits": "317",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "visitpittsburgh.com",
+      "has_social_referral": "No",
+      "visits": "154",
+      "pageviews": "259",
+      "users": "140",
+      "pageviews_per_session": "1.6818181818181819",
+      "avg_session_duration": "79.15584415584415",
+      "exits": "154",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "duckduckgo.com",
+      "has_social_referral": "No",
+      "visits": "99",
+      "pageviews": "142",
+      "users": "73",
+      "pageviews_per_session": "1.4343434343434343",
+      "avg_session_duration": "33.58585858585859",
+      "exits": "99",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "pittsburghpa.gov",
+      "has_social_referral": "No",
+      "visits": "60",
+      "pageviews": "136",
+      "users": "48",
+      "pageviews_per_session": "2.2666666666666666",
+      "avg_session_duration": "140.81666666666666",
+      "exits": "60",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "www-wtae-com.cdn.ampproject.org",
+      "has_social_referral": "No",
+      "visits": "29",
+      "pageviews": "35",
+      "users": "27",
+      "pageviews_per_session": "1.206896551724138",
+      "avg_session_duration": "67.93103448275862",
+      "exits": "29",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "searchassist.verizon.com",
+      "has_social_referral": "No",
+      "visits": "22",
+      "pageviews": "27",
+      "users": "14",
+      "pageviews_per_session": "1.2272727272727273",
+      "avg_session_duration": "184.95454545454547",
+      "exits": "22",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "com.google.android.gm",
+      "has_social_referral": "No",
+      "visits": "19",
+      "pageviews": "25",
+      "users": "17",
+      "pageviews_per_session": "1.3157894736842106",
+      "avg_session_duration": "23.57894736842105",
+      "exits": "19",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "m.yelp.com",
+      "has_social_referral": "Yes",
+      "visits": "17",
+      "pageviews": "33",
+      "users": "16",
+      "pageviews_per_session": "1.9411764705882353",
+      "avg_session_duration": "259.8235294117647",
+      "exits": "17",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "m.facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "16",
+      "pageviews": "22",
+      "users": "15",
+      "pageviews_per_session": "1.375",
+      "avg_session_duration": "14.9375",
+      "exits": "16",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "14",
+      "pageviews": "14",
+      "users": "14",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "14",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "en.m.wikipedia.org",
+      "has_social_referral": "No",
+      "visits": "13",
+      "pageviews": "17",
+      "users": "9",
+      "pageviews_per_session": "1.3076923076923077",
+      "avg_session_duration": "8.0",
+      "exits": "13",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "en.wikipedia.org",
+      "has_social_referral": "No",
+      "visits": "10",
+      "pageviews": "17",
+      "users": "8",
+      "pageviews_per_session": "1.7",
+      "avg_session_duration": "189.4",
+      "exits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "lvpgh.com",
+      "has_social_referral": "No",
+      "visits": "10",
+      "pageviews": "18",
+      "users": "10",
+      "pageviews_per_session": "1.8",
+      "avg_session_duration": "94.5",
+      "exits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "my.pitt.edu",
+      "has_social_referral": "No",
+      "visits": "10",
+      "pageviews": "11",
+      "users": "1",
+      "pageviews_per_session": "1.1",
+      "avg_session_duration": "0.3",
+      "exits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "apps.pittsburghpa.gov",
+      "has_social_referral": "No",
+      "visits": "9",
+      "pageviews": "9",
+      "users": "5",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "9",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "source": "amp-wtae-com.cdn.ampproject.org",
+      "has_social_referral": "No",
+      "visits": "8",
+      "pageviews": "9",
+      "users": "1",
+      "pageviews_per_session": "1.125",
+      "avg_session_duration": "2.375",
+      "exits": "8",
+      "domain": "http://pittsburghparkingauthority.com"
+    }
+  ],
+  "totals": {
+    "users": 36015,
+    "visits": 50864
+  },
+  "taken_at": "2019-03-15T21:23:38.249Z"
+}

@@ -317,6 +317,10 @@ Compose:
 docker-compose up
 ```
 
+### Tests
+
+The first time you run the test suite, you'll need to create a database locally called `analytics_reporter_test`. Then, simply run `npm test`.
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):

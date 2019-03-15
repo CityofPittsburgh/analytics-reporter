@@ -1,0 +1,66 @@
+{
+  "name": "top-cities-realtime",
+  "query": {
+    "dimensions": "rt:city",
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Top Cities (Live)",
+    "description": "Top cities for active onsite users."
+  },
+  "data": [
+    {
+      "city": "Pittsburgh",
+      "active_visitors": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "New York",
+      "active_visitors": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "Burgettstown",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "Glenshaw",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "Milton",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "Murrysville",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "New Kensington",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "North Laurel",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "city": "West Mifflin",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-15T21:23:39.132Z"
+}

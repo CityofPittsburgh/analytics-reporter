@@ -1,0 +1,110 @@
+{
+  "name": "top-traffic-sources-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:source,ga:hasSocialSourceReferral",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Traffic Sources (30 Days)",
+    "description": "Last 30 days' Traffic sources, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "source": "(direct)",
+      "has_social_referral": "No",
+      "visits": "87",
+      "pageviews": "108",
+      "users": "80",
+      "pageviews_per_session": "1.2413793103448276",
+      "avg_session_duration": "22.816091954022987",
+      "exits": "87",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "google",
+      "has_social_referral": "No",
+      "visits": "81",
+      "pageviews": "159",
+      "users": "68",
+      "pageviews_per_session": "1.962962962962963",
+      "avg_session_duration": "119.0246913580247",
+      "exits": "81",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "m.facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "6",
+      "pageviews": "15",
+      "users": "5",
+      "pageviews_per_session": "2.5",
+      "avg_session_duration": "27.0",
+      "exits": "6",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "bing",
+      "has_social_referral": "No",
+      "visits": "1",
+      "pageviews": "6",
+      "users": "1",
+      "pageviews_per_session": "6.0",
+      "avg_session_duration": "438.0",
+      "exits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "duckduckgo",
+      "has_social_referral": "No",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "source": "yahoo",
+      "has_social_referral": "No",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 157,
+    "visits": 178
+  },
+  "taken_at": "2019-03-15T21:20:46.588Z"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "top-domains-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviews",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (30 Days)",
+    "description": "Last 30 days' top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "visits": "1011",
+      "users": "790",
+      "pageviews": "1563",
+      "pageviews_per_session": "1.545994065281899",
+      "avg_session_duration": "92.04945598417409",
+      "exits": "1011"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "visits": "10",
+      "users": "10",
+      "pageviews": "21",
+      "pageviews_per_session": "2.1",
+      "avg_session_duration": "130.1",
+      "exits": "10"
+    }
+  ],
+  "totals": {
+    "users": 800,
+    "visits": 1021
+  },
+  "taken_at": "2019-03-15T21:22:38.537Z"
+}

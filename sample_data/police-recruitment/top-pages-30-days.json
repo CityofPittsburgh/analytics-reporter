@@ -1,0 +1,253 @@
+{
+  "name": "top-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (30 Days)",
+    "description": "Last 30 days' top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment",
+      "pageviews": "1602",
+      "visits": "1168",
+      "users": "960",
+      "pageviews_per_session": "1.3715753424657535",
+      "avg_session_duration": "126.10873287671232",
+      "exits": "744"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/applying/process.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Applying Process",
+      "pageviews": "1122",
+      "visits": "768",
+      "users": "792",
+      "pageviews_per_session": "1.4609375",
+      "avg_session_duration": "61.026041666666664",
+      "exits": "824"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/benefits/salary.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Salary and Benefits",
+      "pageviews": "636",
+      "visits": "174",
+      "users": "446",
+      "pageviews_per_session": "3.6551724137931036",
+      "avg_session_duration": "97.58620689655173",
+      "exits": "220"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/applying/process.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Applying Process",
+      "pageviews": "609",
+      "visits": "454",
+      "users": "426",
+      "pageviews_per_session": "1.341409691629956",
+      "avg_session_duration": "110.92731277533039",
+      "exits": "365"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/recruitingevents/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Current Recruiting Events",
+      "pageviews": "353",
+      "visits": "19",
+      "users": "276",
+      "pageviews_per_session": "18.57894736842105",
+      "avg_session_duration": "22.526315789473685",
+      "exits": "92"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/salary.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "332",
+      "visits": "190",
+      "users": "214",
+      "pageviews_per_session": "1.7473684210526317",
+      "avg_session_duration": "131.56315789473683",
+      "exits": "145"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/applying/preparation.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Preparation Opportunities",
+      "pageviews": "284",
+      "visits": "16",
+      "users": "110",
+      "pageviews_per_session": "17.75",
+      "avg_session_duration": "214.25",
+      "exits": "47"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/recruitingevents/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Current Recruiting Events",
+      "pageviews": "253",
+      "visits": "49",
+      "users": "143",
+      "pageviews_per_session": "5.163265306122449",
+      "avg_session_duration": "112.61224489795919",
+      "exits": "113"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/faqs/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Recruitment FAQ's",
+      "pageviews": "241",
+      "visits": "99",
+      "users": "165",
+      "pageviews_per_session": "2.4343434343434343",
+      "avg_session_duration": "72.24242424242425",
+      "exits": "123"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/benefits/benefits.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Salary and Benefits",
+      "pageviews": "202",
+      "visits": "28",
+      "users": "172",
+      "pageviews_per_session": "7.214285714285714",
+      "avg_session_duration": "39.607142857142854",
+      "exits": "74"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/mentors/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Mentors",
+      "pageviews": "174",
+      "visits": "14",
+      "users": "127",
+      "pageviews_per_session": "12.428571428571429",
+      "avg_session_duration": "61.785714285714285",
+      "exits": "55"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/videos/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Videos",
+      "pageviews": "131",
+      "visits": "7",
+      "users": "106",
+      "pageviews_per_session": "18.714285714285715",
+      "avg_session_duration": "23.571428571428573",
+      "exits": "43"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/faqs/index.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Recruitment FAQ's",
+      "pageviews": "130",
+      "visits": "11",
+      "users": "94",
+      "pageviews_per_session": "11.818181818181818",
+      "avg_session_duration": "203.63636363636363",
+      "exits": "41"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/officerdev/promotions.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Promotions",
+      "pageviews": "121",
+      "visits": "7",
+      "users": "103",
+      "pageviews_per_session": "17.285714285714285",
+      "avg_session_duration": "9.857142857142858",
+      "exits": "12"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/whyserve/index.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Why serve?",
+      "pageviews": "112",
+      "visits": "8",
+      "users": "82",
+      "pageviews_per_session": "14.0",
+      "avg_session_duration": "37.0",
+      "exits": "18"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/about/units.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Specialty Units",
+      "pageviews": "94",
+      "visits": "43",
+      "users": "76",
+      "pageviews_per_session": "2.186046511627907",
+      "avg_session_duration": "94.74418604651163",
+      "exits": "47"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghfire/benefits/benefits.html",
+      "page_title": "City of Pittsburgh Firefighter Recruitment - Salary and Benefits",
+      "pageviews": "82",
+      "visits": "13",
+      "users": "55",
+      "pageviews_per_session": "6.3076923076923075",
+      "avg_session_duration": "80.92307692307692",
+      "exits": "25"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/about/badge.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Badge History",
+      "pageviews": "61",
+      "visits": "30",
+      "users": "55",
+      "pageviews_per_session": "2.033333333333333",
+      "avg_session_duration": "13.1",
+      "exits": "32"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/officerdev/tuition.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Tuition & Scholarships",
+      "pageviews": "60",
+      "visits": "1",
+      "users": "53",
+      "pageviews_per_session": "60.0",
+      "avg_session_duration": "0.0",
+      "exits": "9"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/joinpghpolice/pittsburgh/transition.html",
+      "page_title": "City of Pittsburgh Police Recruitment - Transition",
+      "pageviews": "59",
+      "visits": "3",
+      "users": "42",
+      "pageviews_per_session": "19.666666666666668",
+      "avg_session_duration": "0.0",
+      "exits": "8"
+    }
+  ],
+  "totals": {
+    "users": 4497,
+    "visits": 3102
+  },
+  "taken_at": "2019-03-15T21:25:34.197Z"
+}

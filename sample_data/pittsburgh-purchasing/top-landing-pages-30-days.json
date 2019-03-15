@@ -1,0 +1,233 @@
+{
+  "name": "top-landing-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:landingPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Landing Pages (30 Days)",
+    "description": "Last 30 days' Landing Pages, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "landing_page": "/beacon/index.html",
+      "visits": "1370",
+      "pageviews": "2927",
+      "users": "912",
+      "pageviews_per_session": "2.1364963503649634",
+      "avg_session_duration": "121.38467153284671",
+      "exits": "1370",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html",
+      "visits": "1205",
+      "pageviews": "1998",
+      "users": "793",
+      "pageviews_per_session": "1.658091286307054",
+      "avg_session_duration": "80.73609958506223",
+      "exits": "1205",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/registration.html",
+      "visits": "222",
+      "pageviews": "467",
+      "users": "145",
+      "pageviews_per_session": "2.1036036036036037",
+      "avg_session_duration": "214.3153153153153",
+      "exits": "222",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/",
+      "visits": "139",
+      "pageviews": "201",
+      "users": "113",
+      "pageviews_per_session": "1.4460431654676258",
+      "avg_session_duration": "27.928057553956833",
+      "exits": "139",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/login.html",
+      "visits": "85",
+      "pageviews": "200",
+      "users": "47",
+      "pageviews_per_session": "2.3529411764705883",
+      "avg_session_duration": "79.50588235294117",
+      "exits": "85",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/faq.html",
+      "visits": "16",
+      "pageviews": "31",
+      "users": "16",
+      "pageviews_per_session": "1.9375",
+      "avg_session_duration": "152.75",
+      "exits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon//index.html",
+      "visits": "1",
+      "pageviews": "2",
+      "users": "1",
+      "pageviews_per_session": "2.0",
+      "avg_session_duration": "726.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR02hh0LwxW0Ycn5MJ_e3vzl-NdNanNltashaZ_HU6gpVN9vJBqcXVky7mk",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR0Dhk0i2shoIH6Dw287w_VgvAZPRF-Azlh98AdQEkHEgoxtw3fepocwE-s",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR0frvWzXk3Fg_fRObPuULYi7fITKmiyeNrQr0dQdHjDILAoiiO8wgcBojc",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR1Xzh94oNBxPyQSzZFuv6RVvFhbKcIJs1lh9v-D9bH-NMQQ7wBf0IPQ33A",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR1lzP0DqhCD_jd2FU1MYBtJIz5HpBR6v6U4qjaCNCjMWX2zQ5I-Qeja9BI",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR202vU09UhodKRgI2xF8QK7ki76ujNn3SM49KgROvPgfBDWg0May7QIZUY",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR2CbiCmqeaJr5_HyquHSDFspSRpnuA9O8Ut8_n941Hkb7jibBbiyeGIpM8",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR2U-c-HkcThLvGXpz9-3VMC8hQDsaK6XJdctP90qbUq60-g_37EI8F6MFk",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR2U6erUIi7qMrox2vimxhcrsgCPkZiEW-UFdSas3tGe_f3RF6n3dvSw654",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR2aPpSG52R9yxAFbo0OPsvHmybZxcRrY1HPwzfIYuGZuDHFdOkT-KQ-KhA",
+      "visits": "1",
+      "pageviews": "3",
+      "users": "1",
+      "pageviews_per_session": "3.0",
+      "avg_session_duration": "180.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR2om3DitaSrXcdKeiOwL8FlfFMY00iG08CqdDSzch9dQkhrKVETV8Cb0ts",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR36_lDKoCbGivmT8MURnztA_wpUW1oIWNupdaoEyB6Y3Gk2G67PVrzxnFw",
+      "visits": "1",
+      "pageviews": "2",
+      "users": "1",
+      "pageviews_per_session": "2.0",
+      "avg_session_duration": "82.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/beacon/bid-opportunities.html?fbclid=IwAR3Ni06NaaIbVvoJC6S__nCR65Vu66ISPo6bEWX_O8u6UQ9lPQ5IrcHhmhg",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 2040,
+    "visits": 3051
+  },
+  "taken_at": "2019-03-15T21:24:36.929Z"
+}

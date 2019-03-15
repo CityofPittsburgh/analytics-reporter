@@ -1,0 +1,83 @@
+{
+  "name": "top-landing-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:landingPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Landing Pages (30 Days)",
+    "description": "Last 30 days' Landing Pages, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "landing_page": "/onepgh/",
+      "visits": "178",
+      "pageviews": "194",
+      "users": "143",
+      "pageviews_per_session": "1.0898876404494382",
+      "avg_session_duration": "69.14044943820225",
+      "exits": "178",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/onepgh/index.html",
+      "visits": "114",
+      "pageviews": "136",
+      "users": "104",
+      "pageviews_per_session": "1.1929824561403508",
+      "avg_session_duration": "76.96491228070175",
+      "exits": "114",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "(not set)",
+      "visits": "7",
+      "pageviews": "0",
+      "users": "7",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "577.7142857142857",
+      "exits": "0",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/onepgh/beta/index.html",
+      "visits": "3",
+      "pageviews": "5",
+      "users": "3",
+      "pageviews_per_session": "1.6666666666666667",
+      "avg_session_duration": "13.0",
+      "exits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "landing_page": "/onepgh/beta/library.html",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 258,
+    "visits": 303
+  },
+  "taken_at": "2019-03-15T21:21:44.080Z"
+}
