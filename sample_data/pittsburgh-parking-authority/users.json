@@ -20,21 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "visits": "1518",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "visits": "1101",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "visits": "1892",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "visits": "1663",
       "domain": "http://pittsburghparkingauthority.com"
@@ -468,10 +453,25 @@
       "date": "2019-03-14",
       "visits": "1855",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "visits": "2335",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "visits": "1731",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "visits": "1150",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 147095
+    "visits": 147800
   },
-  "taken_at": "2019-03-15T21:23:31.574Z"
+  "taken_at": "2019-03-18T19:45:04.494Z"
 }

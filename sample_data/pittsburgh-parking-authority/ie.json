@@ -22,48 +22,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser_version": "11.0",
-      "visits": "26",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser_version": "8.0",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser_version": "11.0",
-      "visits": "11",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser_version": "8.0",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "11.0",
-      "visits": "129",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "10.0",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "8.0",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "browser_version": "11.0",
       "visits": "108",
@@ -1292,17 +1250,47 @@
       "browser_version": "7.0",
       "visits": "1",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser_version": "11.0",
+      "visits": "135",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser_version": "8.0",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser_version": "7.0",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser_version": "11.0",
+      "visits": "24",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser_version": "11.0",
+      "visits": "18",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 7509,
+    "visits": 7518,
     "ie_version": {
-      "11.0": 7350,
-      "8.0": 82,
-      "10.0": 7,
-      "7.0": 51,
-      "9.0": 19
+      "11.0": 7361,
+      "7.0": 52,
+      "8.0": 80,
+      "9.0": 19,
+      "10.0": 6
     }
   },
-  "taken_at": "2019-03-15T21:23:35.048Z"
+  "taken_at": "2019-03-18T19:45:09.969Z"
 }

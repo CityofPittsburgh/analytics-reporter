@@ -258,14 +258,32 @@
       "language": "en-us",
       "visits": "39",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "language": "en-us",
+      "visits": "28",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "language": "en-us",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "language": "en-us",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 1217,
+    "visits": 1265,
     "languages": {
-      "en-us": 1215,
+      "en-us": 1263,
       "en-gb": 2
     }
   },
-  "taken_at": "2019-03-15T21:22:33.974Z"
+  "taken_at": "2019-03-18T19:44:27.148Z"
 }

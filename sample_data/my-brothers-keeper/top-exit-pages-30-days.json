@@ -26,12 +26,12 @@
   "data": [
     {
       "exit_page": "/mayor/mbk/index.html",
-      "visits": "133",
-      "pageviews": "176",
-      "users": "120",
-      "pageviews_per_session": "1.3233082706766917",
-      "avg_session_duration": "50.285714285714285",
-      "exits": "133",
+      "visits": "125",
+      "pageviews": "166",
+      "users": "115",
+      "pageviews_per_session": "1.328",
+      "avg_session_duration": "40.112",
+      "exits": "125",
       "domain": "http://mbkpgh.pittsburghpa.gov"
     },
     {
@@ -46,32 +46,22 @@
     },
     {
       "exit_page": "/mayor/mbk/playbook.html",
-      "visits": "12",
-      "pageviews": "19",
-      "users": "11",
-      "pageviews_per_session": "1.5833333333333333",
-      "avg_session_duration": "132.41666666666666",
-      "exits": "12",
+      "visits": "9",
+      "pageviews": "16",
+      "users": "9",
+      "pageviews_per_session": "1.7777777777777777",
+      "avg_session_duration": "176.55555555555554",
+      "exits": "9",
       "domain": "http://mbkpgh.pittsburghpa.gov"
     },
     {
       "exit_page": "/mayor/mbk/news.html",
-      "visits": "8",
-      "pageviews": "42",
-      "users": "7",
-      "pageviews_per_session": "5.25",
-      "avg_session_duration": "286.875",
-      "exits": "8",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/mayor/mbk/overview.html",
-      "visits": "4",
-      "pageviews": "16",
-      "users": "4",
-      "pageviews_per_session": "4.0",
-      "avg_session_duration": "186.25",
-      "exits": "4",
+      "visits": "7",
+      "pageviews": "40",
+      "users": "6",
+      "pageviews_per_session": "5.714285714285714",
+      "avg_session_duration": "323.42857142857144",
+      "exits": "7",
       "domain": "http://mbkpgh.pittsburghpa.gov"
     },
     {
@@ -81,6 +71,16 @@
       "users": "3",
       "pageviews_per_session": "3.0",
       "avg_session_duration": "50.0",
+      "exits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/mayor/mbk/overview.html",
+      "visits": "3",
+      "pageviews": "10",
+      "users": "3",
+      "pageviews_per_session": "3.3333333333333335",
+      "avg_session_duration": "102.33333333333333",
       "exits": "3",
       "domain": "http://mbkpgh.pittsburghpa.gov"
     },
@@ -105,29 +105,19 @@
       "domain": "http://mbkpgh.pittsburghpa.gov"
     },
     {
-      "exit_page": "/mayor/mbk/index.html?fbclid=IwAR0XQvj8TRapIRj8CHnzCp06E43CsQicy3FaRHtyt6vdpE8Krc2m9upNBVA",
+      "exit_page": "/mayor/mbk/collaboration.html",
       "visits": "1",
-      "pageviews": "1",
+      "pageviews": "2",
       "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/mayor/mbk/index.html?fbclid=IwAR1vnKbj3x_Q372EcB4JJedlHeuhoaLkcQ6ZtbyPDKQZDSITe3AMQANXLew",
-      "visits": "1",
-      "pageviews": "1",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
+      "pageviews_per_session": "2.0",
+      "avg_session_duration": "158.0",
       "exits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "users": 161,
-    "visits": 178
+    "users": 151,
+    "visits": 164
   },
-  "taken_at": "2019-03-15T21:20:47.837Z"
+  "taken_at": "2019-03-18T19:43:31.807Z"
 }

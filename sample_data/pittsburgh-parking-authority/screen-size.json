@@ -20,1458 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "screen_resolution": "1024x1366",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1024x600",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1024x768",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1067x600",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1093x614",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1093x615",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1120x630",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1129x635",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1138x640",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1200x800",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1241x698",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1280x1024",
-      "visits": "9",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1280x720",
-      "visits": "23",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1280x800",
-      "visits": "68",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1281x721",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1324x745",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1360x768",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1366x768",
-      "visits": "65",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1368x912",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1440x900",
-      "visits": "88",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1500x1000",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1536x864",
-      "visits": "32",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1563x1042",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1600x900",
-      "visits": "18",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1632x918",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1670x939",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1680x1050",
-      "visits": "16",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1726x971",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1745x982",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1821x1024",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1829x1029",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1920x1080",
-      "visits": "78",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "1920x1200",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "2000x2000",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "2021x1137",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "2048x1152",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "2560x1440",
-      "visits": "12",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "320x568",
-      "visits": "67",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "320x569",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "320x570",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "346x749",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "360x592",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "360x640",
-      "visits": "128",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "360x668",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "360x720",
-      "visits": "10",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "360x740",
-      "visits": "46",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "375x667",
-      "visits": "328",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "375x812",
-      "visits": "97",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "376x668",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "377x753",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "393x786",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "393x818",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "412x732",
-      "visits": "37",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "412x823",
-      "visits": "9",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "412x846",
-      "visits": "37",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "412x892",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "414x736",
-      "visits": "144",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "414x896",
-      "visits": "32",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "424x753",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "432x864",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "485x969",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "640x360",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "640x768",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "768x1024",
-      "visits": "63",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "800x1200",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "800x1280",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "800x600",
-      "visits": "11",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "834x1112",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "834x1194",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "962x601",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1024x1366",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1024x768",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1093x614",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1093x615",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1097x617",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1129x635",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1200x675",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1200x800",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1280x1024",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1280x720",
-      "visits": "17",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1280x800",
-      "visits": "48",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1280x960",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1344x840",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1366x768",
-      "visits": "57",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1368x912",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1400x1050",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1440x900",
-      "visits": "68",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1440x960",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1463x823",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1500x1000",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1504x1003",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1518x853",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1536x864",
-      "visits": "34",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1536x960",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1600x900",
-      "visits": "15",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1680x1050",
-      "visits": "9",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1680x945",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1684x947",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1920x1080",
-      "visits": "47",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1920x1200",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "2000x2000",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "2048x1152",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "2560x1080",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "2560x1440",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "3200x1800",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "320x534",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "320x568",
-      "visits": "51",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "320x569",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "320x570",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "320x658",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "353x706",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x592",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x640",
-      "visits": "64",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x668",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x692",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x720",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x740",
-      "visits": "25",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "360x747",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "375x667",
-      "visits": "262",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "375x812",
-      "visits": "94",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "3840x2160",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "393x786",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "412x732",
-      "visits": "18",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "412x823",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "412x846",
-      "visits": "31",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "412x892",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "414x736",
-      "visits": "101",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "414x896",
-      "visits": "20",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "424x753",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "485x995",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "534x301",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "601x962",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "768x1024",
-      "visits": "51",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "800x1280",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "800x600",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "834x1112",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x1024",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x1366",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x600",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x640",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x768",
-      "visits": "11",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x819",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x820",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1050x1680",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1067x600",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1080x1920",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1093x614",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1093x615",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1097x617",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1098x618",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1120x700",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1129x635",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1152x720",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1200x1920",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1241x698",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1242x698",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1244x778",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x1024",
-      "visits": "36",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x720",
-      "visits": "49",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x768",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x800",
-      "visits": "96",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x960",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1309x818",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1324x745",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1333x750",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1344x840",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1347x1078",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1360x768",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1366x768",
-      "visits": "91",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1368x912",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1371x771",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1423x800",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1438x808",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1440x900",
-      "visits": "145",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1440x960",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1477x831",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1486x836",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1500x1000",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1512x850",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1516x947",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1518x853",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1524x857",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1536x864",
-      "visits": "70",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1579x1053",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1587x893",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1600x1000",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1600x900",
-      "visits": "52",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1607x904",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1670x939",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1680x1050",
-      "visits": "44",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1707x960",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1745x982",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1825x1027",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1920x1080",
-      "visits": "264",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1920x1200",
-      "visits": "10",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1951x1097",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2021x1137",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2048x1152",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2057x1157",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2259x1271",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2299x1293",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2304x1296",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2400x1350",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2438x1371",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2541x1064",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2560x1080",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "2560x1440",
-      "visits": "21",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "3072x1728",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x534",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x568",
-      "visits": "49",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x569",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x570",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x640",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x658",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "320x694",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "3440x1440",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "360x600",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "360x640",
-      "visits": "76",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "360x668",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "360x720",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "360x740",
-      "visits": "46",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "375x667",
-      "visits": "277",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "375x812",
-      "visits": "103",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "376x668",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "393x786",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "408x839",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "412x618",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "412x732",
-      "visits": "26",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "412x823",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "412x846",
-      "visits": "45",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "412x892",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "414x736",
-      "visits": "145",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "414x896",
-      "visits": "31",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "424x753",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "485x861",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "534x301",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "601x916",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "768x1024",
-      "visits": "41",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "800x600",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "834x1112",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "834x1194",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "911x512",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "screen_resolution": "1012x569",
       "visits": "1",
@@ -47958,213 +46506,1688 @@
       "screen_resolution": "970x545",
       "visits": "1",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1024x1366",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1024x615",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1024x640",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1024x768",
+      "visits": "13",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1024x819",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1067x600",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1080x1920",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1093x614",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1093x615",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1120x700",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1129x635",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1152x720",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1152x864",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1181x664",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1229x691",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1242x698",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x1024",
+      "visits": "36",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x2048",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x720",
+      "visits": "54",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x721",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x800",
+      "visits": "81",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x853",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x960",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1324x745",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1333x750",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1334x889",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1344x756",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1344x840",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1360x768",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1364x768",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1365x1024",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1366x768",
+      "visits": "116",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1368x912",
+      "visits": "6",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1400x900",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1422x800",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1438x808",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1440x900",
+      "visits": "154",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1440x960",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1454x818",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1463x823",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1500x1000",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1504x1003",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1518x853",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1524x857",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1536x864",
+      "visits": "93",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1536x960",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1584x828",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1600x1200",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1600x900",
+      "visits": "49",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1646x926",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1670x939",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1680x1050",
+      "visits": "51",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1707x960",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1745x982",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1778x1000",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1807x1016",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1821x1024",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1829x1029",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1862x1396",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1920x1080",
+      "visits": "264",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1920x1200",
+      "visits": "18",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1939x1091",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2021x1137",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2048x1152",
+      "visits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2133x1200",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2560x1080",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2560x1440",
+      "visits": "15",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "2560x1600",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "3008x1692",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x534",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x568",
+      "visits": "76",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x569",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x570",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x640",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "320x658",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "3440x1440",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x640",
+      "visits": "126",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x692",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x720",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x740",
+      "visits": "74",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x750",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "360x780",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "375x667",
+      "visits": "365",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "375x812",
+      "visits": "160",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "377x753",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "393x786",
+      "visits": "12",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x732",
+      "visits": "25",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x797",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x823",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x846",
+      "visits": "59",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x869",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x892",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "414x736",
+      "visits": "175",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "414x851",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "414x896",
+      "visits": "110",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "424x848",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "463x925",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "485x861",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "601x962",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "640x360",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "686x1098",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "768x1024",
+      "visits": "35",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "800x1280",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "800x600",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "834x1112",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1012x569",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1024x1366",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1024x600",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1024x640",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1024x768",
+      "visits": "6",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1051x591",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1093x615",
+      "visits": "6",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1152x864",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1200x800",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1216x811",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1229x691",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1242x698",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1280x1024",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1280x720",
+      "visits": "24",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1280x800",
+      "visits": "66",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1309x818",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1333x750",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1344x756",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1360x768",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1365x1024",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1366x768",
+      "visits": "61",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1368x768",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1368x912",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1391x783",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1402x792",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1422x800",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1438x808",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1440x900",
+      "visits": "97",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1440x960",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1477x831",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1536x864",
+      "visits": "35",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1600x900",
+      "visits": "22",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1607x904",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1680x1050",
+      "visits": "12",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1680x945",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1707x960",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1708x960",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1842x1036",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1920x1080",
+      "visits": "76",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1920x1200",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "2048x1152",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "2560x1080",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "2560x1440",
+      "visits": "12",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "320x568",
+      "visits": "73",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "320x569",
+      "visits": "6",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "320x658",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x640",
+      "visits": "118",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x678",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x720",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x740",
+      "visits": "67",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x760",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "360x780",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "375x667",
+      "visits": "346",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "375x812",
+      "visits": "147",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "376x668",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "377x774",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "393x786",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "412x732",
+      "visits": "33",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "412x823",
+      "visits": "14",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "412x846",
+      "visits": "69",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "412x869",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "412x892",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "414x736",
+      "visits": "179",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "414x803",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "414x896",
+      "visits": "97",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "424x753",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "455x910",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "480x800",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "485x969",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "534x301",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "600x1024",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "600x960",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "601x962",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "640x360",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "640x768",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "768x1024",
+      "visits": "42",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "800x1280",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "800x600",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "834x1112",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "834x1194",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "846x412",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "962x601",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "992x661",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1024x1366",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1024x768",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1067x800",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1088x612",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1093x614",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1098x618",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1098x686",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1255x706",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1280x1024",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1280x720",
+      "visits": "28",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1280x800",
+      "visits": "72",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1301x731",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1360x768",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1366x768",
+      "visits": "74",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1368x768",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1368x912",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1395x930",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1422x800",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1440x900",
+      "visits": "99",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1440x960",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1477x831",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1500x1000",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1536x864",
+      "visits": "32",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1536x960",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1600x900",
+      "visits": "20",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1670x939",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1680x1050",
+      "visits": "13",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1707x960",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1821x1024",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1829x1029",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1920x1080",
+      "visits": "64",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1920x1200",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "2048x1080",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "2560x1080",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "2560x1440",
+      "visits": "9",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "320x568",
+      "visits": "30",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "320x569",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "320x570",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "320x658",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "3440x1440",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "360x640",
+      "visits": "49",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "360x720",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "360x740",
+      "visits": "27",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "375x667",
+      "visits": "221",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "375x812",
+      "visits": "80",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "376x668",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "393x786",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "412x732",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "412x823",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "412x846",
+      "visits": "28",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "412x869",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "414x736",
+      "visits": "109",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "414x803",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "414x896",
+      "visits": "65",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "424x753",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "461x768",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "485x969",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "534x854",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "601x962",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "640x480",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "768x1024",
+      "visits": "32",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "800x1280",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "800x600",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "834x1112",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "834x1194",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "962x601",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 147095,
+    "visits": 147800,
     "screen_resolution": {
+      "1012x569": 5,
       "1024x1366": 417,
-      "1024x600": 51,
-      "1024x768": 654,
-      "1067x600": 42,
-      "1093x614": 120,
-      "1093x615": 119,
-      "1120x630": 1,
-      "1129x635": 14,
-      "1138x640": 36,
-      "1200x800": 64,
-      "1241x698": 11,
-      "1280x1024": 1939,
-      "1280x720": 3581,
-      "1280x800": 6670,
-      "1281x721": 1,
-      "1324x745": 85,
-      "1360x768": 190,
-      "1366x768": 7479,
-      "1368x912": 451,
-      "1440x900": 10637,
-      "1500x1000": 202,
-      "1536x864": 5514,
-      "1563x1042": 9,
-      "1600x900": 3447,
-      "1632x918": 2,
-      "1670x939": 63,
-      "1680x1050": 2699,
-      "1726x971": 1,
-      "1745x982": 95,
-      "1821x1024": 66,
-      "1829x1029": 102,
-      "1920x1080": 14637,
-      "1920x1200": 992,
-      "2000x2000": 51,
-      "2021x1137": 106,
-      "2048x1152": 352,
-      "2560x1440": 1294,
-      "320x568": 4270,
-      "320x569": 292,
-      "320x570": 299,
-      "346x749": 5,
-      "360x592": 14,
-      "360x640": 7289,
-      "360x668": 23,
-      "360x720": 671,
-      "360x740": 4083,
-      "375x667": 24827,
-      "375x812": 9669,
-      "376x668": 63,
-      "377x753": 29,
-      "393x786": 345,
-      "393x818": 2,
-      "412x732": 1920,
-      "412x823": 693,
-      "412x846": 3803,
-      "412x892": 213,
-      "414x736": 11701,
-      "414x896": 4854,
-      "424x753": 90,
-      "432x864": 3,
-      "485x969": 72,
-      "640x360": 40,
-      "640x768": 23,
-      "768x1024": 3268,
-      "800x1200": 2,
-      "800x1280": 110,
-      "800x600": 385,
-      "834x1112": 324,
-      "834x1194": 65,
-      "962x601": 54,
-      "1097x617": 31,
-      "1200x675": 14,
-      "1280x960": 199,
-      "1344x840": 228,
-      "1400x1050": 14,
-      "1440x960": 170,
-      "1463x823": 28,
-      "1504x1003": 118,
-      "1518x853": 49,
-      "1536x960": 65,
-      "1680x945": 8,
-      "1684x947": 42,
-      "2560x1080": 126,
-      "3200x1800": 3,
-      "320x534": 70,
-      "320x658": 111,
-      "353x706": 24,
-      "360x692": 32,
-      "360x747": 5,
-      "3840x2160": 34,
-      "485x995": 16,
-      "534x301": 31,
-      "601x962": 112,
-      "1024x1024": 11,
-      "1024x640": 24,
-      "1024x819": 61,
-      "1024x820": 68,
-      "1050x1680": 10,
-      "1080x1920": 18,
-      "1098x618": 34,
-      "1120x700": 37,
-      "1152x720": 100,
-      "1200x1920": 5,
-      "1242x698": 46,
-      "1244x778": 2,
-      "1280x768": 84,
-      "1309x818": 9,
-      "1333x750": 12,
-      "1347x1078": 15,
-      "1371x771": 29,
-      "1423x800": 10,
-      "1438x808": 75,
-      "1477x831": 58,
-      "1486x836": 1,
-      "1512x850": 5,
-      "1516x947": 11,
-      "1524x857": 32,
-      "1579x1053": 6,
-      "1587x893": 4,
-      "1600x1000": 30,
-      "1607x904": 39,
-      "1707x960": 154,
-      "1825x1027": 1,
-      "1951x1097": 14,
-      "2057x1157": 4,
-      "2259x1271": 25,
-      "2299x1293": 1,
-      "2304x1296": 10,
-      "2400x1350": 23,
-      "2438x1371": 1,
-      "2541x1064": 1,
-      "3072x1728": 10,
-      "320x640": 30,
-      "320x694": 3,
-      "3440x1440": 105,
-      "360x600": 2,
-      "408x839": 2,
-      "412x618": 15,
-      "485x861": 15,
-      "601x916": 1,
-      "911x512": 7,
-      "1012x569": 3,
       "1024x576": 21,
+      "1024x768": 659,
+      "1050x1680": 9,
+      "1093x614": 120,
+      "1093x615": 124,
+      "1098x618": 34,
       "1113x626": 2,
+      "1129x635": 12,
+      "1138x640": 35,
       "1187x667": 24,
-      "1216x811": 14,
+      "1200x800": 62,
+      "1216x811": 15,
       "1239x697": 14,
-      "1365x1024": 11,
+      "1280x1024": 1939,
+      "1280x720": 3598,
+      "1280x768": 83,
+      "1280x800": 6677,
+      "1280x960": 195,
+      "1324x745": 88,
+      "1344x840": 224,
+      "1360x768": 193,
+      "1365x1024": 13,
+      "1366x768": 7517,
+      "1368x912": 452,
+      "1438x808": 79,
+      "1440x900": 10686,
+      "1440x960": 170,
       "1463x976": 1,
+      "1477x831": 59,
+      "1500x1000": 206,
+      "1518x853": 50,
+      "1536x864": 5538,
       "1536x865": 22,
+      "1536x960": 69,
       "1537x864": 12,
       "1548x871": 4,
       "1564x1043": 8,
-      "1600x1200": 78,
+      "1600x1000": 29,
+      "1600x1200": 79,
+      "1600x900": 3453,
+      "1607x904": 39,
       "1620x1080": 24,
+      "1670x939": 65,
+      "1680x1050": 2706,
       "1707x1067": 9,
+      "1707x960": 156,
+      "1745x982": 96,
+      "1829x1029": 100,
       "1832x1031": 1,
       "1864x1165": 1,
+      "1920x1080": 14652,
+      "1920x1200": 1002,
       "1959x1102": 2,
+      "2021x1137": 104,
+      "2048x1152": 356,
+      "2057x1157": 3,
+      "2560x1080": 125,
+      "2560x1440": 1290,
       "2743x1543": 7,
       "320x480": 21,
-      "360x780": 18,
-      "377x774": 4,
+      "320x534": 69,
+      "320x568": 4282,
+      "320x569": 290,
+      "320x570": 299,
+      "3440x1440": 105,
+      "360x592": 11,
+      "360x640": 7314,
+      "360x720": 674,
+      "360x740": 4134,
+      "360x780": 20,
+      "375x667": 24892,
+      "375x812": 9762,
+      "377x753": 30,
+      "377x774": 6,
+      "393x786": 349,
+      "412x618": 14,
+      "412x732": 1908,
+      "412x823": 698,
+      "412x846": 3846,
+      "412x892": 215,
+      "414x736": 11774,
+      "414x896": 5043,
+      "424x753": 81,
+      "432x864": 2,
+      "601x962": 119,
       "686x386": 1,
-      "846x412": 19,
+      "768x1024": 3222,
+      "800x1280": 113,
+      "800x600": 375,
+      "834x1112": 316,
+      "834x1194": 65,
+      "846x412": 20,
       "864x1536": 2,
       "874x492": 1,
+      "962x601": 56,
+      "1024x600": 49,
+      "1024x819": 61,
+      "1024x820": 67,
       "1067x853": 4,
-      "1152x864": 34,
+      "1120x700": 37,
+      "1152x720": 101,
+      "1152x864": 36,
       "1188x668": 31,
-      "1280x721": 12,
-      "1301x731": 67,
+      "1280x721": 13,
+      "1301x731": 70,
+      "1309x818": 9,
       "1310x738": 1,
       "1327x746": 1,
-      "1400x900": 31,
+      "1347x1078": 13,
+      "1371x771": 28,
+      "1400x900": 32,
       "1455x818": 32,
+      "1504x1003": 116,
+      "1516x947": 10,
+      "1524x857": 32,
       "1580x1185": 1,
       "1639x922": 13,
-      "1778x1000": 30,
+      "1684x947": 41,
+      "1778x1000": 31,
       "1813x1020": 2,
+      "1821x1024": 67,
       "2021x1263": 4,
       "2048x1153": 4,
+      "2259x1271": 24,
       "2294x960": 1,
-      "2560x1600": 41,
+      "2560x1600": 42,
       "360x670": 4,
-      "360x678": 2,
-      "424x848": 16,
+      "360x678": 3,
+      "376x668": 62,
+      "3840x2160": 33,
+      "424x848": 17,
       "438x854": 41,
       "455x960": 6,
+      "485x861": 15,
+      "485x969": 72,
+      "534x301": 30,
+      "640x768": 23,
       "1024x1280": 6,
       "1094x615": 2,
       "1164x931": 21,
-      "1229x691": 31,
+      "1229x691": 33,
       "1272x970": 1,
       "1280x854": 36,
       "1336x751": 5,
-      "1391x783": 23,
+      "1391x783": 24,
       "1422x1138": 18,
       "1422x853": 2,
+      "1463x823": 28,
       "1506x847": 3,
       "1524x1143": 5,
-      "1708x960": 23,
+      "1708x960": 24,
       "1708x961": 1,
       "1710x1140": 2,
       "1864x1049": 3,
@@ -48174,20 +48197,25 @@
       "2226x939": 1,
       "2588x1725": 1,
       "2880x1620": 2,
+      "320x658": 114,
       "357x595": 6,
-      "412x869": 64,
+      "412x869": 70,
       "540x960": 1,
-      "600x960": 18,
+      "600x960": 19,
       "800x1270": 1,
+      "911x512": 6,
+      "1024x640": 25,
+      "1067x600": 40,
       "1077x606": 1,
       "1079x607": 1,
       "1080x720": 11,
-      "1098x686": 3,
+      "1097x617": 29,
+      "1098x686": 4,
       "1102x689": 1,
       "1123x632": 2,
       "1219x975": 11,
       "1338x892": 1,
-      "1364x768": 13,
+      "1364x768": 15,
       "1368x913": 5,
       "1403x935": 1,
       "1527x955": 7,
@@ -48195,20 +48223,25 @@
       "1824x1216": 8,
       "1843x1037": 3,
       "1882x1059": 16,
-      "2133x1200": 57,
+      "2133x1200": 58,
       "2233x1256": 4,
       "2288x1287": 1,
       "2954x1662": 3,
-      "360x760": 11,
+      "360x692": 32,
+      "360x760": 12,
       "377x670": 13,
       "456x936": 1,
+      "485x995": 15,
+      "640x360": 41,
       "800x450": 2,
       "960x600": 16,
       "1143x643": 6,
+      "1200x675": 13,
       "1235x823": 7,
-      "1280x853": 21,
+      "1280x853": 22,
       "1546x966": 1,
       "1821x960": 1,
+      "2000x2000": 49,
       "2286x1286": 2,
       "2991x1252": 3,
       "320x427": 1,
@@ -48219,45 +48252,55 @@
       "854x534": 8,
       "(not set)": 20,
       "1067x667": 1,
+      "1423x800": 9,
       "1440x2160": 1,
       "1600x1067": 3,
       "1728x972": 2,
+      "353x706": 23,
       "414x688": 11,
-      "534x854": 11,
-      "600x1024": 25,
+      "534x854": 12,
+      "600x1024": 26,
       "960x540": 8,
       "1080x1812": 2,
+      "1080x1920": 18,
       "1113x890": 5,
       "1234x823": 4,
+      "1242x698": 47,
       "1252x782": 1,
       "1278x942": 1,
       "1440x810": 14,
+      "2304x1296": 8,
+      "346x749": 4,
       "408x725": 2,
       "678x408": 2,
-      "1368x768": 7,
-      "1646x926": 8,
-      "1807x1016": 9,
+      "1368x768": 10,
+      "1646x926": 9,
+      "1807x1016": 10,
+      "360x668": 20,
       "521x1128": 1,
       "929x1394": 1,
       "1408x792": 1,
-      "1422x800": 76,
+      "1422x800": 83,
       "1440x2880": 3,
       "1500x844": 2,
       "1663x1040": 2,
       "1794x1121": 1,
       "2268x1276": 1,
       "2520x1575": 2,
+      "320x640": 29,
       "324x666": 3,
+      "1024x1024": 10,
       "1024x614": 1,
-      "1181x664": 6,
+      "1181x664": 7,
       "1292x808": 4,
       "1300x731": 11,
       "1676x943": 2,
       "1745x981": 4,
       "2240x1400": 6,
+      "2400x1350": 22,
       "2543x1430": 1,
       "376x564": 2,
-      "414x851": 4,
+      "414x851": 6,
       "1011x568": 4,
       "1182x665": 1,
       "1252x783": 4,
@@ -48276,9 +48319,10 @@
       "2000x1125": 15,
       "375x627": 8,
       "480x805": 2,
-      "1051x591": 18,
+      "1051x591": 19,
       "1164x655": 10,
       "1301x672": 1,
+      "1400x1050": 13,
       "320x528": 7,
       "360x671": 2,
       "408x791": 6,
@@ -48288,10 +48332,11 @@
       "1024x1820": 6,
       "1138x853": 3,
       "1263x711": 1,
-      "1334x889": 7,
+      "1334x889": 8,
       "1347x842": 1,
       "1655x931": 2,
       "1858x1045": 4,
+      "1951x1097": 13,
       "393x699": 8,
       "403x671": 2,
       "732x412": 6,
@@ -48299,9 +48344,10 @@
       "1324x883": 1,
       "396x744": 7,
       "455x809": 2,
-      "463x925": 13,
-      "480x800": 13,
+      "463x925": 14,
+      "480x800": 14,
       "720x1280": 10,
+      "800x1200": 1,
       "823x412": 3,
       "854x1366": 1,
       "881x495": 1,
@@ -48312,8 +48358,11 @@
       "1707x1024": 4,
       "1728x1152": 6,
       "2048x864": 7,
+      "3072x1728": 9,
+      "3200x1800": 2,
       "1094x614": 4,
       "1216x760": 1,
+      "1333x750": 13,
       "1350x900": 7,
       "1369x912": 1,
       "1430x832": 1,
@@ -48322,7 +48371,7 @@
       "1846x1038": 5,
       "2160x1215": 1,
       "2194x1234": 7,
-      "3008x1692": 6,
+      "3008x1692": 7,
       "455x986": 3,
       "683x911": 9,
       "768x432": 1,
@@ -48330,16 +48379,18 @@
       "911x683": 4,
       "1120x840": 5,
       "1152x648": 1,
+      "1244x778": 1,
       "1282x721": 1,
       "1303x869": 3,
       "1387x780": 2,
+      "1512x850": 4,
       "1536x961": 4,
       "1729x1081": 1,
       "1846x1154": 1,
       "2051x1154": 1,
       "2160x1440": 5,
       "2226x1252": 1,
-      "686x1098": 5,
+      "686x1098": 6,
       "1200x750": 11,
       "1476x830": 4,
       "1490x993": 3,
@@ -48348,12 +48399,15 @@
       "320x196": 1,
       "421x865": 1,
       "1080x900": 4,
+      "1241x698": 9,
       "2824x1588": 1,
+      "320x694": 2,
       "408x678": 5,
-      "414x803": 13,
+      "414x803": 17,
       "1038x584": 3,
-      "1088x612": 4,
+      "1088x612": 5,
       "1094x730": 4,
+      "1200x1920": 4,
       "1289x859": 4,
       "1344x841": 5,
       "1440x812": 2,
@@ -48369,6 +48423,8 @@
       "1517x853": 11,
       "1554x1036": 1,
       "1561x878": 2,
+      "1579x1053": 5,
+      "1680x945": 8,
       "1714x1143": 4,
       "1929x1286": 1,
       "2091x1176": 2,
@@ -48380,13 +48436,14 @@
       "3096x1296": 1,
       "414x818": 1,
       "1536x1024": 5,
+      "1563x1042": 8,
       "1567x882": 1,
       "1636x920": 1,
       "1694x1059": 6,
-      "2048x1080": 4,
+      "2048x1080": 5,
       "2048x1280": 4,
       "360x512": 5,
-      "461x768": 1,
+      "461x768": 2,
       "1154x1080": 1,
       "1371x857": 7,
       "1396x785": 4,
@@ -48397,7 +48454,7 @@
       "2195x1235": 8,
       "2732x1536": 1,
       "360x604": 2,
-      "455x910": 13,
+      "455x910": 14,
       "1317x741": 5,
       "1366x800": 1,
       "1632x1020": 4,
@@ -48456,17 +48513,19 @@
       "1220x686": 1,
       "1680x965": 1,
       "2134x1200": 1,
+      "360x747": 4,
       "1296x864": 2,
       "1366x720": 1,
       "1776x1000": 3,
       "1461x913": 4,
       "1652x929": 2,
-      "412x797": 3,
+      "412x797": 4,
       "840x525": 1,
       "937x527": 1,
       "1347x808": 2,
       "1500x938": 1,
       "1536x804": 1,
+      "1587x893": 3,
       "1732x1082": 1,
       "517x826": 2,
       "1125x632": 2,
@@ -48481,11 +48540,11 @@
       "1148x645": 1,
       "1409x792": 1,
       "1463x915": 3,
-      "1939x1091": 2,
+      "1939x1091": 3,
       "408x743": 1,
       "1536x2048": 1,
       "1768x992": 1,
-      "360x750": 4,
+      "360x750": 5,
       "892x412": 1,
       "942x530": 2,
       "1466x824": 3,
@@ -48501,7 +48560,7 @@
       "1768x1105": 3,
       "1904x986": 2,
       "711x569": 2,
-      "1344x756": 3,
+      "1344x756": 5,
       "1901x1069": 5,
       "383x638": 2,
       "411x731": 2,
@@ -48519,6 +48578,7 @@
       "2704x1521": 1,
       "324x617": 2,
       "360x748": 5,
+      "408x839": 1,
       "820x615": 2,
       "2102x1182": 4,
       "1249x702": 1,
@@ -48576,6 +48636,7 @@
       "1699x956": 3,
       "346x692": 1,
       "346x712": 1,
+      "360x600": 1,
       "413x848": 1,
       "428x835": 1,
       "1315x740": 1,
@@ -48585,7 +48646,7 @@
       "1164x776": 1,
       "1615x1010": 2,
       "1979x1113": 2,
-      "640x480": 2,
+      "640x480": 3,
       "817x460": 1,
       "1103x621": 2,
       "1152x691": 1,
@@ -48642,6 +48703,7 @@
       "1050x590": 2,
       "1478x835": 1,
       "320x192": 1,
+      "393x818": 1,
       "736x414": 2,
       "1290x726": 1,
       "1707x1365": 3,
@@ -48654,7 +48716,7 @@
       "1536x1152": 2,
       "1953x1098": 1,
       "853x480": 5,
-      "1067x800": 1,
+      "1067x800": 2,
       "1110x624": 1,
       "1345x840": 1,
       "1537x865": 2,
@@ -48685,7 +48747,7 @@
       "1528x806": 1,
       "1059x706": 1,
       "1267x1014": 2,
-      "1280x2048": 1,
+      "1280x2048": 2,
       "1440x790": 1,
       "672x360": 1,
       "1366x980": 1,
@@ -48708,8 +48770,17 @@
       "1458x911": 1,
       "1694x953": 1,
       "692x360": 1,
-      "970x545": 1
+      "970x545": 1,
+      "1024x615": 1,
+      "1454x818": 1,
+      "1584x828": 1,
+      "1862x1396": 1,
+      "1402x792": 1,
+      "1842x1036": 1,
+      "992x661": 1,
+      "1255x706": 1,
+      "1395x930": 1
     }
   },
-  "taken_at": "2019-03-15T21:23:32.984Z"
+  "taken_at": "2019-03-18T19:45:06.360Z"
 }

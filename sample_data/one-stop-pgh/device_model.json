@@ -780,12 +780,84 @@
       "mobile_device": "iPhone",
       "visits": "7",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "LS675",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-N960U",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-S727P",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "XT1080",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "iPad",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "iPhone",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "SM-J710F",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPad",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPhone",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "SM-G930P",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "SM-J327V",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPad",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 260,
+    "visits": 277,
     "device_models": {
-      "iPhone": 130,
+      "iPhone": 135,
       "5056N": 1,
       "Pixel 2 XL": 2,
       "SM-G950U": 5,
@@ -793,9 +865,9 @@
       "SM-N960U1": 7,
       "SM-T387V": 4,
       "LG-M322": 1,
-      "iPad": 45,
+      "iPad": 50,
       "MP260": 1,
-      "SM-N960U": 3,
+      "SM-N960U": 4,
       "SM-S727T": 1,
       "A009": 1,
       "MS323": 1,
@@ -808,7 +880,7 @@
       "M327": 1,
       "XT1650": 1,
       "Moto G (5) Plus": 2,
-      "XT1080": 1,
+      "XT1080": 2,
       "XT1565": 1,
       "6062W": 1,
       "H830": 2,
@@ -827,8 +899,13 @@
       "SM-N950U": 1,
       "XT1710-02": 1,
       "LM-X210(G)": 1,
-      "SM-G360V": 1
+      "SM-G360V": 1,
+      "LS675": 1,
+      "SM-S727P": 1,
+      "SM-J710F": 1,
+      "SM-G930P": 1,
+      "SM-J327V": 1
     }
   },
-  "taken_at": "2019-03-15T21:22:35.319Z"
+  "taken_at": "2019-03-18T19:44:27.500Z"
 }

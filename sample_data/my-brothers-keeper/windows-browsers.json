@@ -22,48 +22,6 @@
   },
   "data": [
     {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "browser": "Chrome",
       "os_version": "10",
@@ -986,23 +944,44 @@
       "os_version": "10",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 217,
+    "visits": 213,
     "by_windows": {
       "7": {
         "Chrome": 41,
-        "Internet Explorer": 11,
+        "Internet Explorer": 10,
         "Firefox": 7
       },
       "10": {
-        "Chrome": 119,
+        "Chrome": 118,
         "Edge": 17,
-        "Firefox": 9,
-        "Opera": 2,
+        "Firefox": 8,
         "Internet Explorer": 8,
-        "YaBrowser": 1
+        "YaBrowser": 1,
+        "Opera": 1
       },
       "8.1": {
         "Internet Explorer": 1,
@@ -1012,28 +991,28 @@
     "by_browsers": {
       "Chrome": {
         "7": 41,
-        "10": 119,
+        "10": 118,
         "8.1": 1
+      },
+      "Internet Explorer": {
+        "7": 10,
+        "10": 8,
+        "8.1": 1
+      },
+      "Firefox": {
+        "7": 7,
+        "10": 8
       },
       "Edge": {
         "10": 17
       },
-      "Firefox": {
-        "7": 7,
-        "10": 9
-      },
-      "Internet Explorer": {
-        "7": 11,
-        "10": 8,
-        "8.1": 1
+      "YaBrowser": {
+        "10": 1
       },
       "Opera": {
-        "10": 2
-      },
-      "YaBrowser": {
         "10": 1
       }
     }
   },
-  "taken_at": "2019-03-15T21:20:42.980Z"
+  "taken_at": "2019-03-18T19:43:27.707Z"
 }

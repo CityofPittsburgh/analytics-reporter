@@ -21,83 +21,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser": "Safari",
-      "os": "iOS",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os": "Macintosh",
-      "visits": "6",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os": "Windows",
-      "visits": "3",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os": "Macintosh",
-      "visits": "3",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Safari",
-      "os": "Macintosh",
-      "visits": "3",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os": "Linux",
-      "visits": "2",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Edge",
-      "os": "Windows",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os": "Windows",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "os": "Windows",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "os": "Windows",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Safari",
-      "os": "Macintosh",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "browser": "Safari",
       "os": "iOS",
@@ -1867,31 +1790,63 @@
       "os": "Windows",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os": "Macintosh",
+      "visits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Edge",
+      "os": "Windows",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Safari",
+      "os": "Macintosh",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os": "Windows",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os": "iOS",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "by_os": {
       "iOS": {
-        "Safari": 70,
-        "Chrome": 16,
+        "Safari": 69,
+        "Chrome": 17,
         "Safari (in-app)": 3
       },
-      "Macintosh": {
-        "Chrome": 47,
-        "Firefox": 5,
-        "Safari": 28
-      },
       "Windows": {
-        "Chrome": 161,
+        "Chrome": 160,
+        "Internet Explorer": 19,
+        "Firefox": 15,
         "Edge": 17,
-        "Firefox": 16,
-        "Internet Explorer": 20,
-        "Opera": 2,
-        "YaBrowser": 1
+        "YaBrowser": 1,
+        "Opera": 1
       },
-      "Linux": {
-        "Chrome": 3
+      "Macintosh": {
+        "Chrome": 44,
+        "Safari": 25,
+        "Firefox": 2
       },
       "Chrome OS": {
         "Chrome": 6
@@ -1899,33 +1854,33 @@
       "Android": {
         "Chrome": 34,
         "Samsung Internet": 4
+      },
+      "Linux": {
+        "Chrome": 1
       }
     },
     "by_browsers": {
       "Safari": {
-        "iOS": 70,
-        "Macintosh": 28
+        "iOS": 69,
+        "Macintosh": 25
       },
       "Chrome": {
-        "Macintosh": 47,
-        "Windows": 161,
-        "Linux": 3,
+        "Windows": 160,
+        "Macintosh": 44,
         "Chrome OS": 6,
         "Android": 34,
-        "iOS": 16
+        "iOS": 17,
+        "Linux": 1
+      },
+      "Internet Explorer": {
+        "Windows": 19
       },
       "Firefox": {
-        "Macintosh": 5,
-        "Windows": 16
+        "Windows": 15,
+        "Macintosh": 2
       },
       "Edge": {
         "Windows": 17
-      },
-      "Internet Explorer": {
-        "Windows": 20
-      },
-      "Opera": {
-        "Windows": 2
       },
       "Samsung Internet": {
         "Android": 4
@@ -1933,10 +1888,13 @@
       "YaBrowser": {
         "Windows": 1
       },
+      "Opera": {
+        "Windows": 1
+      },
       "Safari (in-app)": {
         "iOS": 3
       }
     }
   },
-  "taken_at": "2019-03-15T21:20:42.714Z"
+  "taken_at": "2019-03-18T19:43:27.362Z"
 }

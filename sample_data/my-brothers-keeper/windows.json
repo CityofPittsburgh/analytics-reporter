@@ -21,18 +21,6 @@
   },
   "data": [
     {
-      "date": "2018-12-16",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "os_version": "10",
       "visits": "1",
@@ -643,15 +631,33 @@
       "os_version": "7",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 217,
+    "visits": 213,
     "os_version": {
-      "7": 59,
-      "10": 156,
+      "7": 58,
+      "10": 153,
       "8.1": 2
     }
   },
-  "taken_at": "2019-03-15T21:20:41.687Z"
+  "taken_at": "2019-03-18T19:43:25.735Z"
 }

@@ -595,17 +595,47 @@
       "os_version": "7",
       "visits": "9",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 895,
+    "visits": 920,
     "os_version": {
-      "7": 334,
+      "7": 341,
       "8": 2,
-      "10": 527,
-      "8.1": 30,
+      "10": 544,
+      "8.1": 31,
       "Vista": 2
     }
   },
-  "taken_at": "2019-03-15T21:22:35.662Z"
+  "taken_at": "2019-03-18T19:44:27.987Z"
 }

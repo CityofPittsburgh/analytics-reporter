@@ -26,68 +26,68 @@
   "data": [
     {
       "exit_page": "/onestoppgh/phase-one.html",
-      "visits": "508",
-      "pageviews": "805",
-      "users": "410",
-      "pageviews_per_session": "1.5846456692913387",
-      "avg_session_duration": "115.30708661417323",
-      "exits": "508",
+      "visits": "480",
+      "pageviews": "769",
+      "users": "394",
+      "pageviews_per_session": "1.6020833333333333",
+      "avg_session_duration": "111.59791666666666",
+      "exits": "480",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onestoppgh/",
-      "visits": "351",
-      "pageviews": "451",
-      "users": "289",
-      "pageviews_per_session": "1.2849002849002849",
-      "avg_session_duration": "65.33903133903134",
-      "exits": "351",
+      "visits": "328",
+      "pageviews": "419",
+      "users": "268",
+      "pageviews_per_session": "1.2774390243902438",
+      "avg_session_duration": "65.33536585365853",
+      "exits": "328",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onestoppgh/phase-two.html",
-      "visits": "101",
-      "pageviews": "170",
-      "users": "94",
-      "pageviews_per_session": "1.683168316831683",
-      "avg_session_duration": "46.71287128712871",
-      "exits": "101",
+      "visits": "106",
+      "pageviews": "175",
+      "users": "95",
+      "pageviews_per_session": "1.650943396226415",
+      "avg_session_duration": "44.509433962264154",
+      "exits": "106",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onestoppgh/index.html",
-      "visits": "26",
-      "pageviews": "59",
-      "users": "25",
-      "pageviews_per_session": "2.269230769230769",
-      "avg_session_duration": "149.80769230769232",
-      "exits": "26",
+      "visits": "27",
+      "pageviews": "62",
+      "users": "26",
+      "pageviews_per_session": "2.2962962962962963",
+      "avg_session_duration": "159.11111111111111",
+      "exits": "27",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onestoppgh/phase-four.html",
-      "visits": "22",
-      "pageviews": "59",
-      "users": "22",
-      "pageviews_per_session": "2.6818181818181817",
-      "avg_session_duration": "74.54545454545455",
-      "exits": "22",
+      "visits": "23",
+      "pageviews": "64",
+      "users": "23",
+      "pageviews_per_session": "2.782608695652174",
+      "avg_session_duration": "73.04347826086956",
+      "exits": "23",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onestoppgh/phase-three.html",
-      "visits": "13",
-      "pageviews": "40",
-      "users": "8",
-      "pageviews_per_session": "3.076923076923077",
-      "avg_session_duration": "200.0",
-      "exits": "13",
+      "visits": "10",
+      "pageviews": "19",
+      "users": "5",
+      "pageviews_per_session": "1.9",
+      "avg_session_duration": "29.8",
+      "exits": "10",
       "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "users": 848,
-    "visits": 1021
+    "users": 811,
+    "visits": 974
   },
-  "taken_at": "2019-03-15T21:22:39.443Z"
+  "taken_at": "2019-03-18T19:44:33.237Z"
 }

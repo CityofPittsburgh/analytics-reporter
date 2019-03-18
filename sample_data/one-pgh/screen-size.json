@@ -20,90 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "screen_resolution": "1280x1024",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "screen_resolution": "640x768",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1440x900",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1920x1080",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "768x1024",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1024x768",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1152x864",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x1024",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1280x800",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1440x900",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1620x1080",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1920x1080",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1920x1280",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "375x667",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "screen_resolution": "1024x768",
       "visits": "1",
@@ -3912,31 +3828,106 @@
       "screen_resolution": "414x896",
       "visits": "1",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1366x768",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1440x900",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1536x864",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "412x846",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "414x736",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1280x800",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1366x768",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "375x667",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "768x1024",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1280x720",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "1366x768",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "375x667",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "640x768",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
     "visits": 1085,
     "screen_resolution": {
-      "1280x1024": 45,
-      "640x768": 21,
-      "1440x900": 137,
-      "1920x1080": 208,
-      "768x1024": 29,
-      "1024x768": 20,
-      "1152x864": 2,
+      "1024x768": 19,
+      "1280x1024": 43,
+      "1280x720": 52,
       "1280x800": 39,
-      "1620x1080": 1,
-      "1920x1280": 1,
-      "375x667": 46,
-      "1280x720": 51,
-      "1366x768": 64,
+      "1366x768": 68,
       "1680x1050": 45,
+      "1920x1080": 206,
       "1920x1200": 22,
       "3440x1440": 1,
       "360x640": 26,
+      "375x667": 47,
+      "640x768": 21,
+      "768x1024": 29,
       "1368x912": 11,
+      "1440x900": 136,
       "2560x1440": 20,
-      "1536x864": 57,
+      "1536x864": 58,
       "320x568": 9,
       "360x740": 13,
       "412x823": 1,
@@ -3948,8 +3939,8 @@
       "1344x840": 5,
       "412x732": 6,
       "834x1112": 2,
-      "412x846": 5,
-      "414x736": 16,
+      "412x846": 6,
+      "414x736": 17,
       "1607x904": 1,
       "1694x1059": 1,
       "1707x960": 3,
@@ -3989,6 +3980,7 @@
       "2048x1152": 1,
       "1164x655": 1,
       "1525x858": 1,
+      "1152x864": 1,
       "864x1536": 1,
       "2560x1080": 1,
       "1745x982": 1,
@@ -3999,5 +3991,5 @@
       "1708x960": 1
     }
   },
-  "taken_at": "2019-03-15T21:21:39.244Z"
+  "taken_at": "2019-03-18T19:43:52.782Z"
 }

@@ -20,36 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "os": "iOS",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "os": "Linux",
-      "visits": "2",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "os": "Macintosh",
-      "visits": "12",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "os": "Windows",
-      "visits": "7",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "os": "Macintosh",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "os": "Windows",
       "visits": "1",
@@ -1200,18 +1170,42 @@
       "os": "Windows",
       "visits": "5",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "os": "Macintosh",
+      "visits": "4",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "os": "Windows",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "os": "Windows",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "os": "iOS",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "os": {
+      "Windows": 213,
       "iOS": 89,
-      "Linux": 3,
-      "Macintosh": 80,
-      "Windows": 217,
+      "Macintosh": 71,
       "Chrome OS": 6,
-      "Android": 38
+      "Android": 38,
+      "Linux": 1
     }
   },
-  "taken_at": "2019-03-15T21:20:40.126Z"
+  "taken_at": "2019-03-18T19:43:24.191Z"
 }

@@ -21,54 +21,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser": "Safari",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "visits": "11",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "visits": "4",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Safari",
-      "visits": "3",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Edge",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Safari",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "browser": "Safari",
       "visits": "2",
@@ -1105,21 +1057,51 @@
       "browser": "Firefox",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "visits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Edge",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Safari",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "browser": {
-      "Safari": 98,
-      "Chrome": 267,
-      "Firefox": 21,
+      "Safari": 94,
+      "Chrome": 262,
+      "Internet Explorer": 19,
+      "Firefox": 17,
       "Edge": 17,
-      "Internet Explorer": 20,
-      "Opera": 2,
       "Samsung Internet": 4,
       "YaBrowser": 1,
+      "Opera": 1,
       "Safari (in-app)": 3
     }
   },
-  "taken_at": "2019-03-15T21:20:41.995Z"
+  "taken_at": "2019-03-18T19:43:26.093Z"
 }

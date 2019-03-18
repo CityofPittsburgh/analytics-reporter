@@ -28,56 +28,67 @@
       "domain": "www.pittsburghpa.gov",
       "page": "/onepgh/",
       "page_title": "(not set)",
-      "pageviews": "189",
-      "visits": "180",
-      "users": "141",
-      "pageviews_per_session": "1.05",
-      "avg_session_duration": "73.24444444444444",
-      "exits": "174"
+      "pageviews": "170",
+      "visits": "163",
+      "users": "130",
+      "pageviews_per_session": "1.0429447852760736",
+      "avg_session_duration": "66.95705521472392",
+      "exits": "158"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/index.html",
       "page_title": "(not set)",
-      "pageviews": "136",
-      "visits": "116",
-      "users": "105",
-      "pageviews_per_session": "1.1724137931034482",
-      "avg_session_duration": "102.01724137931035",
-      "exits": "114"
-    },
-    {
-      "domain": "pittsburghpa.gov",
-      "page": "/onepgh/beta/index.html",
-      "page_title": "OnePGH Resilience Strategy - The Need to Support People, Planet, Place, and Performance.",
-      "pageviews": "5",
-      "visits": "3",
-      "users": "4",
-      "pageviews_per_session": "1.6666666666666667",
-      "avg_session_duration": "13.0",
-      "exits": "3"
+      "pageviews": "132",
+      "visits": "111",
+      "users": "101",
+      "pageviews_per_session": "1.1891891891891893",
+      "avg_session_duration": "89.77477477477477",
+      "exits": "111"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/",
       "page_title": "(not set)",
+      "pageviews": "5",
+      "visits": "4",
+      "users": "3",
+      "pageviews_per_session": "1.25",
+      "avg_session_duration": "26.75",
+      "exits": "4"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onepgh/beta/index.html",
+      "page_title": "OnePGH Resilience Strategy - The Need to Support People, Planet, Place, and Performance.",
       "pageviews": "4",
       "visits": "3",
-      "users": "2",
+      "users": "3",
       "pageviews_per_session": "1.3333333333333333",
-      "avg_session_duration": "35.666666666666664",
-      "exits": "3"
+      "avg_session_duration": "13.0",
+      "exits": "2"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/beta/library.html",
       "page_title": "OnePGH Resilience Strategy - The Need to Support People, Planet, Place, and Performance.",
-      "pageviews": "1",
-      "visits": "1",
+      "pageviews": "2",
+      "visits": "2",
       "users": "1",
       "pageviews_per_session": "1.0",
       "avg_session_duration": "0.0",
-      "exits": "1"
+      "exits": "2"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onepgh/index.html/onepgh/index.html",
+      "page_title": "(not set)",
+      "pageviews": "2",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
     },
     {
       "domain": "pittsburghpa.gov",
@@ -89,11 +100,22 @@
       "pageviews_per_session": "0.0",
       "avg_session_duration": "0.0",
       "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onepgh/index.html/onepgh/",
+      "page_title": "(not set)",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "36.0",
+      "exits": "0"
     }
   ],
   "totals": {
-    "users": 254,
-    "visits": 303
+    "users": 241,
+    "visits": 284
   },
-  "taken_at": "2019-03-15T21:21:42.944Z"
+  "taken_at": "2019-03-18T19:43:58.593Z"
 }

@@ -28,78 +28,78 @@
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeView/",
       "page_title": "Burgh's Eye View Points",
-      "pageviews": "1017",
-      "visits": "847",
-      "users": "759",
-      "pageviews_per_session": "1.2007083825265643",
-      "avg_session_duration": "153.45100354191263",
-      "exits": "708"
+      "pageviews": "943",
+      "visits": "797",
+      "users": "716",
+      "pageviews_per_session": "1.1831869510664994",
+      "avg_session_duration": "152.61355081555834",
+      "exits": "666"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewParcels/",
       "page_title": "Burgh's Eye View Parcels",
-      "pageviews": "288",
-      "visits": "137",
-      "users": "217",
-      "pageviews_per_session": "2.102189781021898",
-      "avg_session_duration": "114.16058394160584",
-      "exits": "175"
+      "pageviews": "271",
+      "visits": "134",
+      "users": "209",
+      "pageviews_per_session": "2.0223880597014925",
+      "avg_session_duration": "112.08208955223881",
+      "exits": "168"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewSteps/",
       "page_title": "Burgh's Eye View Steps",
       "pageviews": "224",
-      "visits": "177",
-      "users": "136",
-      "pageviews_per_session": "1.265536723163842",
-      "avg_session_duration": "146.5141242937853",
-      "exits": "159"
+      "visits": "176",
+      "users": "134",
+      "pageviews_per_session": "1.2727272727272727",
+      "avg_session_duration": "138.19886363636363",
+      "exits": "160"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewPlaces/",
       "page_title": "Burgh's Eye View Places",
-      "pageviews": "167",
-      "visits": "1",
-      "users": "131",
-      "pageviews_per_session": "167.0",
-      "avg_session_duration": "558.0",
-      "exits": "60"
+      "pageviews": "149",
+      "visits": "3",
+      "users": "122",
+      "pageviews_per_session": "49.666666666666664",
+      "avg_session_duration": "1677.0",
+      "exits": "55"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewPlacesPavingSchedule/",
       "page_title": "Burgh's Eye View Paving",
-      "pageviews": "117",
-      "visits": "94",
-      "users": "63",
-      "pageviews_per_session": "1.2446808510638299",
-      "avg_session_duration": "73.65957446808511",
-      "exits": "84"
-    },
-    {
-      "domain": "pittsburghpa.shinyapps.io",
-      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
-      "page_title": "Burgh's Eye View Points",
-      "pageviews": "60",
-      "visits": "38",
-      "users": "72",
-      "pageviews_per_session": "1.5789473684210527",
-      "avg_session_duration": "391.3421052631579",
-      "exits": "36"
+      "pageviews": "94",
+      "visits": "81",
+      "users": "55",
+      "pageviews_per_session": "1.1604938271604939",
+      "avg_session_duration": "52.65432098765432",
+      "exits": "73"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&district_select=null&environmental_select=null&flash_select=null&ft_select=[0,3696]&materials_select=null&navTab=\"Places\"&open_select=\"\"&operation_select=null&recreation_select=null&rentable_select=\"\"&report_select=\"City Assets\"&search=\"\"&toggleAssets=false&toggleBridges=false&toggleEconomic=false&toggleEnvironmental=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSteps=false&toggleStreets=false&toggleTraffic=false&toggleWalls=false&toggleWaste=true&usage_select=null&water_select=null&year_select=\"2017\"",
       "page_title": "Burgh's Eye View Places",
+      "pageviews": "60",
+      "visits": "57",
+      "users": "42",
+      "pageviews_per_session": "1.0526315789473684",
+      "avg_session_duration": "26.350877192982455",
+      "exits": "43"
+    },
+    {
+      "domain": "pittsburghpa.shinyapps.io",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
+      "page_title": "Burgh's Eye View Points",
       "pageviews": "58",
-      "visits": "55",
-      "users": "45",
-      "pageviews_per_session": "1.0545454545454545",
-      "avg_session_duration": "25.29090909090909",
-      "exits": "45"
+      "visits": "37",
+      "users": "62",
+      "pageviews_per_session": "1.5675675675675675",
+      "avg_session_duration": "357.56756756756755",
+      "exits": "37"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
@@ -116,22 +116,22 @@
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&navbar=\"Parcels\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
       "page_title": "Burgh's Eye View Parcels",
-      "pageviews": "32",
-      "visits": "22",
-      "users": "38",
-      "pageviews_per_session": "1.4545454545454546",
-      "avg_session_duration": "266.90909090909093",
-      "exits": "18"
+      "pageviews": "37",
+      "visits": "25",
+      "users": "40",
+      "pageviews_per_session": "1.48",
+      "avg_session_duration": "381.08",
+      "exits": "22"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeViewPlacesParks/",
       "page_title": "Burgh's Eye View Places",
-      "pageviews": "32",
-      "visits": "30",
-      "users": "24",
-      "pageviews_per_session": "1.0666666666666667",
-      "avg_session_duration": "47.766666666666666",
+      "pageviews": "31",
+      "visits": "29",
+      "users": "23",
+      "pageviews_per_session": "1.0689655172413792",
+      "avg_session_duration": "25.482758620689655",
       "exits": "25"
     },
     {
@@ -144,6 +144,17 @@
       "pageviews_per_session": "4.6",
       "avg_session_duration": "1480.6",
       "exits": "5"
+    },
+    {
+      "domain": "pittsburghpa.shinyapps.io",
+      "page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&designation_select=null&designation_select-selectized=\"\"&environmental_select=null&environmental_select-selectized=\"\"&flash_select=null&flash_select-selectized=\"\"&ft_select=[0,1235]&intersection_select=null&intersection_select-selectized=\"\"&materials_select=null&materials_select-selectized=\"\"&navTab=\"Places\"&open_select=\"\"&open_select-selectized=\"\"&recreation_select=null&recreation_select-selectized=\"\"&rentable_select=\"\"&rentable_select-selectized=\"\"&report_select=\"Carnegie Library of Pittsburgh Locations\"&report_select-selectized=\"\"&search=\"\"&sign_select=null&sign_select-selectized=\"\"&toggleBridges=false&toggleDesignations=false&toggleEnvironmental=false&toggleFacilities=true&toggleIntersections=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSigns=false&toggleSteps=false&toggleStreets=false&toggleWalls=false&toggleWaste=true&usage_select=null&usage_select-selectized=\"\"&water_select=null&water_select-selectized=\"\"&year_select=\"2017\"&year_select-selectized=\"\"",
+      "page_title": "Burgh's Eye View Places",
+      "pageviews": "22",
+      "visits": "3",
+      "users": "13",
+      "pageviews_per_session": "7.333333333333333",
+      "avg_session_duration": "4.0",
+      "exits": "15"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
@@ -169,25 +180,25 @@
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
-      "page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&designation_select=null&designation_select-selectized=\"\"&environmental_select=null&environmental_select-selectized=\"\"&flash_select=null&flash_select-selectized=\"\"&ft_select=[0,1235]&intersection_select=null&intersection_select-selectized=\"\"&materials_select=null&materials_select-selectized=\"\"&navTab=\"Places\"&open_select=\"\"&open_select-selectized=\"\"&recreation_select=null&recreation_select-selectized=\"\"&rentable_select=\"\"&rentable_select-selectized=\"\"&report_select=\"Carnegie Library of Pittsburgh Locations\"&report_select-selectized=\"\"&search=\"\"&sign_select=null&sign_select-selectized=\"\"&toggleBridges=false&toggleDesignations=false&toggleEnvironmental=false&toggleFacilities=true&toggleIntersections=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSigns=false&toggleSteps=false&toggleStreets=false&toggleWalls=false&toggleWaste=true&usage_select=null&usage_select-selectized=\"\"&water_select=null&water_select-selectized=\"\"&year_select=\"2017\"&year_select-selectized=\"\"",
-      "page_title": "Burgh's Eye View Places",
-      "pageviews": "16",
-      "visits": "2",
-      "users": "10",
-      "pageviews_per_session": "8.0",
-      "avg_session_duration": "6.0",
-      "exits": "12"
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&dept_select=null&filter_select=\"\"&funcarea_select=null&hier=null&map_bounds={\"north\":40.4736730344511,\"east\":-79.9718427658081,\"south\":40.4636499992099,\"west\":-79.9938154220581}&map_center={\"lng\":-79.9828290939331,\"lat\":40.4686617038142}&map_click={\"lat\":40.4674353399744,\"lng\":-79.9803695082664,\".nonce\":0.259950595291048}&map_marker_click={\"id\":null,\".nonce\":0.0323077754006226,\"lat\":40.46593736,\"lng\":-79.98136824,\"clusterId\":null}&map_zoom=16&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleAssets=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleViolations=true&usage_select=null",
+      "page_title": "Burgh's Eye View Points",
+      "pageviews": "12",
+      "visits": "11",
+      "users": "1",
+      "pageviews_per_session": "1.0909090909090908",
+      "avg_session_duration": "7.636363636363637",
+      "exits": "11"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&map_bounds={\"north\":40.5276313089992,\"east\":-79.6402359008789,\"south\":40.3159228466516,\"west\":-80.2994155883789}&map_center={\"lng\":-79.969861866068,\"lat\":40.4219299596956}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null",
       "page_title": "Burgh's Eye View Points",
-      "pageviews": "10",
-      "visits": "8",
+      "pageviews": "11",
+      "visits": "9",
       "users": "2",
-      "pageviews_per_session": "1.25",
-      "avg_session_duration": "62.75",
-      "exits": "8"
+      "pageviews_per_session": "1.2222222222222223",
+      "avg_session_duration": "55.77777777777778",
+      "exits": "9"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
@@ -202,52 +213,41 @@
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
-      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&dept_select=null&filter_select=\"\"&funcarea_select=null&hier=null&map_bounds={\"north\":40.4736730344511,\"east\":-79.9718427658081,\"south\":40.4636499992099,\"west\":-79.9938154220581}&map_center={\"lng\":-79.9828290939331,\"lat\":40.4686617038142}&map_click={\"lat\":40.4674353399744,\"lng\":-79.9803695082664,\".nonce\":0.259950595291048}&map_marker_click={\"id\":null,\".nonce\":0.0323077754006226,\"lat\":40.46593736,\"lng\":-79.98136824,\"clusterId\":null}&map_zoom=16&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleAssets=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleViolations=true&usage_select=null",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&map_bounds={\"north\":40.7148666258568,\"east\":-79.5193862915039,\"south\":40.6134311977319,\"west\":-79.7562789916992}&map_center={\"lng\":-79.6378326416016,\"lat\":40.6641681952189}&map_marker_mouseout={\"id\":null,\".nonce\":0.904423531685965,\"lat\":40.45361255,\"lng\":-79.87137732,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.750235992718844,\"lat\":40.45361255,\"lng\":-79.87137732,\"clusterId\":null}&map_zoom=13&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleViolations=true&violation_select=null",
       "page_title": "Burgh's Eye View Points",
-      "pageviews": "9",
+      "pageviews": "8",
       "visits": "8",
-      "users": "1",
-      "pageviews_per_session": "1.125",
-      "avg_session_duration": "10.5",
+      "users": "8",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "63.25",
       "exits": "8"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
-      "page": "/BurghsEyeView/?_inputs_=&dept_select=null&filter_select=\"\"&hier=null&map_bounds={\"north\":40.6743890825179,\"east\":-79.683837890625,\"south\":40.1326910058669,\"west\":-80.1988220214844}&map_zoom=10&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleFacilities=true&toggleViolations=true&usage_select=null",
-      "page_title": "Burgh's Eye View Points",
-      "pageviews": "9",
-      "visits": "8",
-      "users": "7",
-      "pageviews_per_session": "1.125",
-      "avg_session_duration": "20.75",
-      "exits": "7"
+      "page": "/BurghsEyeViewSteps/?_inputs_=&basemap_select=\"Stamen.Toner\"&clr_select=\"overall_score\"&ft_select=[0,1235]&map_bounds={\"north\":40.4725467419049,\"east\":-79.9006462097168,\"south\":40.4085292472548,\"west\":-80.0911903381348}&map_center={\"lng\":-79.9959,\"lat\":40.4406}&map_groups=\"steps\"&map_zoom=13&navTab=\"Steps\"&search=\"\"&toggleSteps=true",
+      "page_title": "Burgh's Eye View Steps",
+      "pageviews": "8",
+      "visits": "5",
+      "users": "8",
+      "pageviews_per_session": "1.6",
+      "avg_session_duration": "75.4",
+      "exits": "4"
     },
     {
       "domain": "pittsburghpa.shinyapps.io",
       "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5268484330944,\"east\":-79.7209167480469,\"south\":40.3345066450852,\"west\":-80.2063751220703}&map_center={\"lng\":-79.9637115769562,\"lat\":40.4307340703183}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
       "page_title": "Burgh's Eye View Points",
-      "pageviews": "8",
-      "visits": "8",
+      "pageviews": "7",
+      "visits": "7",
       "users": "2",
       "pageviews_per_session": "1.0",
-      "avg_session_duration": "81.75",
-      "exits": "7"
-    },
-    {
-      "domain": "pittsburghpa.shinyapps.io",
-      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&dept_select=null&filter_select=\"\"&funcarea_select=null&hier=null&map_bounds={\"north\":40.5461567026855,\"east\":-79.749755859375,\"south\":40.350468920735,\"west\":-80.2046585083008}&map_center={\"lng\":-79.9773216046837,\"lat\":40.4484587381926}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"Capital Projects\"&req.type=null&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleViolations=true&violation_select=null",
-      "page_title": "Burgh's Eye View Points",
-      "pageviews": "8",
-      "visits": "7",
-      "users": "6",
-      "pageviews_per_session": "1.1428571428571428",
-      "avg_session_duration": "218.14285714285714",
-      "exits": "4"
+      "avg_session_duration": "93.42857142857143",
+      "exits": "6"
     }
   ],
   "totals": {
-    "users": 1555,
-    "visits": 1510
+    "users": 1479,
+    "visits": 1450
   },
-  "taken_at": "2019-03-15T21:17:36.463Z"
+  "taken_at": "2019-03-18T20:09:45.580Z"
 }

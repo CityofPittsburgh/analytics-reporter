@@ -21,180 +21,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser": "Safari",
-      "visits": "757",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "visits": "619",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Edge",
-      "visits": "44",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Firefox",
-      "visits": "41",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Internet Explorer",
-      "visits": "28",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Samsung Internet",
-      "visits": "19",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Amazon Silk",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Opera",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Android Webview",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Safari (in-app)",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Safari",
-      "visits": "607",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "visits": "410",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "visits": "32",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Samsung Internet",
-      "visits": "19",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Edge",
-      "visits": "18",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "visits": "12",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Safari (in-app)",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "visits": "892",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Safari",
-      "visits": "721",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Internet Explorer",
-      "visits": "131",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Firefox",
-      "visits": "66",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Edge",
-      "visits": "54",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Samsung Internet",
-      "visits": "21",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Opera",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Safari (in-app)",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "(not set)",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Lunascape",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "UC Browser",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "browser": "Chrome",
       "visits": "731",
@@ -5389,27 +5215,212 @@
       "browser": "Opera",
       "visits": "1",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "visits": "1021",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Safari",
+      "visits": "970",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Internet Explorer",
+      "visits": "138",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "visits": "86",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Edge",
+      "visits": "77",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Samsung Internet",
+      "visits": "28",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Amazon Silk",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Android Webview",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Safari (in-app)",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Opera",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "YaBrowser",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Safari",
+      "visits": "893",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "visits": "663",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Edge",
+      "visits": "46",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Samsung Internet",
+      "visits": "40",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Firefox",
+      "visits": "37",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Internet Explorer",
+      "visits": "24",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Safari (in-app)",
+      "visits": "12",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Android Webview",
+      "visits": "7",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Amazon Silk",
+      "visits": "6",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Android Browser",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Opera",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "YaBrowser",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Safari",
+      "visits": "604",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "visits": "441",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Edge",
+      "visits": "37",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Samsung Internet",
+      "visits": "25",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Firefox",
+      "visits": "23",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Internet Explorer",
+      "visits": "18",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Android Webview",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Safari (in-app)",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 147095,
+    "visits": 147800,
     "browser": {
-      "Safari": 63547,
-      "Chrome": 64372,
-      "Edge": 4168,
-      "Firefox": 4562,
-      "Internet Explorer": 7509,
-      "Samsung Internet": 2153,
-      "Amazon Silk": 169,
-      "Opera": 148,
-      "Android Webview": 182,
-      "Safari (in-app)": 148,
-      "(not set)": 30,
-      "Lunascape": 1,
-      "UC Browser": 8,
+      "Chrome": 64576,
+      "Safari": 63929,
+      "Internet Explorer": 7518,
+      "Firefox": 4569,
+      "Edge": 4212,
+      "Samsung Internet": 2187,
+      "Opera": 144,
+      "(not set)": 29,
+      "Android Webview": 192,
       "e.ventures Investment Crawler": 1,
-      "Android Browser": 28,
-      "YaBrowser": 3,
+      "Safari (in-app)": 161,
+      "Amazon Silk": 175,
+      "Android Browser": 29,
+      "UC Browser": 7,
+      "YaBrowser": 5,
       "'Mozilla": 44,
       "SeaMonkey": 2,
       "Mozilla Compatible Agent": 1,
@@ -5420,5 +5431,5 @@
       "Puffin": 5
     }
   },
-  "taken_at": "2019-03-15T21:23:34.692Z"
+  "taken_at": "2019-03-18T19:45:09.376Z"
 }

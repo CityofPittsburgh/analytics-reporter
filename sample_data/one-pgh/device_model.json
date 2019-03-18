@@ -20,30 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "mobile_device": "iPhone",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "iPad",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "Windows RT Tablet",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "iPhone",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "mobile_device": "Moto G (5) Plus",
       "visits": "1",
@@ -840,15 +816,44 @@
       "mobile_device": "iPhone",
       "visits": "1",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-G965U",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "iPhone",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPad",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPhone",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPhone",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 197,
+    "visits": 199,
     "device_models": {
-      "iPhone": 92,
-      "iPad": 33,
-      "Windows RT Tablet": 8,
       "Moto G (5) Plus": 8,
+      "iPad": 33,
+      "iPhone": 94,
       "SM-G950U": 7,
       "SM-N950U": 1,
       "SM-S727V": 1,
@@ -859,8 +864,9 @@
       "SM-G960U": 1,
       "SM-G950U1": 1,
       "Pixel": 6,
-      "SM-G965U": 2,
+      "SM-G965U": 3,
       "H820": 1,
+      "Windows RT Tablet": 7,
       "BKL-L04": 1,
       "Pixel 2": 1,
       "Pixel 3": 3,
@@ -883,5 +889,5 @@
       "SM-G955U": 1
     }
   },
-  "taken_at": "2019-03-15T21:21:39.948Z"
+  "taken_at": "2019-03-18T19:43:54.396Z"
 }

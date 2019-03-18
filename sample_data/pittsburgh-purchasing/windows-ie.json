@@ -22,41 +22,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser_version": "11.0",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "11.0",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "11.0",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "9.0",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "browser_version": "9.0",
-      "os_version": "Vista",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "browser_version": "11.0",
       "os_version": "7",
@@ -1329,14 +1294,42 @@
       "os_version": "8.1",
       "visits": "2",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser_version": "11.0",
+      "os_version": "7",
+      "visits": "24",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "browser_version": "11.0",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "browser_version": "11.0",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "browser_version": "11.0",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 1000,
+    "visits": 1022,
     "by_windows": {
       "7": {
-        "11.0": 515,
-        "9.0": 21,
+        "11.0": 533,
+        "9.0": 20,
         "8.0": 7,
         "7.0": 1,
         "10.0": 2
@@ -1346,28 +1339,28 @@
         "7.0": 1
       },
       "10": {
-        "11.0": 392
+        "11.0": 398
       },
       "2000": {
         "6.0": 1
       },
-      "Vista": {
-        "9.0": 20
-      },
       "8.1": {
         "11.0": 32
+      },
+      "Vista": {
+        "9.0": 19
       }
     },
     "by_ie": {
       "11.0": {
-        "7": 515,
+        "7": 533,
         "8": 8,
-        "10": 392,
+        "10": 398,
         "8.1": 32
       },
       "9.0": {
-        "7": 21,
-        "Vista": 20
+        "7": 20,
+        "Vista": 19
       },
       "8.0": {
         "7": 7
@@ -1384,5 +1377,5 @@
       }
     }
   },
-  "taken_at": "2019-03-15T21:24:34.949Z"
+  "taken_at": "2019-03-18T19:45:52.154Z"
 }

@@ -21,12 +21,20 @@
   },
   "data": [
     {
+      "page_title": "Building Benchmarking Compliance - How to comply | pittsburghpa.gov",
+      "event_label": "/dcp/comply",
+      "page": "/dcp/comply",
+      "total_events": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
       "page_title": "Public Works - Volunteer Applications | pittsburghpa.gov",
       "event_label": "/dpw/volunteer-apps/",
       "page": "/dpw/volunteer-apps/?title=volunteer-apps",
-      "total_events": "1"
+      "total_events": "1",
+      "domain": "https://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-11T17:45:56.494Z"
+  "taken_at": "2019-03-18T19:48:11.729Z"
 }

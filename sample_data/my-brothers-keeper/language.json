@@ -20,24 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "language": "en-us",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "language": "en-us",
-      "visits": "21",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "language": "en-us",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "language": "en-us",
       "visits": "3",
@@ -594,12 +576,30 @@
       "language": "en-us",
       "visits": "6",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "language": "en-us",
+      "visits": "5",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "language": "en-us",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "language": "en-us",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "languages": {
-      "en-us": 415,
+      "en-us": 400,
       "es-es": 1,
       "en": 2,
       "en-gb": 3,
@@ -612,5 +612,5 @@
       "ko": 2
     }
   },
-  "taken_at": "2019-03-15T21:20:41.046Z"
+  "taken_at": "2019-03-18T19:43:24.979Z"
 }

@@ -22,293 +22,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "117",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "44",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "38",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "12",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Opera",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "os_version": "Vista",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Chrome",
-      "os_version": "XP",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Firefox",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "105",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "18",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "18",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "16",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "5",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "4",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Chrome",
-      "os_version": "Vista",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "browser": "Opera",
-      "os_version": "Vista",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "291",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "135",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "64",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "58",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "54",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "21",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "15",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "14",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "12",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "9",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "os_version": "Vista",
-      "visits": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Firefox",
-      "os_version": "Vista",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "browser": "Lunascape",
-      "os_version": "Vista",
-      "visits": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "browser": "Chrome",
       "os_version": "10",
@@ -8294,51 +8007,352 @@
       "os_version": "10",
       "visits": "1",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "315",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "133",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "78",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "77",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "56",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "39",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "16",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "7",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "XP",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Chrome",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "Firefox",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "browser": "YaBrowser",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "124",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "46",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "33",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "15",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "12",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "11",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "XP",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Chrome",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Firefox",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "browser": "YaBrowser",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "143",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "37",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "24",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "10",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Chrome",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 44000,
+    "visits": 44134,
     "by_windows": {
       "7": {
-        "Chrome": 7686,
-        "Internet Explorer": 3957,
-        "Firefox": 1070,
+        "Chrome": 7685,
+        "Internet Explorer": 3969,
+        "Firefox": 1067,
         "Opera": 10,
         "SeaMonkey": 1,
-        "Safari": 1
+        "Safari": 1,
+        "YaBrowser": 2
       },
       "8": {
-        "Firefox": 16,
-        "Chrome": 127,
+        "Chrome": 131,
         "Safari": 3,
+        "Firefox": 18,
         "Internet Explorer": 8
       },
       "10": {
-        "Chrome": 19828,
-        "Edge": 4168,
-        "Firefox": 1702,
-        "Internet Explorer": 3006,
-        "Opera": 49,
+        "Chrome": 19897,
+        "Edge": 4212,
+        "Internet Explorer": 3004,
+        "Firefox": 1714,
+        "Opera": 46,
         "YaBrowser": 3
       },
       "8.1": {
-        "Chrome": 1155,
-        "Firefox": 485,
-        "Internet Explorer": 530,
+        "Chrome": 1162,
+        "Internet Explorer": 529,
+        "Firefox": 476,
         "Opera": 1
       },
-      "Vista": {
-        "Chrome": 70,
-        "Opera": 3,
-        "Firefox": 30,
-        "Lunascape": 1,
-        "Internet Explorer": 7
-      },
       "XP": {
-        "Chrome": 60,
-        "Firefox": 17,
+        "Firefox": 20,
+        "Chrome": 63,
         "SeaMonkey": 1,
         "Opera": 4
+      },
+      "Vista": {
+        "Chrome": 67,
+        "Firefox": 30,
+        "Internet Explorer": 7,
+        "Opera": 2
       },
       "Server 2003": {
         "Opera": 1
@@ -8346,47 +8360,45 @@
     },
     "by_browsers": {
       "Chrome": {
-        "7": 7686,
-        "8": 127,
-        "10": 19828,
-        "8.1": 1155,
-        "Vista": 70,
-        "XP": 60
-      },
-      "Edge": {
-        "10": 4168
+        "7": 7685,
+        "8": 131,
+        "10": 19897,
+        "8.1": 1162,
+        "Vista": 67,
+        "XP": 63
       },
       "Internet Explorer": {
-        "7": 3957,
+        "7": 3969,
         "8": 8,
-        "10": 3006,
-        "8.1": 530,
+        "10": 3004,
+        "8.1": 529,
         "Vista": 7
       },
+      "Edge": {
+        "10": 4212
+      },
       "Firefox": {
-        "7": 1070,
-        "8": 16,
-        "10": 1702,
-        "8.1": 485,
-        "Vista": 30,
-        "XP": 17
-      },
-      "Opera": {
-        "7": 10,
-        "10": 49,
-        "Vista": 3,
-        "XP": 4,
-        "Server 2003": 1,
-        "8.1": 1
-      },
-      "Lunascape": {
-        "Vista": 1
+        "7": 1067,
+        "8": 18,
+        "10": 1714,
+        "8.1": 476,
+        "XP": 20,
+        "Vista": 30
       },
       "Safari": {
         "7": 1,
         "8": 3
       },
+      "Opera": {
+        "7": 10,
+        "10": 46,
+        "Vista": 2,
+        "XP": 4,
+        "Server 2003": 1,
+        "8.1": 1
+      },
       "YaBrowser": {
+        "7": 2,
         "10": 3
       },
       "SeaMonkey": {
@@ -8395,5 +8407,5 @@
       }
     }
   },
-  "taken_at": "2019-03-15T21:23:35.781Z"
+  "taken_at": "2019-03-18T19:45:11.221Z"
 }

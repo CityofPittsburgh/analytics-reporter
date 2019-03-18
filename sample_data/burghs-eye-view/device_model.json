@@ -20,126 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "mobile_device": "KFSOWI",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "MS550",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "SM-G930A",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "SM-G930V",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "SM-G955U",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "Windows RT Tablet",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "iPad",
-      "visits": "4",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "iPhone",
-      "visits": "6",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "SM-G930V",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "SM-J327AZ",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "Windows RT Tablet",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "XT1650",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "Z959",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "iPad",
-      "visits": "3",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "iPhone",
-      "visits": "3",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "Mi A2",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "SM-G930V",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "SM-G955U",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "iPad",
-      "visits": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "iPhone",
-      "visits": "5",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "mobile_device": "K540",
       "visits": "2",
@@ -3996,32 +3876,157 @@
       "mobile_device": "iPhone",
       "visits": "6",
       "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "A5000",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-G930V",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-G950U",
+      "visits": "2",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-N950U1",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "XT1650",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "iPad",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "MI MAX 3",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "MS210",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "Moto G (4)",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "SM-G930V",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "SM-T810",
+      "visits": "2",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "Windows RT Tablet",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPad",
+      "visits": "3",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPhone",
+      "visits": "4",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "Moto G (5) Plus",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "Pixel 2 XL",
+      "visits": "2",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "Pixel 3 XL",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "SM-G930V",
+      "visits": "4",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "SM-G950U",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "VS995",
+      "visits": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPad",
+      "visits": "2",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPhone",
+      "visits": "4",
+      "domain": "https://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 1430,
+    "visits": 1431,
     "device_models": {
       "5059": 1,
-      "KFSOWI": 1,
-      "MS550": 1,
-      "SM-G930A": 3,
-      "SM-G930V": 114,
-      "SM-G955U": 18,
-      "Windows RT Tablet": 45,
-      "iPad": 198,
-      "iPhone": 583,
-      "SM-J327AZ": 4,
-      "XT1650": 2,
-      "Z959": 2,
-      "Mi A2": 1,
       "K540": 2,
       "SM-G920": 3,
+      "SM-G930A": 2,
       "SM-G960U": 20,
+      "Windows RT Tablet": 44,
+      "iPad": 196,
+      "iPhone": 577,
       "iPhone 7 Plus": 1,
       "moto E5 play": 4,
       "LM-G710VM": 3,
       "LS777": 10,
-      "Moto G (5) Plus": 6,
+      "SM-G930V": 117,
+      "Moto G (5) Plus": 7,
       "SM-J700F": 1,
       "SM-N960U": 10,
       "SP200": 3,
@@ -4029,11 +4034,12 @@
       "Moto E(4)": 2,
       "SM-T820": 1,
       "SM-G930U": 1,
-      "SM-G950U": 39,
+      "SM-G950U": 42,
       "SM-S727T": 2,
       "SM-J327P": 3,
+      "SM-G955U": 16,
       "SM-G965U": 21,
-      "Pixel 2 XL": 9,
+      "Pixel 2 XL": 11,
       "Pixel 3": 11,
       "SM-G920F": 1,
       "SM-G920V": 6,
@@ -4041,6 +4047,7 @@
       "SM-T377V": 1,
       "LGMS428": 1,
       "SM-G935U": 1,
+      "SM-J327AZ": 3,
       "(not set)": 19,
       "Pixel 2": 19,
       "SM-J320P": 2,
@@ -4048,7 +4055,7 @@
       "Pixel": 9,
       "SM-G930P": 3,
       "LM-X210CM": 3,
-      "Moto G (4)": 9,
+      "Moto G (4)": 10,
       "SM-G935V": 5,
       "KFKAWI": 2,
       "SM-J337P": 5,
@@ -4057,14 +4064,14 @@
       "LG-LS998": 1,
       "Nexus 6P": 1,
       "SGP321": 1,
-      "MS210": 5,
+      "MS210": 6,
       "RCT6603W47M7": 1,
       "Moto X4": 1,
-      "Pixel 3 XL": 13,
+      "Pixel 3 XL": 14,
       "SM-J327V": 1,
       "SM-J737P": 2,
       "SM-T217S": 1,
-      "VS995": 1,
+      "VS995": 2,
       "A6003": 2,
       "Moto E (4) Plus": 3,
       "SCH-S968C": 1,
@@ -4108,10 +4115,11 @@
       "SM-G900AZ": 1,
       "LM-Q710.FG": 2,
       "SM-G920T1": 2,
+      "XT1650": 2,
       "iPhone X": 3,
       "iPhone 7": 1,
       "iPod": 2,
-      "A5000": 1,
+      "A5000": 2,
       "Moto e5 plus": 1,
       "Z982": 3,
       "3632A": 1,
@@ -4166,12 +4174,15 @@
       "SM-P580": 1,
       "P00I": 1,
       "SM-T377P": 1,
+      "Z959": 1,
       "Q710AL": 1,
       "SM-T590": 1,
       "XT1635-02": 1,
       "K410": 1,
-      "SM-N950U1": 1
+      "SM-N950U1": 2,
+      "MI MAX 3": 1,
+      "SM-T810": 2
     }
   },
-  "taken_at": "2019-03-15T21:17:33.451Z"
+  "taken_at": "2019-03-18T20:09:41.247Z"
 }

@@ -20,21 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "visits": "15",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "visits": "98",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "visits": "74",
       "domain": "http://pittsburghpa.gov"
@@ -468,10 +453,25 @@
       "date": "2019-03-14",
       "visits": "139",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "visits": "149",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "visits": "30",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "visits": "15",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 7257
+    "visits": 7326
   },
-  "taken_at": "2019-03-15T21:24:30.332Z"
+  "taken_at": "2019-03-18T19:45:46.708Z"
 }

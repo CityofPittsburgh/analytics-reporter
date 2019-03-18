@@ -21,19 +21,15 @@
   "data": [
     {
       "domain": "www.pittsburghparking.com",
-      "visits": "10637"
+      "visits": "11571"
     },
     {
       "domain": "pittsburghparking.com",
-      "visits": "1378"
+      "visits": "1423"
     },
     {
       "domain": "ww.pittsburghparking.com",
-      "visits": "6"
-    },
-    {
-      "domain": "wwe.pittsburghparking.com",
-      "visits": "2"
+      "visits": "7"
     },
     {
       "domain": "httpwww.pittsburghparking.com",
@@ -46,10 +42,14 @@
     {
       "domain": "ww3.pittsburghparking.com",
       "visits": "1"
+    },
+    {
+      "domain": "wwe.pittsburghparking.com",
+      "visits": "1"
     }
   ],
   "totals": {
-    "visits": 12026
+    "visits": 13005
   },
-  "taken_at": "2019-03-15T21:23:37.218Z"
+  "taken_at": "2019-03-18T19:45:13.935Z"
 }

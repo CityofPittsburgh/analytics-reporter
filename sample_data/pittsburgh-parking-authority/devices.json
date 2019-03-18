@@ -20,60 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "device": "desktop",
-      "visits": "467",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "device": "mobile",
-      "visits": "968",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-15",
-      "device": "tablet",
-      "visits": "83",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "device": "desktop",
-      "visits": "339",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "device": "mobile",
-      "visits": "695",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-16",
-      "device": "tablet",
-      "visits": "67",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "device": "desktop",
-      "visits": "983",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "device": "mobile",
-      "visits": "845",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "date": "2018-12-17",
-      "device": "tablet",
-      "visits": "64",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
       "date": "2018-12-18",
       "device": "desktop",
       "visits": "853",
@@ -1638,15 +1584,69 @@
       "device": "tablet",
       "visits": "60",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "device": "desktop",
+      "visits": "1041",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "device": "mobile",
+      "visits": "1233",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-15",
+      "device": "tablet",
+      "visits": "61",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "device": "desktop",
+      "visits": "474",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "device": "mobile",
+      "visits": "1190",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-16",
+      "device": "tablet",
+      "visits": "67",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "device": "desktop",
+      "visits": "455",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "device": "mobile",
+      "visits": "641",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "date": "2019-03-17",
+      "device": "tablet",
+      "visits": "54",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {
-    "visits": 147095,
+    "visits": 147800,
     "devices": {
-      "desktop": 65564,
-      "mobile": 76124,
-      "tablet": 5407
+      "desktop": 65745,
+      "mobile": 76680,
+      "tablet": 5375
     }
   },
-  "taken_at": "2019-03-15T21:23:31.857Z"
+  "taken_at": "2019-03-18T19:45:04.950Z"
 }

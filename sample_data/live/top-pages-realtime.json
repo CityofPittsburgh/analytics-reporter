@@ -16,106 +16,126 @@
   },
   "data": [
     {
-      "page": "/council/d5",
-      "page_title": "Corey O'Connor - District 5, News from the Community and Initiatives, Features, check out HirePgh we would like your Feedback | pittsburghpa.gov",
-      "active_visitors": "3"
+      "page": "/index.html",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "active_visitors": "2",
+      "domain": "https://pittsburghpa.gov"
     },
     {
       "page": "/",
       "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
-      "active_visitors": "2"
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/citiparks/oliver-bath-house",
-      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
-      "active_visitors": "2"
+      "page": "/311/form",
+      "page_title": "311 Response Center, Online Request Form, MyBurgh App, Citizen Form Knowledge Guide | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/finance/taxes/tax-forms.html",
-      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
-      "active_visitors": "2"
+      "page": "/city-info/frequent-numbers",
+      "page_title": "City Number Directory | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/pli/licenses",
-      "page_title": "Licenses | pittsburghpa.gov",
-      "active_visitors": "2"
+      "page": "/city-info/open-gov",
+      "page_title": "Pittsburgh Open Gov Portal | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/police/",
-      "page_title": "Pittsburgh Bureau of Police - Police Zones, Branches, Memorial, Resources, Interactive Violence Statistics, Community Policing, Annual Reports",
-      "active_visitors": "2"
+      "page": "/city-info/senior-centers.html",
+      "page_title": "Senior Community Centers Directory, Numbers | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/bac/eorc",
-      "page_title": "Equal Opportunity Review Commission (EORC) | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/cmptf/pension-types",
+      "page_title": "CMPTF - Pension Funds by Type | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/chr/education-resources",
-      "page_title": "Commission on Human Relations Commission Education & Resources | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/controller/performance-audits",
+      "page_title": "Performance Audits | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/chr/index.html",
-      "page_title": "Commission on Human Relations - AFFH Taskforce, Commission Meetings, Our Staff, Education and Resources, Contact the PghCHR",
-      "active_visitors": "1"
-    },
-    {
-      "page": "/city-info/press-release-archive",
-      "page_title": "City Press Release Archive | pittsburghpa.gov",
-      "active_visitors": "1"
-    },
-    {
-      "page": "/council/d2-contacts",
-      "page_title": "Theresa Kail-Smith - District 2 - Contacts | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/council/capital-budgets",
+      "page_title": "Council Budget Office - Capital Budgets | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
       "page": "/dcp/",
       "page_title": "City Planning - Planning Projects, Programs, BuildingEye app, Zoning & Development, GIS department.",
-      "active_visitors": "1"
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/dcp/zoning",
-      "page_title": "Zoning and Development Review Division | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/dcp/faqs",
+      "page_title": "Residential Parking Permit Program Frequently Asked Questions | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/dpw/collection-schedule",
+      "page": "/dcp/hays-woods-get-involved",
+      "page_title": "Hays Woods - Get Involved with the project | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/interactive-maps",
+      "page_title": "Geographic Information Systems (GIS) Interactive Maps | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/ipod",
+      "page_title": "Zoning and Development Interim Planning Overlay Districts | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/reviews",
+      "page_title": "Planning Reviews, Public Notices, and Public Hearings | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dpw/environmental-services/collection-schedule.html",
+      "page_title": "(not set)",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dpw/environmental-services/collection-schedule.html",
       "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
-      "active_visitors": "1"
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/dpw/environmental-services/bulky-waste.html",
-      "page_title": "Public Works - Bulky Waste | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/finance/property-sales",
+      "page_title": "Real Estate | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/events/eventapp",
-      "page_title": "EVENTAPP - Permits for events | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/finance/real-estate-taxes",
+      "page_title": "Real Estate Taxes | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "page": "/finance/new-bus-reg",
-      "page_title": "New Business Registration | pittsburghpa.gov",
-      "active_visitors": "1"
-    },
-    {
-      "page": "/finance/tax-faqs",
-      "page_title": "Tax FAQs | pittsburghpa.gov",
-      "active_visitors": "1"
-    },
-    {
-      "page": "/gec/gec-commissioners",
-      "page_title": "Meet Our Commissioners | pittsburghpa.gov",
-      "active_visitors": "1"
-    },
-    {
-      "page": "/humanresources/club-memberships",
-      "page_title": "Cityfit Health Club Memberships | pittsburghpa.gov",
-      "active_visitors": "1"
+      "page": "/finance/taxes/index.html",
+      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-11T17:45:35.378Z"
+  "taken_at": "2019-03-18T19:48:08.509Z"
 }

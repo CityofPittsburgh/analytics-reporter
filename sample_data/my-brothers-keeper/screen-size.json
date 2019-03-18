@@ -20,30 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "screen_resolution": "768x1024",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "(not set)",
-      "visits": "20",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "screen_resolution": "1920x1080",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "screen_resolution": "1440x900",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "screen_resolution": "1280x720",
       "visits": "1",
@@ -1902,31 +1878,72 @@
       "screen_resolution": "3440x1440",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1280x800",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1440x900",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1536x864",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "screen_resolution": "1920x1080",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1280x720",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "screen_resolution": "1366x768",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "screen_resolution": "834x1112",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "screen_resolution": {
-      "768x1024": 11,
-      "(not set)": 20,
-      "1920x1080": 63,
-      "1440x900": 44,
-      "1280x720": 8,
+      "1280x720": 9,
       "375x667": 34,
       "414x736": 17,
       "1280x1024": 10,
+      "1440x900": 45,
+      "1920x1080": 63,
       "1504x1003": 3,
-      "1536x864": 18,
+      "1536x864": 19,
       "1680x1050": 13,
       "1050x1680": 1,
       "360x640": 13,
       "1600x900": 9,
       "375x812": 8,
       "1093x615": 1,
-      "1366x768": 41,
+      "1366x768": 42,
+      "768x1024": 10,
       "2560x1080": 1,
       "1024x819": 1,
-      "1280x800": 15,
+      "1280x800": 16,
       "412x846": 7,
       "412x732": 4,
       "360x740": 4,
@@ -1952,8 +1969,9 @@
       "1024x600": 1,
       "361x601": 1,
       "412x823": 6,
-      "3440x1440": 1
+      "3440x1440": 1,
+      "834x1112": 1
     }
   },
-  "taken_at": "2019-03-15T21:20:40.542Z"
+  "taken_at": "2019-03-18T19:43:24.583Z"
 }

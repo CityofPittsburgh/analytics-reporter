@@ -20,60 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "mobile_device": "MS210",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "Windows RT Tablet",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-15",
-      "mobile_device": "iPhone",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "LGL44VL",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "SM-N950U",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "iPad",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "mobile_device": "iPhone",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "E6820",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "mobile_device": "iPhone",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "mobile_device": "iPhone",
       "visits": "2",
@@ -3066,29 +3012,99 @@
       "mobile_device": "iPhone 8 Plus",
       "visits": "1",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "(not set)",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "SM-G950U",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "TP260",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "Windows RT Tablet",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "XT1635-01",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "mobile_device": "iPhone",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "(not set)",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPad",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "mobile_device": "iPhone",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "(not set)",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPad",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPhone",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 1074,
+    "visits": 1091,
     "device_models": {
-      "MS210": 3,
-      "Windows RT Tablet": 63,
-      "iPhone": 522,
-      "LGL44VL": 1,
-      "SM-N950U": 13,
-      "iPad": 63,
-      "E6820": 1,
+      "iPhone": 527,
       "LM-X210": 3,
+      "MS210": 2,
+      "Windows RT Tablet": 63,
       "SM-G965U": 10,
+      "SM-N950U": 12,
+      "iPad": 65,
       "SM-G960U": 16,
       "Pixel 3": 2,
-      "SM-G950U": 19,
+      "SM-G950U": 20,
       "Moto E(4)": 4,
       "SM-S727P": 1,
       "SM-G890A": 1,
       "SM-G935V": 6,
       "SM-T530": 1,
-      "XT1635-01": 38,
+      "XT1635-01": 39,
       "LGLS755": 1,
       "SM-G891A": 2,
       "SM-N960U": 10,
@@ -3100,7 +3116,7 @@
       "Z851M": 1,
       "SM-G930P": 3,
       "N9137": 1,
-      "(not set)": 14,
+      "(not set)": 25,
       "SM-G930V": 13,
       "Z965": 1,
       "Moto X4": 2,
@@ -3184,11 +3200,11 @@
       "Z956": 2,
       "VS988": 1,
       "iPad Air 2": 1,
-      "TP260": 7,
+      "TP260": 8,
       "iPad Air": 1,
       "SM-G965U1": 1,
       "SM-T377T": 1
     }
   },
-  "taken_at": "2019-03-15T21:24:32.957Z"
+  "taken_at": "2019-03-18T19:45:49.278Z"
 }

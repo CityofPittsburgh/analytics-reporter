@@ -26,62 +26,62 @@
   "data": [
     {
       "exit_page": "/beacon/bid-opportunities.html",
-      "visits": "1540",
-      "pageviews": "2681",
-      "users": "968",
-      "pageviews_per_session": "1.740909090909091",
-      "avg_session_duration": "84.84545454545454",
-      "exits": "1540",
+      "visits": "1459",
+      "pageviews": "2497",
+      "users": "932",
+      "pageviews_per_session": "1.7114461960246745",
+      "avg_session_duration": "79.18642906100068",
+      "exits": "1459",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/beacon/index.html",
-      "visits": "673",
-      "pageviews": "1075",
-      "users": "546",
-      "pageviews_per_session": "1.5973254086181279",
-      "avg_session_duration": "87.9078751857355",
-      "exits": "673",
+      "visits": "614",
+      "pageviews": "1000",
+      "users": "507",
+      "pageviews_per_session": "1.6286644951140066",
+      "avg_session_duration": "94.90228013029316",
+      "exits": "614",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/beacon/login.html",
-      "visits": "424",
-      "pageviews": "1266",
-      "users": "230",
-      "pageviews_per_session": "2.9858490566037736",
-      "avg_session_duration": "188.1509433962264",
-      "exits": "424",
+      "visits": "419",
+      "pageviews": "1221",
+      "users": "233",
+      "pageviews_per_session": "2.9140811455847255",
+      "avg_session_duration": "184.8257756563246",
+      "exits": "419",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/beacon/registration.html",
-      "visits": "246",
-      "pageviews": "557",
-      "users": "183",
-      "pageviews_per_session": "2.2642276422764227",
-      "avg_session_duration": "175.760162601626",
-      "exits": "246",
+      "visits": "225",
+      "pageviews": "488",
+      "users": "167",
+      "pageviews_per_session": "2.168888888888889",
+      "avg_session_duration": "159.17777777777778",
+      "exits": "225",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/beacon/",
-      "visits": "118",
-      "pageviews": "133",
-      "users": "96",
-      "pageviews_per_session": "1.1271186440677967",
-      "avg_session_duration": "11.40677966101695",
-      "exits": "118",
+      "visits": "107",
+      "pageviews": "120",
+      "users": "85",
+      "pageviews_per_session": "1.1214953271028036",
+      "avg_session_duration": "12.57943925233645",
+      "exits": "107",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/beacon/faq.html",
-      "visits": "35",
-      "pageviews": "107",
-      "users": "33",
-      "pageviews_per_session": "3.057142857142857",
-      "avg_session_duration": "252.68571428571428",
-      "exits": "35",
+      "visits": "29",
+      "pageviews": "96",
+      "users": "28",
+      "pageviews_per_session": "3.310344827586207",
+      "avg_session_duration": "271.86206896551727",
+      "exits": "29",
       "domain": "http://pittsburghpa.gov"
     },
     {
@@ -226,8 +226,8 @@
     }
   ],
   "totals": {
-    "users": 2070,
-    "visits": 3051
+    "users": 1966,
+    "visits": 2868
   },
-  "taken_at": "2019-03-15T21:24:37.576Z"
+  "taken_at": "2019-03-18T19:45:55.589Z"
 }

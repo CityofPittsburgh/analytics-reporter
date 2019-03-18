@@ -18,48 +18,36 @@
     {
       "page": "/",
       "page_title": "PPA | Welcome",
-      "active_visitors": "8",
+      "active_visitors": "4",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "page": "/contact",
+      "page_title": "PPA | Contact the PPA",
+      "active_visitors": "3",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "page": "/about",
+      "page_title": "PPA | About the PPA",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "page": "/doing-business-with-ppa",
+      "page_title": "PPA | Doing Business with the PPA",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "page": "/enforcement-faq",
+      "page_title": "PPA | Enforcement FAQ",
+      "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
       "page": "/facilities",
       "page_title": "PPA | Facilities - Providing Quality Customer Service Is Our Goal",
-      "active_visitors": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/mellon-square",
-      "page_title": "PPA | Mellon Square Garage",
-      "active_visitors": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/pittsburgh-parking-court",
-      "page_title": "PPA | Pittsburgh Parking Court",
-      "active_visitors": "2",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/garages-and-attended-lots",
-      "page_title": "PPA | Garages and Attended Lots: Date opened - Spaces - Max Vehicle Height",
-      "active_visitors": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/meters",
-      "page_title": "PPA | On-Street Meters",
-      "active_visitors": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/monongahela-wharf",
-      "page_title": "PPA | Monongahela Wharf",
-      "active_visitors": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/ninth-penn",
-      "page_title": "PPA | Ninth and Penn Garage",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
@@ -68,14 +56,8 @@
       "page_title": "PPA | Residential Permit Parking Program",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/third-avenue",
-      "page_title": "PPA | Third Avenue Garage",
-      "active_visitors": "1",
-      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-15T21:23:36.393Z"
+  "taken_at": "2019-03-18T19:45:12.146Z"
 }

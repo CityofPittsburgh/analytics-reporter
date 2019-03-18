@@ -5,7 +5,12 @@
     "end-date": "yesterday",
     "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
     "metrics": [
-      "ga:pageviews"
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
     ],
     "sort": [
       "-ga:pageviews"
@@ -23,45 +28,72 @@
       "domain": "pittsburghpa.gov",
       "page": "/mayor/mbk/index.html",
       "page_title": "My Brothers Keeper - Pittsburgh",
-      "pageviews": "33"
+      "pageviews": "34",
+      "visits": "32",
+      "users": "32",
+      "pageviews_per_session": "1.0625",
+      "avg_session_duration": "15.34375",
+      "exits": "30"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/mayor/mbk/acknowledgment.html",
       "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "3"
-    },
-    {
-      "domain": "pittsburghpa.gov",
-      "page": "/mayor/mbk/news.html",
-      "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "3"
-    },
-    {
-      "domain": "pittsburghpa.gov",
-      "page": "/mayor/mbk/overview.html",
-      "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "3"
+      "pageviews": "4",
+      "visits": "3",
+      "users": "3",
+      "pageviews_per_session": "1.3333333333333333",
+      "avg_session_duration": "5.333333333333333",
+      "exits": "3"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/mayor/mbk/collaboration.html",
       "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "2"
+      "pageviews": "3",
+      "visits": "0",
+      "users": "2",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/mayor/mbk/keepers.html",
       "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "2"
+      "pageviews": "2",
+      "visits": "0",
+      "users": "2",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
     },
     {
       "domain": "pittsburghpa.gov",
-      "page": "/mayor/mbk/playbook.html",
+      "page": "/mayor/mbk/news.html",
       "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
-      "pageviews": "1"
+      "pageviews": "1",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/mayor/mbk/overview.html",
+      "page_title": "My Brothers Keeper - Pittsburgh-Allegheny County",
+      "pageviews": "1",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
     }
   ],
-  "totals": {},
-  "taken_at": "2019-03-15T21:20:44.092Z"
+  "totals": {
+    "users": 41,
+    "visits": 35
+  },
+  "taken_at": "2019-03-18T19:43:29.101Z"
 }

@@ -17,93 +17,70 @@
   "data": [
     {
       "city": "Pittsburgh",
-      "active_visitors": "11"
+      "active_visitors": "20",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Cheyenne",
-      "active_visitors": "2"
+      "city": "Clarksburg",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Philadelphia",
-      "active_visitors": "2"
+      "city": "Herndon",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Scott Township",
-      "active_visitors": "2"
+      "city": "Lansdale",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Wexford",
-      "active_visitors": "2"
-    },
-    {
-      "city": "Ann Arbor",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Chicago",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Eighty Four",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Irwin",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Jefferson Hills",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Lexington",
-      "active_visitors": "1"
-    },
-    {
-      "city": "McKeesport",
-      "active_visitors": "1"
+      "city": "Moon",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
       "city": "Mount Lebanon",
-      "active_visitors": "1"
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Murrysville",
-      "active_visitors": "1"
+      "city": "New York",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "New Castle",
-      "active_visitors": "1"
+      "city": "Philadelphia",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "Park Forest Village",
-      "active_visitors": "1"
+      "city": "Pleasant Hills",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "San Antonio",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Seattle",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Shanksville",
-      "active_visitors": "1"
-    },
-    {
-      "city": "Syracuse",
-      "active_visitors": "1"
+      "city": "Swissvale",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
       "city": "Washington",
-      "active_visitors": "1"
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     },
     {
-      "city": "West Mifflin",
-      "active_visitors": "1"
+      "city": "Wheeling",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "city": "Whitehall",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-11T17:45:51.407Z"
+  "taken_at": "2019-03-18T19:48:10.890Z"
 }

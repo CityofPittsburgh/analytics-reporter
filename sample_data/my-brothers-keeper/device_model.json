@@ -20,12 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "mobile_device": "iPad",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "mobile_device": "iPhone",
       "visits": "2",
@@ -582,15 +576,21 @@
       "mobile_device": "moto E5 cruise",
       "visits": "1",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "mobile_device": "iPad",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
     "visits": 129,
     "device_models": {
-      "iPad": 12,
       "iPhone": 74,
       "SM-G530H": 1,
       "XT1789-05": 1,
+      "iPad": 12,
       "SM-G955U": 1,
       "Pixel 2": 2,
       "SM-G900V": 3,
@@ -618,5 +618,5 @@
       "moto E5 cruise": 1
     }
   },
-  "taken_at": "2019-03-15T21:20:41.381Z"
+  "taken_at": "2019-03-18T19:43:25.352Z"
 }

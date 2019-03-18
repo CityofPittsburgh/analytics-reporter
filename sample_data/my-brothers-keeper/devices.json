@@ -20,24 +20,6 @@
   },
   "data": [
     {
-      "date": "2018-12-15",
-      "device": "tablet",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-16",
-      "device": "desktop",
-      "visits": "21",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-17",
-      "device": "desktop",
-      "visits": "1",
-      "domain": "http://mbkpgh.pittsburghpa.gov"
-    },
-    {
       "date": "2018-12-18",
       "device": "desktop",
       "visits": "1",
@@ -876,15 +858,33 @@
       "device": "desktop",
       "visits": "7",
       "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-15",
+      "device": "desktop",
+      "visits": "5",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-16",
+      "device": "desktop",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-17",
+      "device": "tablet",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 433,
+    "visits": 418,
     "devices": {
-      "tablet": 16,
-      "desktop": 304,
-      "mobile": 113
+      "desktop": 289,
+      "mobile": 113,
+      "tablet": 16
     }
   },
-  "taken_at": "2019-03-15T21:20:39.543Z"
+  "taken_at": "2019-03-18T19:43:23.689Z"
 }

@@ -27,45 +27,34 @@
     {
       "source": "(direct)",
       "has_social_referral": "No",
-      "visits": "790",
-      "pageviews": "1238",
-      "users": "650",
-      "pageviews_per_session": "1.5670886075949366",
-      "avg_session_duration": "97.30253164556962",
-      "exits": "790",
+      "visits": "753",
+      "pageviews": "1174",
+      "users": "624",
+      "pageviews_per_session": "1.5590969455511288",
+      "avg_session_duration": "94.83134130146082",
+      "exits": "753",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "source": "google",
       "has_social_referral": "No",
-      "visits": "172",
-      "pageviews": "279",
-      "users": "108",
-      "pageviews_per_session": "1.622093023255814",
-      "avg_session_duration": "88.01744186046511",
-      "exits": "172",
+      "visits": "165",
+      "pageviews": "272",
+      "users": "103",
+      "pageviews_per_session": "1.6484848484848484",
+      "avg_session_duration": "75.08484848484848",
+      "exits": "165",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "source": "iuoelocal95.org",
       "has_social_referral": "No",
-      "visits": "41",
-      "pageviews": "46",
-      "users": "37",
-      "pageviews_per_session": "1.1219512195121952",
-      "avg_session_duration": "54.80487804878049",
-      "exits": "41",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "source": "yahoo",
-      "has_social_referral": "No",
-      "visits": "4",
-      "pageviews": "6",
-      "users": "3",
-      "pageviews_per_session": "1.5",
-      "avg_session_duration": "7.5",
-      "exits": "4",
+      "visits": "38",
+      "pageviews": "42",
+      "users": "33",
+      "pageviews_per_session": "1.105263157894737",
+      "avg_session_duration": "55.05263157894737",
+      "exits": "38",
       "domain": "http://pittsburghpa.gov"
     },
     {
@@ -91,7 +80,40 @@
       "domain": "http://pittsburghpa.gov"
     },
     {
+      "source": "yahoo",
+      "has_social_referral": "No",
+      "visits": "3",
+      "pageviews": "4",
+      "users": "2",
+      "pageviews_per_session": "1.3333333333333333",
+      "avg_session_duration": "7.333333333333333",
+      "exits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
       "source": "r.search.aol.com",
+      "has_social_referral": "No",
+      "visits": "2",
+      "pageviews": "2",
+      "users": "2",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "t.co",
+      "has_social_referral": "Yes",
+      "visits": "2",
+      "pageviews": "2",
+      "users": "2",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "webmail2.armstrongmywire.com",
       "has_social_referral": "No",
       "visits": "2",
       "pageviews": "2",
@@ -113,40 +135,7 @@
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "source": "mail.yahoo.com",
-      "has_social_referral": "No",
-      "visits": "1",
-      "pageviews": "1",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "source": "searchencrypt.com",
-      "has_social_referral": "No",
-      "visits": "1",
-      "pageviews": "1",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "source": "t.co",
-      "has_social_referral": "Yes",
-      "visits": "1",
-      "pageviews": "1",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "source": "webmail2.armstrongmywire.com",
       "has_social_referral": "No",
       "visits": "1",
       "pageviews": "1",
@@ -169,8 +158,8 @@
     }
   ],
   "totals": {
-    "users": 812,
-    "visits": 1021
+    "users": 777,
+    "visits": 974
   },
-  "taken_at": "2019-03-15T21:22:39.147Z"
+  "taken_at": "2019-03-18T19:44:32.873Z"
 }
