@@ -63,7 +63,6 @@
     "fast-csv": "^2.4.0",
     "googleapis": "^19.0.0",
     "minimist": "^1.2.0",
-    "serve-handler": "^5.0.8",
     "winston-color": "^1.0.0",
     "growl": ">=1.10.0"
   },
