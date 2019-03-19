@@ -11,7 +11,7 @@
   "scripts": {
     "migrate": "`npm bin`/knex migrate:latest",
     "pretest": "NODE_ENV=test npm run migrate",
-    "start": "node app.js",
+    "start": "node ./app/app.js",
     "test": "`npm bin`/mocha test/*.test.js test/**/*.test.js"
   },
   "contributors": [
@@ -60,6 +60,7 @@
   "dependencies": {
     "aws-sdk": "2.58.0",
     "cors": "^2.8.5",
+    "express": "^4.16.4",
     "fast-csv": "^2.4.0",
     "googleapis": "^19.0.0",
     "minimist": "^1.2.0",
