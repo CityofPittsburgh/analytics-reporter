@@ -404,7 +404,7 @@
         "description": "Top cities for active onsite users."
       }
     },
-    
+
     {
       "name": "top-countries-realtime",
       "frequency": "realtime",
@@ -437,7 +437,7 @@
         "description": "Top downloads yesterday"
       }
     },
-    
+
     {
       "name": "top-downloads-7-days",
       "frequency": "daily",
@@ -455,7 +455,7 @@
         "description": "Top downloads in the last 7 days."
       }
     },
-    
+
     {
       "name": "top-downloads-30-days",
       "frequency": "daily",
@@ -473,6 +473,5 @@
         "description": "Top downloads in the last 30 days."
       }
     }
-
   ]
 }
