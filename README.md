@@ -10,33 +10,7 @@ Available reports are named and described in [`reports.json`](reports/reports.js
 
 ### Installation
 
-### Docker
-
-* To build the docker image on your computer, run:
-
-````bash
-export NODE_ENV=development # just needed when developing against the image
-export NODE_ENV=production # to build an image for production
-docker build --build-arg NODE_ENV=${NODE_ENV} -t analytics-reporter .
-````
-
-Then you can create an alias in order to have the analytics command available:
-
-```bash
-alias analytics="docker run -t -v ${HOME}:${HOME} -e ANALYTICS_REPORT_EMAIL -e ANALYTICS_REPORT_IDS -e ANALYTICS_KEY analytics-reporter"
-```
-
-To make this command working as expected you should export the env vars as follows:
-
-```bash
-export ANALYTICS_REPORT_EMAIL=  "your-report-email"
-export ANALYTICS_REPORT_IDS="your-report-ids"
-export ANALYTICS_KEY="your-key"
-```
-
-### NPM
-
-* To run the utility on your computer, install it through npm:
+To run the utility on your computer, install it through npm:
 
 ```bash
 npm install -g analytics-reporter
@@ -121,7 +95,7 @@ If you see a nicely formatted JSON file, you are all set.
 
 * (Optional) Authorize yourself for S3 publishing.
 
-If you plan to use this project's lightweight S3 publishing system, you'll need to add 6 more environment variables:
+If you plan to use this project's lightweight S3 publishing system, you'll need access to the city's AWS account, need to add 6 more environment variables:
 
 ```
 export AWS_REGION=us-east-1
@@ -132,6 +106,7 @@ export AWS_BUCKET=[your-bucket]
 export AWS_BUCKET_PATH=[your-path]
 export AWS_CACHE_TIME=0
 ```
+Ping Nick or James to get the relevant configuration variables.
 
 There are cases where you want to use a custom  object storage server compatible with Amazon S3 APIs, like [minio](https://github.com/minio/minio), in that specific case you should set an extra env variable:
 
@@ -230,8 +205,6 @@ A report might look something like this:
 analytics --output /path/to/data
 ```
 
-*Note that when using the docker image you have to use the absolute path, for example "/home/youruser/path/to/data"*
-
 * `--publish` - Publish to an S3 bucket. Requires AWS environment variables set as described above.
 
 ```bash
@@ -240,7 +213,7 @@ analytics --publish
 
 * `--write-to-database` - write data to a database. Requires a postgres configuration to be set in environment variables as described below.
 
-* `--only` - only run one or more specific reports. Multiple reports are comma separated.
+* `--only` - only run one or more specific reports. Multiple reports are comma-separated.
 
 ```bash
 analytics --only devices
@@ -290,36 +263,15 @@ server that consumes this data.
 To write reports to a database, use the `--write-to-database` option when
 starting the reporter.
 
-
-```
-
-### Developing with Docker
-
-This repo contains a [Docker Compose](https://docs.docker.com/compose/)
-configuration. The reporter is configured to run in the container as if it were
-running in GovCloud. This is helpful for seeing how the reporter will behave
-when deployed without pushing it to cloud.gov.
-
-To start the reporter, first run the `docker-update` script to install the
-necessary dependencies:
-
-```shell
-./bin/docker-update
-```
-
-Note that this script will need to be run again when new dependencies are added
-to update the Docker volumes where the dependencies are stored.
-
-After the dependencies are installed, the reporter can be started using Docker
-Compose:
-
-```shell
-docker-compose up
-```
-
 ### Tests
 
 The first time you run the test suite, you'll need to create a database locally called `analytics_reporter_test`. Then, simply run `npm test`.
+
+### Deploys
+
+There are two versions of the app (staging and production), both deployed via Heroku. In order to deploy, you'll need access to the city's Heroku org (ask James or Nick). From your terminal, set a `staging` remote of https://git.heroku.com/pgh-analytics-reporter-staging.git, and a `prod` remote of https://git.heroku.com/pgh-analytics-reporter-prod.git. 
+
+Always run the test suite (via `npm test`) before any deploy, ensuring that no tests fail. Ideally you should wait a couple days between deployments to staging and to prod in order to allow for some QA in the staging environment, though that may not always be possible in the case of a hot fix. Push your changes and kick off a Heroku deploy via `git push staging master` or `git push prod master`.
 
 ### Public domain
 
