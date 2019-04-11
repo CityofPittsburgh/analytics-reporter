@@ -3,7 +3,7 @@
 A lightweight system for publishing analytics data from Google Analytics profiles. Uses the [Google Analytics Core Reporting API v3](https://developers.google.com/analytics/devguides/reporting/core/v3/) and the [Google Analytics Real Time API v3](https://developers.google.com/analytics/devguides/reporting/realtime/v3/).
 
 This project is built on top of 18F's [`analytics-reporter`](https://github.com/18F/analytics-reporter) tool.
-It's used in combination with [CityofPittsburgh/analytics.pittsburghpa.gov](https://github.com/CityofPittsburgh/analytics.pittsburghpa.gov) to power Pittsburgh's analytics hub, [analytics.pittsburghpa.gov](https://analytics.pittsburghpa.gov).
+It's used in combination with [CityofPittsburgh/analytics.pittsburghpa.gov](https://github.com/CityofPittsburgh/analytics.pittsburghpa.gov) to power Pittsburgh's analytics hub, [webstats.pittsburghpa.gov](http://webstats.pittsburghpa.gov).
 
 Available reports are named and described in [`reports.json`](reports/reports.json). For now, they're hardcoded into the repository.
 
@@ -269,7 +269,7 @@ The first time you run the test suite, you'll need to create a database locally 
 
 ### Deploys
 
-There are two versions of the app (staging and production), both deployed via Heroku. In order to deploy, you'll need access to the city's Heroku org (ask James or Nick). From your terminal, set a `staging` remote of https://git.heroku.com/pgh-analytics-reporter-staging.git, and a `prod` remote of https://git.heroku.com/pgh-analytics-reporter-prod.git. 
+There are two versions of the app (staging and production), both deployed via Heroku. In order to deploy, you'll need access to the city's Heroku org (ask James or Nick). From your terminal, set a `staging` remote of https://git.heroku.com/pgh-analytics-reporter-staging.git, and a `prod` remote of https://git.heroku.com/pgh-analytics-reporter-prod.git.
 
 Always run the test suite (via `npm test`) before any deploy, ensuring that no tests fail. Ideally you should wait a couple days between deployments to staging and to prod in order to allow for some QA in the staging environment, though that may not always be possible in the case of a hot fix. Push your changes and kick off a Heroku deploy via `git push staging master` or `git push prod master`.
 
