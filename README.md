@@ -3,7 +3,7 @@
 A lightweight system for publishing analytics data from Google Analytics profiles. Uses the [Google Analytics Core Reporting API v3](https://developers.google.com/analytics/devguides/reporting/core/v3/) and the [Google Analytics Real Time API v3](https://developers.google.com/analytics/devguides/reporting/realtime/v3/).
 
 This project is built on top of 18F's [`analytics-reporter`](https://github.com/18F/analytics-reporter) tool.
-It's used in combination with [CityofPittsburgh/analytics.pittsburghpa.gov](https://github.com/CityofPittsburgh/analytics.pittsburghpa.gov) to power Pittsburgh's analytics hub, [webstats.pittsburghpa.gov](http://webstats.pittsburghpa.gov).
+It's used in combination with [CityofPittsburgh/webstats.pittsburghpa.gov](https://github.com/CityofPittsburgh/webstats.pittsburghpa.gov) to power Pittsburgh's analytics hub, [webstats.pittsburghpa.gov](http://webstats.pittsburghpa.gov).
 
 Available reports are named and described in [`reports.json`](reports/reports.json). For now, they're hardcoded into the repository.
 
