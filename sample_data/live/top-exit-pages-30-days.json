@@ -26,208 +26,208 @@
   "data": [
     {
       "exit_page": "/",
-      "visits": "7662",
-      "pageviews": "13501",
-      "users": "6221",
-      "pageviews_per_session": "1.762072565909684",
-      "avg_session_duration": "57.490341947272256",
-      "exits": "7662",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/dpw/collection-schedule",
-      "visits": "5809",
-      "pageviews": "9875",
-      "users": "4696",
-      "pageviews_per_session": "1.6999483559993114",
-      "avg_session_duration": "60.16216216216216",
-      "exits": "5809",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/weather/snow-plow-tracker.html",
-      "visits": "2780",
-      "pageviews": "3514",
-      "users": "2259",
-      "pageviews_per_session": "1.2640287769784173",
-      "avg_session_duration": "83.45179856115108",
-      "exits": "2780",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/311/form",
-      "visits": "2709",
-      "pageviews": "5594",
-      "users": "2125",
-      "pageviews_per_session": "2.064968623108158",
-      "avg_session_duration": "97.26541159099298",
-      "exits": "2709",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/weather/snow-plow-tracker",
-      "visits": "2296",
-      "pageviews": "3917",
-      "users": "1898",
-      "pageviews_per_session": "1.7060104529616724",
-      "avg_session_duration": "89.70078397212544",
-      "exits": "2296",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "8835",
+      "pageviews": "15817",
+      "users": "7241",
+      "pageviews_per_session": "1.790265987549519",
+      "avg_session_duration": "68.53367289190719",
+      "exits": "8835",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/finance/taxes/index.html",
-      "visits": "2149",
-      "pageviews": "3700",
-      "users": "1963",
-      "pageviews_per_session": "1.7217310376919497",
-      "avg_session_duration": "123.02652396463472",
-      "exits": "2149",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "3520",
+      "pageviews": "5777",
+      "users": "3152",
+      "pageviews_per_session": "1.6411931818181817",
+      "avg_session_duration": "121.08835227272728",
+      "exits": "3520",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/citiparks/oliver-bath-house",
-      "visits": "1952",
-      "pageviews": "3161",
-      "users": "1378",
-      "pageviews_per_session": "1.6193647540983607",
-      "avg_session_duration": "78.92469262295081",
-      "exits": "1952",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/dpw/collection-schedule",
+      "visits": "3424",
+      "pageviews": "6417",
+      "users": "2729",
+      "pageviews_per_session": "1.874123831775701",
+      "avg_session_duration": "67.06454439252336",
+      "exits": "3424",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/schenley/rink?title=schenley-skating-rink",
-      "visits": "1837",
-      "pageviews": "2232",
-      "users": "1203",
-      "pageviews_per_session": "1.2150244964616221",
-      "avg_session_duration": "67.96080566140446",
-      "exits": "1837",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/schenley/rink",
-      "visits": "1626",
-      "pageviews": "2411",
-      "users": "1082",
-      "pageviews_per_session": "1.482779827798278",
-      "avg_session_duration": "56.29520295202952",
-      "exits": "1626",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/dpw/residential-recycling",
-      "visits": "1195",
-      "pageviews": "1996",
-      "users": "1046",
-      "pageviews_per_session": "1.6702928870292888",
-      "avg_session_duration": "62.51548117154812",
-      "exits": "1195",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/police/",
-      "visits": "1176",
-      "pageviews": "3095",
-      "users": "1129",
-      "pageviews_per_session": "2.631802721088435",
-      "avg_session_duration": "72.76700680272108",
-      "exits": "1176",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/finance/real-estate-taxes",
-      "visits": "1168",
-      "pageviews": "2945",
-      "users": "1067",
-      "pageviews_per_session": "2.521404109589041",
-      "avg_session_duration": "177.46832191780823",
-      "exits": "1168",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/311/form",
+      "visits": "2705",
+      "pageviews": "5693",
+      "users": "2102",
+      "pageviews_per_session": "2.1046210720887246",
+      "avg_session_duration": "110.67024029574861",
+      "exits": "2705",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/finance/tax-forms",
-      "visits": "1152",
-      "pageviews": "3698",
-      "users": "1021",
-      "pageviews_per_session": "3.2100694444444446",
-      "avg_session_duration": "186.57204861111111",
-      "exits": "1152",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/finance/",
-      "visits": "1109",
-      "pageviews": "1807",
-      "users": "989",
-      "pageviews_per_session": "1.6293958521190262",
-      "avg_session_duration": "130.99188458070333",
-      "exits": "1109",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/pli/",
-      "visits": "1079",
-      "pageviews": "2464",
-      "users": "1009",
-      "pageviews_per_session": "2.283595922150139",
-      "avg_session_duration": "101.7126969416126",
-      "exits": "1079",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/dcp/interactive-maps",
-      "visits": "1016",
-      "pageviews": "2424",
-      "users": "726",
-      "pageviews_per_session": "2.3858267716535435",
-      "avg_session_duration": "114.5009842519685",
-      "exits": "1016",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/city-info/frequent-numbers",
-      "visits": "993",
-      "pageviews": "4445",
-      "users": "903",
-      "pageviews_per_session": "4.476334340382679",
-      "avg_session_duration": "221.34541792547836",
-      "exits": "993",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/publicsafety/dog-license",
-      "visits": "921",
-      "pageviews": "2337",
-      "users": "784",
-      "pageviews_per_session": "2.537459283387622",
-      "avg_session_duration": "98.68621064060804",
-      "exits": "921",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "1804",
+      "pageviews": "5612",
+      "users": "1627",
+      "pageviews_per_session": "3.1108647450110865",
+      "avg_session_duration": "180.09478935698448",
+      "exits": "1804",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/finance/taxes/tax-forms.html",
-      "visits": "846",
-      "pageviews": "1574",
-      "users": "796",
-      "pageviews_per_session": "1.8605200945626477",
-      "avg_session_duration": "98.22458628841608",
-      "exits": "846",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "1762",
+      "pageviews": "3397",
+      "users": "1646",
+      "pageviews_per_session": "1.927922814982974",
+      "avg_session_duration": "94.8416572077185",
+      "exits": "1762",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/citiparks/oliver-bath-house",
+      "visits": "1728",
+      "pageviews": "2627",
+      "users": "1192",
+      "pageviews_per_session": "1.5202546296296295",
+      "avg_session_duration": "60.0775462962963",
+      "exits": "1728",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/police/",
+      "visits": "1233",
+      "pageviews": "3475",
+      "users": "1187",
+      "pageviews_per_session": "2.8183292781832927",
+      "avg_session_duration": "67.78183292781833",
+      "exits": "1233",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/pli/",
+      "visits": "1195",
+      "pageviews": "2817",
+      "users": "1111",
+      "pageviews_per_session": "2.3573221757322176",
+      "avg_session_duration": "100.06108786610879",
+      "exits": "1195",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/finance/real-estate-taxes",
+      "visits": "1163",
+      "pageviews": "2718",
+      "users": "1072",
+      "pageviews_per_session": "2.3370593293207222",
+      "avg_session_duration": "142.29234737747205",
+      "exits": "1163",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/city-info/frequent-numbers",
+      "visits": "1159",
+      "pageviews": "5289",
+      "users": "1071",
+      "pageviews_per_session": "4.563416738567731",
+      "avg_session_duration": "250.18809318377913",
+      "exits": "1159",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/dpw/residential-recycling",
+      "visits": "1080",
+      "pageviews": "1820",
+      "users": "955",
+      "pageviews_per_session": "1.6851851851851851",
+      "avg_session_duration": "73.51481481481481",
+      "exits": "1080",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/dcp/interactive-maps",
+      "visits": "1067",
+      "pageviews": "2407",
+      "users": "784",
+      "pageviews_per_session": "2.2558575445173386",
+      "avg_session_duration": "129.02061855670104",
+      "exits": "1067",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/clerk/lic",
+      "visits": "1061",
+      "pageviews": "3119",
+      "users": "717",
+      "pageviews_per_session": "2.939679547596607",
+      "avg_session_duration": "147.38737040527803",
+      "exits": "1061",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/publicsafety/dog-license",
+      "visits": "1022",
+      "pageviews": "2350",
+      "users": "837",
+      "pageviews_per_session": "2.299412915851272",
+      "avg_session_duration": "84.88649706457926",
+      "exits": "1022",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/finance/tax-descriptions",
+      "visits": "936",
+      "pageviews": "3997",
+      "users": "859",
+      "pageviews_per_session": "4.270299145299146",
+      "avg_session_duration": "285.24465811965814",
+      "exits": "936",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/pli/pli-fees/?title=pli-fees",
+      "visits": "932",
+      "pageviews": "4436",
+      "users": "786",
+      "pageviews_per_session": "4.759656652360515",
+      "avg_session_duration": "355.1448497854077",
+      "exits": "932",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/events/farmers-market",
+      "visits": "901",
+      "pageviews": "1339",
+      "users": "760",
+      "pageviews_per_session": "1.486126526082131",
+      "avg_session_duration": "76.30410654827969",
+      "exits": "901",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/dpw/electronic-waste-disposal",
-      "visits": "840",
-      "pageviews": "1392",
-      "users": "741",
-      "pageviews_per_session": "1.6571428571428573",
-      "avg_session_duration": "102.64047619047619",
-      "exits": "840",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "897",
+      "pageviews": "1543",
+      "users": "802",
+      "pageviews_per_session": "1.7201783723522854",
+      "avg_session_duration": "121.06243032329989",
+      "exits": "897",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/finance/",
+      "visits": "877",
+      "pageviews": "1536",
+      "users": "803",
+      "pageviews_per_session": "1.7514253135689852",
+      "avg_session_duration": "122.90763968072976",
+      "exits": "877",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "users": 33036,
-    "visits": 40315
+    "users": 31433,
+    "visits": 37301
   },
-  "taken_at": "2019-03-18T19:48:10.613Z"
+  "taken_at": "2019-04-12T21:50:25.369Z"
 }

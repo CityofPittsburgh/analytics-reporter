@@ -472,6 +472,22 @@
         "name": "Top Downloads (30 Days)",
         "description": "Top downloads in the last 30 days."
       }
+    },
+
+    {
+      "name": "30-days-daily-traffic",
+      "frequency": "daily",
+      "query": {
+        "dimensions": ["ga:date"],
+        "metrics": ["ga:sessions"],
+        "start-date": "30daysAgo",
+        "end-date": "yesterday"
+      },
+      "meta": {
+        "name": "Daily traffic (30 days)",
+        "description": "Traffic by day for the past 30 days."
+      }
     }
+
   ]
 }
