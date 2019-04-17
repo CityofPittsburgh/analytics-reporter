@@ -21,20 +21,20 @@
   },
   "data": [
     {
-      "page_title": "Building Benchmarking Compliance - How to comply | pittsburghpa.gov",
-      "event_label": "/dcp/comply",
-      "page": "/dcp/comply",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "page_title": "Legislative Information Center - Video Streaming | pittsburghpa.gov",
+      "event_label": "/clerk/video-streaming",
+      "page": "/clerk/video-streaming",
+      "total_events": "2",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Public Works - Volunteer Applications | pittsburghpa.gov",
-      "event_label": "/dpw/volunteer-apps/",
-      "page": "/dpw/volunteer-apps/?title=volunteer-apps",
+      "page_title": "City Planning - GIS Links & Resources | pittsburghpa.gov",
+      "event_label": "/dcp/gis-links",
+      "page": "/dcp/gis-links",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:48:11.729Z"
+  "taken_at": "2019-04-12T21:50:26.947Z"
 }

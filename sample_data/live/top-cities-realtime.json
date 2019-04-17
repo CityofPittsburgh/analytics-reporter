@@ -17,70 +17,60 @@
   "data": [
     {
       "city": "Pittsburgh",
-      "active_visitors": "20",
-      "domain": "https://pittsburghpa.gov"
+      "active_visitors": "8",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Clarksburg",
-      "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "city": "New York",
+      "active_visitors": "3",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Herndon",
-      "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "city": "zz",
+      "active_visitors": "2",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Lansdale",
+      "city": "Chicago",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Moon",
+      "city": "Jersey City",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "city": "Mount Lebanon",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "New York",
+      "city": "O'Hara Township",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "city": "Philadelphia",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Pleasant Hills",
+      "city": "Seattle",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Swissvale",
+      "city": "Taylor",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Washington",
+      "city": "Zhengzhou",
       "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "city": "Wheeling",
-      "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "city": "Whitehall",
-      "active_visitors": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:48:10.890Z"
+  "taken_at": "2019-04-12T21:50:25.684Z"
 }

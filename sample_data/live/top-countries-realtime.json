@@ -17,10 +17,20 @@
   "data": [
     {
       "country": "United States",
-      "active_visitors": "32",
-      "domain": "https://pittsburghpa.gov"
+      "active_visitors": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "country": "Taiwan",
+      "active_visitors": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "country": "China",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:48:11.158Z"
+  "taken_at": "2019-04-12T21:50:25.978Z"
 }
