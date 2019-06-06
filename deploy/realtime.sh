@@ -11,24 +11,8 @@ $ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbo
 source $ANALYTICS_ROOT_PATH/deploy/envs/fire-recruitment.env
 $ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
 
-# My Brother's Keeper
-source $ANALYTICS_ROOT_PATH/deploy/envs/my-brothers-keeper.env
-$ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
-
-# OnePGH
-source $ANALYTICS_ROOT_PATH/deploy/envs/one-pgh.env
-$ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
-
-# OneStopPGH
-source $ANALYTICS_ROOT_PATH/deploy/envs/one-stop-pgh.env
-$ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
-
 # Pittsburgh Parking Authority
 source $ANALYTICS_ROOT_PATH/deploy/envs/pittsburgh-parking-authority.env
-$ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
-
-# Pittsburgh Purchasing
-source $ANALYTICS_ROOT_PATH/deploy/envs/pittsburgh-purchasing.env
 $ANALYTICS_ROOT_PATH/bin/analytics --publish --frequency=realtime --slim --verbose
 
 # Police Recruitment
