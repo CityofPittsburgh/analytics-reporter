@@ -16,68 +16,68 @@
   },
   "data": [
     {
-      "page": "/finance/taxes/index.html",
-      "page_title": "View Tax Descriptions | pittsburghpa.gov",
-      "active_visitors": "4",
+      "page": "/publicsafety/blotterview.html",
+      "page_title": "Public Safety Media Blotter",
+      "active_visitors": "8",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/",
-      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "page": "/dpw/collection-schedule",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "active_visitors": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/zoning",
+      "page_title": "Zoning and Development Review Division | pittsburghpa.gov",
       "active_visitors": "2",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/press-releases/press-releases.html?id=2812&fbclid=IwAR0e87QPbMDQ5j8hf1Br_W4w4xccyEZrCpb7Ey1QBIapdF0eruT81y0hsOE",
-      "page_title": "Welcome to the City of Pittsburgh - City Press Releases",
+      "page": "/mayor/imaginationlibrary",
+      "page_title": "Imagination Library Program | pittsburghpa.gov",
       "active_visitors": "2",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/citiparks/swimming-pools-outdoor",
-      "page_title": "Reserve a Facility Online - Park Shelter Rental | pittsburghpa.gov",
+      "page": "/citiparks/after-school-feeding-program",
+      "page_title": "Citiparks - After School Feeding Program | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/dcp/floodplain",
-      "page_title": "Zoning and Development Review Division Floodplain | pittsburghpa.gov",
+      "page": "/citiparks/oliver-bath-house",
+      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/dpw/refuse#stq=how+do+i+get+a+recycle+blue+bin+free+from+city+of+pgh+pa&stp=1",
-      "page_title": "Public Works - Refuse | pittsburghpa.gov",
+      "page": "/citiparks/rec-centers-info",
+      "page_title": "Citiparks Recreational Centers | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/events/permitting/eventapp.html",
-      "page_title": "EVENTAPP - Permits for events | pittsburghpa.gov",
+      "page": "/citiparks/tennis-mellon-center",
+      "page_title": "Mellon Park Tennis Center | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/finance/realestate.html",
-      "page_title": "(not set)",
+      "page": "/dcp/internships",
+      "page_title": "City Planning Internships | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/finance/tax-descriptions",
-      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "page": "/finance/property-sales",
+      "page_title": "Real Estate | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/finance/tax-forms",
-      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "page": "/finance/taxes/tax-forms.html",
-      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
+      "page": "/pli/building-permit",
+      "page_title": "Building Permit | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
@@ -88,8 +88,14 @@
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "page": "/publicsafety/animal-control/stray-animals.html",
-      "page_title": "Stray Animals | pittsburghpa.gov",
+      "page": "/police/police-branches",
+      "page_title": "Police Branches | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page": "/publicsafety/article.htm?id=6364",
+      "page_title": "(not set)",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
@@ -98,20 +104,8 @@
       "page_title": "Dog Licenses | pittsburghpa.gov",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "page": "/publicsafety/ps-contacts",
-      "page_title": "Public Safety Contacts | pittsburghpa.gov",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "page": "/weather/snow-plow-tracker",
-      "page_title": "Snow Plow Tracker App | pittsburghpa.gov",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-04-12T21:50:22.500Z"
+  "taken_at": "2019-05-14T23:02:32.455Z"
 }

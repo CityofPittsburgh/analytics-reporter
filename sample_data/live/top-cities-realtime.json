@@ -17,60 +17,65 @@
   "data": [
     {
       "city": "Pittsburgh",
-      "active_visitors": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "New York",
-      "active_visitors": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "zz",
-      "active_visitors": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "Chicago",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "Jersey City",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "Mount Lebanon",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "O'Hara Township",
-      "active_visitors": "1",
+      "active_visitors": "14",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "city": "Philadelphia",
+      "active_visitors": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Atlanta",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Seattle",
+      "city": "Braddock",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Taylor",
+      "city": "Butler",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "city": "Zhengzhou",
+      "city": "Charlotte",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Munhall",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Natrona Heights",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Newark",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Robinson Township",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Scott Township",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "city": "Vancouver",
       "active_visitors": "1",
       "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-04-12T21:50:25.684Z"
+  "taken_at": "2019-05-14T23:02:38.205Z"
 }
