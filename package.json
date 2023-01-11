@@ -75,7 +75,7 @@
     "proxyquire": "^1.7.11"
   },
   "optionalDependencies": {
-    "knex": "^0.19.5",
+    "knex": "^2.4.0",
     "newrelic": "^1.36.1",
     "pg": "^6.1.2"
   }
